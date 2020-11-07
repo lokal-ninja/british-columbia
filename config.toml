@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/british-columbia"
+languageCode = "en-US"
+title = "British Columbia"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "british-columbia"
