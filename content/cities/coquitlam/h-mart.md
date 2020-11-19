@@ -1,4 +1,4 @@
 ---
-title: "H-Mart"
+title: "H Mart"
 url: /coquitlam/h-mart/
 ---
