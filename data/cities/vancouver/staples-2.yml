@@ -1,12 +1,12 @@
-id: 772530584
-type: way
+id: 8235175290
+type: node
 shop: office supplies
-latitude: 49.279650700000005
-longitude: -123.12121160000001
+latitude: 49.2795895
+longitude: -123.12088890000001
 postcode: "V6B 3M1"
 city: Vancouver
 street: "Seymour Street"
 housenumber: 901
 phone: ""
-opening_hours: ""
-website: "http://www.staples.ca/"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-19:00; Su 10:00-18:00"
+website: ""
