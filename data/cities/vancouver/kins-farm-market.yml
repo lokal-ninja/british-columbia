@@ -1,12 +1,12 @@
-id: 5569314288
+id: 4305378420
 type: node
-shop: supermarket
-latitude: 49.2195436
-longitude: -123.04051390000001
-postcode: ""
+shop: greengrocer
+latitude: 49.2812854
+longitude: -123.132874
+postcode: "V6E 1N1"
 city: Vancouver
-street: "Kerr Street"
-housenumber: 7060
-phone: ""
-opening_hours: ""
+street: "Davie Street"
+housenumber: 150
+phone: "+1-604-687-8081"
+opening_hours: "Mo-Su 10:00-21:00"
 website: ""
