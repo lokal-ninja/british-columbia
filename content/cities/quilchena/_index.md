@@ -1,6 +1,6 @@
 ---
 title: Quilchena
 url: /quilchena/
-latitude: 50.159710200000006
-longitude: -120.51038620000001
+latitude: 50.161343200000005
+longitude: -120.5187614
 ---

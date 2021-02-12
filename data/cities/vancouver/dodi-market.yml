@@ -1,6 +1,5 @@
 id: 1209173521
 type: node
-shop: convenience
 latitude: 49.2743145
 longitude: -123.12210350000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Vancouver
 street: "Davie Street"
 housenumber: 216
 phone: ""
-opening_hours: "Mo-We 08:00-22:00; Th-Sa 08:00-23:00; Su 09:00-20:00"
+opening_hours: "24/7"
 website: ""

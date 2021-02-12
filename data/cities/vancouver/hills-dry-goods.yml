@@ -1,6 +1,5 @@
 id: 6791586072
 type: node
-shop: clothes
 latitude: 49.261059
 longitude: -123.138862
 postcode: "V6H 3J1"
@@ -8,5 +7,5 @@ city: Vancouver
 street: "Granville Street"
 housenumber: 2741
 phone: "+1-604-734-4497"
-opening_hours: "Mo-Sa 10:00-19:00 Su 11:00-18:00"
+opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
 website: "https://hillsdrygoods.com"
