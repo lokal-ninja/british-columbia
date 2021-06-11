@@ -1,5 +1,5 @@
 ---
-title: "SLICKERS Raingear"
+title: "Slickers Raingear"
 url: /prince-rupert/slickers-raingear/
 shop: clothes
 ---
