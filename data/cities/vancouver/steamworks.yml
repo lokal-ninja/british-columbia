@@ -7,5 +7,5 @@ city: Vancouver
 street: "Water Street"
 housenumber: 375
 phone: "+1-604-689-2739"
-opening_hours: "Mo-Th,Su 11:30-12:00; Fr,Sa 11:30-01:00"
+opening_hours: "Su-Th 11:30-00:00; Fr-Sa 11:30-01:00"
 website: "http://steamworks.com/brew-pub"

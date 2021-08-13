@@ -1,6 +1,6 @@
 ---
 title: Naramata
 url: /naramata/
-latitude: 49.5970079
-longitude: -119.60137950000001
+latitude: 49.5981383
+longitude: -119.59961650000001
 ---
