@@ -2,5 +2,5 @@
 title: Vancouver
 url: /vancouver/
 latitude: 49.260872400000004
-longitude: -123.1139529
+longitude: -123.11395200000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MUJI"
+title: "Muji"
 url: /vancouver/muji/
-shop: variety store
+shop: department store
 ---
