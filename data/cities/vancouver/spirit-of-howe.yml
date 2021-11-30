@@ -7,5 +7,5 @@ city: Vancouver
 street: "Granville Street"
 housenumber: 1275
 phone: ""
-opening_hours: "Mo-Su 09:00-23:00"
+opening_hours: "PH,Mo-Su 09:00-23:00"
 website: ""
