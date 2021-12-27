@@ -1,6 +1,6 @@
 ---
 title: Lillooet
 url: /lillooet/
-latitude: 50.693938
-longitude: -121.93369120000001
+latitude: 50.702
+longitude: -121.926
 ---

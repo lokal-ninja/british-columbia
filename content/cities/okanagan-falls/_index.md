@@ -1,6 +1,6 @@
 ---
 title: Okanagan Falls
 url: /okanagan-falls/
-latitude: 49.345466200000004
-longitude: -119.5736145
+latitude: 49.344
+longitude: -119.571
 ---

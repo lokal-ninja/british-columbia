@@ -1,5 +1,5 @@
 ---
 title: "Heisman Barbers"
 url: /richmond/heisman-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yedina"
 url: /vancouver/yedina/
-shop: clothes
+shop: Kleidung
 ---

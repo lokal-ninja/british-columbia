@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /kelowna/boathouse/
-shop: clothes
+shop: Kleidung
 ---

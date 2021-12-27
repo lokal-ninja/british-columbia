@@ -1,5 +1,5 @@
 ---
 title: "Chaise"
 url: /vancouver/chaise/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rossland
 url: /rossland/
-latitude: 49.078475600000004
-longitude: -117.79990260000001
+latitude: 49.077
+longitude: -117.8
 ---

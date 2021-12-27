@@ -1,5 +1,5 @@
 ---
 title: "Glaze Tanning Studio"
 url: /kelowna/glaze-tanning-studio/
-shop: beauty
+shop: Kosmetik
 ---

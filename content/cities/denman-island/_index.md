@@ -1,6 +1,6 @@
 ---
 title: Denman Island
 url: /denman-island/
-latitude: 
-longitude: 
+latitude: 49.535
+longitude: -124.817
 ---

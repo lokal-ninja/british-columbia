@@ -1,5 +1,5 @@
 ---
 title: "Western Mandate"
 url: /delta/western-mandate/
-shop: wholesale
+shop: Großhandel
 ---

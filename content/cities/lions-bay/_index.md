@@ -1,6 +1,6 @@
 ---
 title: Lions Bay
 url: /lions-bay/
-latitude: 49.45875
-longitude: -123.23533
+latitude: 49.46
+longitude: -123.236
 ---

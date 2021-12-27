@@ -1,6 +1,6 @@
 ---
 title: Revelstoke
 url: /revelstoke/
-latitude: 
-longitude: 
+latitude: 50.998
+longitude: -118.197
 ---

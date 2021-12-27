@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /chase/esso/
-shop: convenience
+shop: Lebensmittel
 ---

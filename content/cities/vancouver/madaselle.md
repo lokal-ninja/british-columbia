@@ -1,5 +1,5 @@
 ---
 title: "Madaselle"
 url: /vancouver/madaselle/
-shop: clothes
+shop: Kleidung
 ---

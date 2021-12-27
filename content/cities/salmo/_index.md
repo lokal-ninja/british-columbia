@@ -1,6 +1,6 @@
 ---
 title: Salmo
 url: /salmo/
-latitude: 49.1934431
-longitude: -117.2787054
+latitude: 49.193
+longitude: -117.28
 ---

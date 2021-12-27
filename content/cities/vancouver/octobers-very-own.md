@@ -1,5 +1,5 @@
 ---
 title: "October's Very Own"
 url: /vancouver/octobers-very-own/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bowen Island
 url: /bowen-island/
-latitude: 
-longitude: 
+latitude: 49.379
+longitude: -123.339
 ---

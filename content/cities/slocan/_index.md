@@ -1,6 +1,6 @@
 ---
 title: Slocan
 url: /slocan/
-latitude: 49.767825
-longitude: -117.4660927
+latitude: 49.761
+longitude: -117.467
 ---

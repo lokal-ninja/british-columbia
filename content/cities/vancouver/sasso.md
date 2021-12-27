@@ -1,5 +1,5 @@
 ---
 title: "Sasso"
 url: /vancouver/sasso/
-shop: clothes
+shop: Kleidung
 ---

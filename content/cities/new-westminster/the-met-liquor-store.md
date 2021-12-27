@@ -1,5 +1,5 @@
 ---
 title: "The Met Liquor Store"
 url: /new-westminster/the-met-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

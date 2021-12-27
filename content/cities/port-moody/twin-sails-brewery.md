@@ -1,5 +1,5 @@
 ---
 title: "Twin Sails Brewery"
 url: /port-moody/twin-sails-brewery/
-shop: alcohol
+shop: Spirituosen
 ---

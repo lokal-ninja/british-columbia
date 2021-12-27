@@ -1,6 +1,6 @@
 ---
 title: Summerland
 url: /summerland/
-latitude: 49.6
-longitude: -119.666667
+latitude: 49.581
+longitude: -119.652
 ---

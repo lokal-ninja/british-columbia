@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /langley/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

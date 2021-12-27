@@ -1,5 +1,5 @@
 ---
 title: "Ducatti"
 url: /vancouver/ducatti/
-shop: motorcycle
+shop: Motorrad
 ---

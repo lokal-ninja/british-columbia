@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /rock-creek/husky/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /balmoral/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teassential"
 url: /vernon/teassential/
-shop: tea
+shop: Tee
 ---

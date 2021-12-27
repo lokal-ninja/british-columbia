@@ -1,5 +1,5 @@
 ---
 title: "DLUX Boutique"
 url: /kelowna/dlux-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brian Jessel BMW"
 url: /vancouver/brian-jessel-bmw/
-shop: car
+shop: Autohaus
 ---

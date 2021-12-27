@@ -1,6 +1,6 @@
 ---
 title: Jaffray
 url: /jaffray/
-latitude: 49.371094500000005
-longitude: -115.3010387
+latitude: 49.376
+longitude: -115.298
 ---

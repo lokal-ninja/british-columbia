@@ -1,6 +1,6 @@
 ---
 title: Agassiz
 url: /agassiz/
-latitude: 49.233333
-longitude: -121.76666700000001
+latitude: 49.259
+longitude: -121.804
 ---

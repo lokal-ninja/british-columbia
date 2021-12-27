@@ -1,5 +1,5 @@
 ---
 title: "Max's Deli"
 url: /vancouver/maxs-deli/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Langley
 url: /langley/
-latitude: 
-longitude: 
+latitude: 49.105
+longitude: -122.653
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mount Currie
 url: /mount-currie/
-latitude: 50.3184261
-longitude: -122.72066430000001
+latitude: 50.32
+longitude: -122.722
 ---

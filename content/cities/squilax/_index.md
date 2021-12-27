@@ -1,6 +1,6 @@
 ---
 title: Squilax
 url: /squilax/
-latitude: 50.8695681
-longitude: -119.5950959
+latitude: 50.873
+longitude: -119.586
 ---

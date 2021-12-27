@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /kamloops/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

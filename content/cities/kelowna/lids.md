@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /kelowna/lids/
-shop: clothes
+shop: Kleidung
 ---

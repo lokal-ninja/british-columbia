@@ -1,6 +1,6 @@
 ---
 title: Port Moody
 url: /port-moody/
-latitude: 49.2822243
-longitude: -122.8293424
+latitude: 49.28
+longitude: -122.828
 ---

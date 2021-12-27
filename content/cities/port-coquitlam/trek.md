@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /port-coquitlam/trek/
-shop: bicycle
+shop: Fahrrad
 ---

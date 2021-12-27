@@ -1,5 +1,5 @@
 ---
 title: "Advantage Mini Storage"
 url: /kamloops/advantage-mini-storage/
-shop: storage rental
+shop: Mieten
 ---

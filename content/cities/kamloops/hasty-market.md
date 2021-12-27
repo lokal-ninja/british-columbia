@@ -1,5 +1,5 @@
 ---
 title: "Hasty Market"
 url: /kamloops/hasty-market/
-shop: convenience
+shop: Lebensmittel
 ---

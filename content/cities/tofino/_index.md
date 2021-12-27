@@ -1,6 +1,6 @@
 ---
 title: Tofino
 url: /tofino/
-latitude: 49.1529643
-longitude: -125.90470830000001
+latitude: 49.155
+longitude: -125.907
 ---

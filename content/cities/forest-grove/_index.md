@@ -1,6 +1,6 @@
 ---
 title: Forest Grove
 url: /forest-grove/
-latitude: 51.76724230000001
-longitude: -121.09776740000001
+latitude: 51.767
+longitude: -121.098
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /port-coquitlam/party-city/
-shop: party
+shop: Partyzubehör
 ---

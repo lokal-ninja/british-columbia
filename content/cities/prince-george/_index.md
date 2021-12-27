@@ -1,6 +1,6 @@
 ---
 title: Prince George
 url: /prince-george/
-latitude: 53.912864500000005
-longitude: -122.74536990000001
+latitude: 53.918
+longitude: -122.747
 ---

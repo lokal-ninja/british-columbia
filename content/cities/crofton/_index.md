@@ -1,6 +1,6 @@
 ---
 title: crofton
 url: /crofton/
-latitude: 
-longitude: 
+latitude: 48.865
+longitude: -123.643
 ---

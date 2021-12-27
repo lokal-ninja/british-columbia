@@ -1,6 +1,6 @@
 ---
 title: Greenwood
 url: /greenwood/
-latitude: 49.089585
-longitude: -118.67687600000001
+latitude: 49.091
+longitude: -118.678
 ---

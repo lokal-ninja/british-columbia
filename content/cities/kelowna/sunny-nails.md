@@ -1,5 +1,5 @@
 ---
 title: "Sunny Nails"
 url: /kelowna/sunny-nails/
-shop: beauty
+shop: Kosmetik
 ---

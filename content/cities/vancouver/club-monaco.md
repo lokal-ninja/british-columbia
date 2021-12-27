@@ -1,5 +1,5 @@
 ---
 title: "Club Monaco"
 url: /vancouver/club-monaco/
-shop: clothes
+shop: Kleidung
 ---

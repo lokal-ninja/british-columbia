@@ -1,5 +1,5 @@
 ---
 title: "Kal Tire"
 url: /surrey/kal-tire-2/
-shop: tyres
+shop: Reifen
 ---

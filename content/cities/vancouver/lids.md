@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /vancouver/lids/
-shop: clothes
+shop: Kleidung
 ---

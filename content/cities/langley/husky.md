@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /langley/husky/
-shop: convenience
+shop: Lebensmittel
 ---

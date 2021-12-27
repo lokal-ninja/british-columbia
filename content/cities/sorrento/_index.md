@@ -1,6 +1,6 @@
 ---
 title: Sorrento
 url: /sorrento/
-latitude: 50.876948500000005
-longitude: -119.46993180000001
+latitude: 50.877
+longitude: -119.469
 ---

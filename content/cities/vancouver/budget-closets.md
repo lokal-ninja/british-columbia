@@ -1,5 +1,5 @@
 ---
 title: "Budget Closets"
 url: /vancouver/budget-closets/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pender Island
 url: /pender-island/
-latitude: 
-longitude: 
+latitude: 48.761
+longitude: -123.27
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Potter's"
 url: /surrey/potters/
-shop: garden centre
+shop: Garten-Center
 ---

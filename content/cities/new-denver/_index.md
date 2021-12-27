@@ -1,6 +1,6 @@
 ---
 title: New Denver
 url: /new-denver/
-latitude: 49.990330900000004
-longitude: -117.37718360000001
+latitude: 49.99
+longitude: -117.373
 ---

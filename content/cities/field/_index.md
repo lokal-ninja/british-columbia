@@ -1,6 +1,6 @@
 ---
 title: Field
 url: /field/
-latitude: 51.3961113
-longitude: -116.4891525
+latitude: 51.399
+longitude: -116.49
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /burnaby/dollarama/
-shop: variety store
+shop: Kramladen
 ---

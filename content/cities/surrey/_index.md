@@ -1,6 +1,6 @@
 ---
 title: Surrey
 url: /surrey/
-latitude: 
-longitude: 
+latitude: 49.2
+longitude: -122.811
 ---

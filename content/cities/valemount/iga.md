@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /valemount/iga/
-shop: supermarket
+shop: Supermarkt
 ---

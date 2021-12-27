@@ -1,6 +1,6 @@
 ---
 title: Fraser Lake
 url: /fraser-lake/
-latitude: 54.0602917
-longitude: -124.843962
+latitude: 54.061
+longitude: -124.911
 ---

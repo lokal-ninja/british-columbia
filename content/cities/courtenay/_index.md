@@ -1,6 +1,6 @@
 ---
 title: Courtenay
 url: /courtenay/
-latitude: 49.68940610000001
-longitude: -124.99549590000001
+latitude: 49.669
+longitude: -124.98
 ---

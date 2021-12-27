@@ -1,5 +1,5 @@
 ---
 title: "Centex"
 url: /salmo/centex/
-shop: convenience
+shop: Lebensmittel
 ---

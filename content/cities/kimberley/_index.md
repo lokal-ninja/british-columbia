@@ -1,6 +1,6 @@
 ---
 title: Kimberley
 url: /kimberley/
-latitude: 49.6850876
-longitude: -115.9819477
+latitude: 49.635
+longitude: -115.944
 ---

@@ -1,6 +1,6 @@
 ---
 title: Port Hardy
 url: /port-hardy/
-latitude: 
-longitude: 
+latitude: 50.72
+longitude: -127.494
 ---

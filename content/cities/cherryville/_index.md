@@ -1,6 +1,6 @@
 ---
 title: Cherryville
 url: /cherryville/
-latitude: 50.2446399
-longitude: -118.61860100000001
+latitude: 50.244
+longitude: -118.604
 ---

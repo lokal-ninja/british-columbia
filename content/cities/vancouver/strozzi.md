@@ -1,5 +1,5 @@
 ---
 title: "Strozzi"
 url: /vancouver/strozzi/
-shop: optician
+shop: Optiker
 ---

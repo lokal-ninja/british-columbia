@@ -1,5 +1,5 @@
 ---
 title: "Bâtard"
 url: /vancouver/batard/
-shop: bakery
+shop: Bäckerei
 ---

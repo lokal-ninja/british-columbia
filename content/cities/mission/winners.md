@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /mission/winners/
-shop: clothes
+shop: Kleidung
 ---

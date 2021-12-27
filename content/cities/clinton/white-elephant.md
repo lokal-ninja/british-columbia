@@ -1,5 +1,5 @@
 ---
 title: "White Elephant"
 url: /clinton/white-elephant/
-shop: antiques
+shop: Antiquitäten
 ---

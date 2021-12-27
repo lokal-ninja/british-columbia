@@ -1,5 +1,5 @@
 ---
 title: "Fujiya"
 url: /richmond/fujiya/
-shop: convenience
+shop: Lebensmittel
 ---

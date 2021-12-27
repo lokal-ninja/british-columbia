@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /chemainus/utopia/
-shop: bakery
+shop: Bäckerei
 ---

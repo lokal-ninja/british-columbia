@@ -1,6 +1,6 @@
 ---
 title: Whistler
 url: /whistler/
-latitude: 
-longitude: 
+latitude: 50.115
+longitude: -122.956
 ---

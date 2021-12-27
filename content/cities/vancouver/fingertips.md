@@ -1,5 +1,5 @@
 ---
 title: "Fingertips"
 url: /vancouver/fingertips/
-shop: beauty
+shop: Kosmetik
 ---

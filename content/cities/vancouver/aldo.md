@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /vancouver/aldo/
-shop: shoes
+shop: Schuhe
 ---

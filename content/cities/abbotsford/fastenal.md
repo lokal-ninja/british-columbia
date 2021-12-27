@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /abbotsford/fastenal/
-shop: trade
+shop: Baustoffe
 ---

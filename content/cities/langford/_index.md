@@ -1,6 +1,6 @@
 ---
 title: Langford
 url: /langford/
-latitude: 48.4497693
-longitude: -123.5046662
+latitude: 48.448
+longitude: -123.5
 ---

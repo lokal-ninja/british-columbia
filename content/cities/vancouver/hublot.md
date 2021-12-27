@@ -1,5 +1,5 @@
 ---
 title: "Hublot"
 url: /vancouver/hublot/
-shop: watches
+shop: Uhren
 ---

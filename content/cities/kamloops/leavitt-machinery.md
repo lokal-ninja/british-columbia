@@ -1,5 +1,5 @@
 ---
 title: "Leavitt Machinery"
 url: /kamloops/leavitt-machinery/
-shop: shop
+shop: Allgemein
 ---

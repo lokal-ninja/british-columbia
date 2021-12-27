@@ -1,6 +1,6 @@
 ---
 title: Oak Bay
 url: /oak-bay/
-latitude: 
-longitude: 
+latitude: 48.438
+longitude: -123.312
 ---

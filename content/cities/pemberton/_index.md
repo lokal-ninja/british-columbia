@@ -1,6 +1,6 @@
 ---
 title: Pemberton
 url: /pemberton/
-latitude: 50.320380400000005
-longitude: -122.8080783
+latitude: 50.316
+longitude: -122.726
 ---

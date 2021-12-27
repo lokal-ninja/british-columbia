@@ -1,6 +1,6 @@
 ---
 title: Chase
 url: /chase/
-latitude: 50.8193356
-longitude: -119.68617730000001
+latitude: 50.771
+longitude: -119.723
 ---

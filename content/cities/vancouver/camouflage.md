@@ -1,5 +1,5 @@
 ---
 title: "Camouflage"
 url: /vancouver/camouflage/
-shop: clothes
+shop: Kleidung
 ---

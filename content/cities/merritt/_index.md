@@ -1,6 +1,6 @@
 ---
 title: Merritt
 url: /merritt/
-latitude: 
-longitude: 
+latitude: 50.109
+longitude: -120.79
 ---

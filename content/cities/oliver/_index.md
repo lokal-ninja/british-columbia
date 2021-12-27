@@ -1,6 +1,6 @@
 ---
 title: Oliver
 url: /oliver/
-latitude: 49.183333000000005
-longitude: -119.55000000000001
+latitude: 49.186
+longitude: -119.55
 ---

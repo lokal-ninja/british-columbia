@@ -1,6 +1,6 @@
 ---
 title: Fernie
 url: /fernie/
-latitude: 49.5041747
-longitude: -115.06286700000001
+latitude: 49.505
+longitude: -115.06
 ---

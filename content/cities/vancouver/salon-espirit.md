@@ -1,5 +1,5 @@
 ---
 title: "Salon Espirit"
 url: /vancouver/salon-espirit/
-shop: hairdresser
+shop: Friseur
 ---

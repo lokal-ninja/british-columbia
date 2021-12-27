@@ -1,5 +1,5 @@
 ---
 title: "Revolucion"
 url: /vancouver/revolucion/
-shop: gift
+shop: Andenken
 ---

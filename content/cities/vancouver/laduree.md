@@ -1,5 +1,5 @@
 ---
 title: "Ladurée"
 url: /vancouver/laduree/
-shop: bakery
+shop: Bäckerei
 ---

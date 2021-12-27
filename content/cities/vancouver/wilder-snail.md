@@ -1,5 +1,5 @@
 ---
 title: "Wilder Snail"
 url: /vancouver/wilder-snail/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

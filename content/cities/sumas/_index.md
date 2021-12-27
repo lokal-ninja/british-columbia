@@ -1,6 +1,6 @@
 ---
 title: Sumas
 url: /sumas/
-latitude: 
-longitude: 
+latitude: 49.001
+longitude: -122.266
 ---

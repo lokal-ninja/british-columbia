@@ -1,6 +1,6 @@
 ---
 title: Rock Creek
 url: /rock-creek/
-latitude: 49.058078
-longitude: -118.998632
+latitude: 49.056
+longitude: -118.999
 ---

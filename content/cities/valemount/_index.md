@@ -1,6 +1,6 @@
 ---
 title: Valemount
 url: /valemount/
-latitude: 52.8315124
-longitude: -119.280579
+latitude: 52.868
+longitude: -119.301
 ---

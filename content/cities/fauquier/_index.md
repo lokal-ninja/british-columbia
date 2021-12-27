@@ -1,6 +1,6 @@
 ---
 title: Fauquier
 url: /fauquier/
-latitude: 49.8714919
-longitude: -118.0723997
+latitude: 49.873
+longitude: -118.073
 ---

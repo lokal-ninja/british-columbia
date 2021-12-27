@@ -1,5 +1,5 @@
 ---
 title: "Well Seasoned"
 url: /langley-township/well-seasoned/
-shop: supermarket
+shop: Supermarkt
 ---

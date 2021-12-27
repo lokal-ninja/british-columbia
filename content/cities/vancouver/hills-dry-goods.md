@@ -1,5 +1,5 @@
 ---
 title: "Hill's Dry Goods"
 url: /vancouver/hills-dry-goods/
-shop: clothes
+shop: Kleidung
 ---

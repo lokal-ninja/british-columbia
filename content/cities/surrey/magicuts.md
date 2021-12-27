@@ -1,5 +1,5 @@
 ---
 title: "Magicuts"
 url: /surrey/magicuts/
-shop: hairdresser
+shop: Friseur
 ---

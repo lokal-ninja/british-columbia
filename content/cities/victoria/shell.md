@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /victoria/shell/
-shop: convenience
+shop: Lebensmittel
 ---

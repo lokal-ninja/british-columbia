@@ -1,5 +1,5 @@
 ---
 title: "East Village Bakery"
 url: /vancouver/east-village-bakery/
-shop: bakery
+shop: Bäckerei
 ---

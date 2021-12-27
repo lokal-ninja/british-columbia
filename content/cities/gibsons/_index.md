@@ -1,6 +1,6 @@
 ---
 title: Gibsons
 url: /gibsons/
-latitude: 49.4006197
-longitude: -123.5089186
+latitude: 49.407
+longitude: -123.528
 ---

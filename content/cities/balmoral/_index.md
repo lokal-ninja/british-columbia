@@ -1,6 +1,6 @@
 ---
 title: Balmoral
 url: /balmoral/
-latitude: 50.852712800000006
-longitude: -119.343117
+latitude: 50.853
+longitude: -119.354
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saanichton
 url: /saanichton/
-latitude: 
-longitude: 
+latitude: 48.587
+longitude: -123.428
 ---

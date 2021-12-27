@@ -1,5 +1,5 @@
 ---
 title: "Mohawk"
 url: /kaslo/mohawk/
-shop: convenience
+shop: Lebensmittel
 ---

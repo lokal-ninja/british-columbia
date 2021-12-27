@@ -1,6 +1,6 @@
 ---
 title: Castlegar
 url: /castlegar/
-latitude: 49.316171000000004
-longitude: -117.66357400000001
+latitude: 49.294
+longitude: -117.654
 ---

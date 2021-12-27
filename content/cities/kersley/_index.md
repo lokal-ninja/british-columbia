@@ -1,6 +1,6 @@
 ---
 title: Kersley
 url: /kersley/
-latitude: 52.8228511
-longitude: -122.41112360000001
+latitude: 52.832
+longitude: -122.419
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sechelt
 url: /sechelt/
-latitude: 
-longitude: 
+latitude: 49.476
+longitude: -123.756
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glade
 url: /glade/
-latitude: 49.39540220000001
-longitude: -117.53597810000001
+latitude: 49.411
+longitude: -117.54
 ---

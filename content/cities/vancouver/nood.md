@@ -1,5 +1,5 @@
 ---
 title: "Nood"
 url: /vancouver/nood/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sardis
 url: /sardis/
-latitude: 
-longitude: 
+latitude: 49.106
+longitude: -121.962
 ---

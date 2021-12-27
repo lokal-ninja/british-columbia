@@ -1,6 +1,6 @@
 ---
 title: Wasa
 url: /wasa/
-latitude: 49.789526
-longitude: -115.7465995
+latitude: 49.791
+longitude: -115.747
 ---

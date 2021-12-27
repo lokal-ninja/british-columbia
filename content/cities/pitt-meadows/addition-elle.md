@@ -1,5 +1,5 @@
 ---
 title: "Addition Elle"
 url: /pitt-meadows/addition-elle/
-shop: clothes
+shop: Kleidung
 ---

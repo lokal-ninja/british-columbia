@@ -1,5 +1,5 @@
 ---
 title: "P.Tography"
 url: /blind-bay/p-tography/
-shop: photo
+shop: Foto
 ---

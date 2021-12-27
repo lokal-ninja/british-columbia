@@ -1,5 +1,5 @@
 ---
 title: "Coco's"
 url: /vancouver/cocos/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /vancouver/salvation-army-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

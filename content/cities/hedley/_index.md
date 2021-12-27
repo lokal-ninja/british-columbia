@@ -1,6 +1,6 @@
 ---
 title: Hedley
 url: /hedley/
-latitude: 49.358206300000006
-longitude: -120.07625
+latitude: 49.356
+longitude: -120.077
 ---

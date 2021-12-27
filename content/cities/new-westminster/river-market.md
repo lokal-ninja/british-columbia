@@ -1,5 +1,5 @@
 ---
 title: "River Market"
 url: /new-westminster/river-market/
-shop: mall
+shop: Einkaufszentrum
 ---

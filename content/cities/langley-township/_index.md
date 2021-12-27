@@ -1,6 +1,6 @@
 ---
 title: Langley Township
 url: /langley-township/
-latitude: 49.120294200000004
-longitude: -122.65933100000001
+latitude: 49.119
+longitude: -122.659
 ---

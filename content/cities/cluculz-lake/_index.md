@@ -1,6 +1,6 @@
 ---
 title: Cluculz Lake
 url: /cluculz-lake/
-latitude: 
-longitude: 
+latitude: 53.912
+longitude: -123.595
 ---

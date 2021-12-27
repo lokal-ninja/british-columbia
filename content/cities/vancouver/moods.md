@@ -1,5 +1,5 @@
 ---
 title: "Moods"
 url: /vancouver/moods/
-shop: hairdresser
+shop: Friseur
 ---

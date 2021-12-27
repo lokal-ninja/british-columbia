@@ -1,6 +1,6 @@
 ---
 title: China Creek
 url: /china-creek/
-latitude: 
-longitude: 
+latitude: 49.222
+longitude: -117.693
 ---

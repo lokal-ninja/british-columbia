@@ -1,6 +1,6 @@
 ---
 title: Quesnel
 url: /quesnel/
-latitude: 52.979427900000005
-longitude: -122.49362730000001
+latitude: 52.966
+longitude: -122.442
 ---

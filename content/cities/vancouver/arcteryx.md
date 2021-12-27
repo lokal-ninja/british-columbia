@@ -1,5 +1,5 @@
 ---
 title: "Arc'Teryx"
 url: /vancouver/arcteryx/
-shop: outdoor
+shop: Outdoor
 ---

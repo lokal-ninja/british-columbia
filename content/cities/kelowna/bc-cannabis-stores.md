@@ -1,5 +1,5 @@
 ---
 title: "BC Cannabis Stores"
 url: /kelowna/bc-cannabis-stores/
-shop: cannabis
+shop: Hanf
 ---

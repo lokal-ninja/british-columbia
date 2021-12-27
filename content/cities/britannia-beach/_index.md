@@ -1,6 +1,6 @@
 ---
 title: Britannia Beach
 url: /britannia-beach/
-latitude: 49.626392
-longitude: -123.206005
+latitude: 49.624
+longitude: -123.206
 ---

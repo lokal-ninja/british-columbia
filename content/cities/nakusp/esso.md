@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /nakusp/esso/
-shop: convenience
+shop: Lebensmittel
 ---

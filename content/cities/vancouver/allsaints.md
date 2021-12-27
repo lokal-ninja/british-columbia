@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /vancouver/allsaints/
-shop: clothes
+shop: Kleidung
 ---

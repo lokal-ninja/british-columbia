@@ -1,5 +1,5 @@
 ---
 title: "Flowerbox"
 url: /vancouver/flowerbox/
-shop: florist
+shop: Blumen
 ---
