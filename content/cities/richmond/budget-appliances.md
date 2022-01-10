@@ -1,5 +1,5 @@
 ---
 title: "Budget Appliances"
 url: /richmond/budget-appliances/
-shop: Allgemein
+shop: shop
 ---

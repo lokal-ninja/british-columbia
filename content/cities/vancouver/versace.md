@@ -1,5 +1,5 @@
 ---
 title: "Versace"
 url: /vancouver/versace/
-shop: Kleidung
+shop: clothes
 ---

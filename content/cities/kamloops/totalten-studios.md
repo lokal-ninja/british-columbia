@@ -1,5 +1,5 @@
 ---
 title: "TotalTen Studios"
 url: /kamloops/totalten-studios/
-shop: Kosmetik
+shop: beauty
 ---

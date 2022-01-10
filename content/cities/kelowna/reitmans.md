@@ -1,5 +1,5 @@
 ---
 title: "Reitmans"
 url: /kelowna/reitmans/
-shop: Kleidung
+shop: clothes
 ---

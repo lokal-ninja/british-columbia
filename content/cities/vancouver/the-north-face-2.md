@@ -1,5 +1,5 @@
 ---
 title: "The North Face"
 url: /vancouver/the-north-face-2/
-shop: Kleidung
+shop: clothes
 ---

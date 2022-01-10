@@ -1,5 +1,5 @@
 ---
 title: "CBA"
 url: /crawford-bay/cba/
-shop: Lebensmittel
+shop: convenience
 ---

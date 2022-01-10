@@ -1,5 +1,5 @@
 ---
 title: "Superior Dollar Store"
 url: /vancouver/superior-dollar-store/
-shop: Kramladen
+shop: variety store
 ---

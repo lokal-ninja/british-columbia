@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /vancouver/miniso/
-shop: Kramladen
+shop: variety store
 ---

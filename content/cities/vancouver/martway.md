@@ -1,5 +1,5 @@
 ---
 title: "Martway"
 url: /vancouver/martway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Straws By Design"
 url: /kelowna/straws-by-design/
-shop: Allgemein
+shop: shop
 ---

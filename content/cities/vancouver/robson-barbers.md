@@ -1,5 +1,5 @@
 ---
 title: "Robson Barbers"
 url: /vancouver/robson-barbers/
-shop: Friseur
+shop: hairdresser
 ---

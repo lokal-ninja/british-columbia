@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /barriere/esso/
-shop: Lebensmittel
+shop: convenience
 ---

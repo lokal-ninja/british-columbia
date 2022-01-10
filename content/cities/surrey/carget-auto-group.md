@@ -1,5 +1,5 @@
 ---
 title: "Carget Auto Group"
 url: /surrey/carget-auto-group/
-shop: Autohaus
+shop: car
 ---

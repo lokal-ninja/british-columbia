@@ -1,5 +1,5 @@
 ---
 title: "Michele Cake Shop"
 url: /vancouver/michele-cake-shop/
-shop: Bäckerei
+shop: bakery
 ---

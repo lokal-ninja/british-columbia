@@ -1,5 +1,5 @@
 ---
 title: "Pharmasave"
 url: /vancouver/pharmasave/
-shop: Drogerie
+shop: chemist
 ---

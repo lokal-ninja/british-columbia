@@ -1,5 +1,5 @@
 ---
 title: "Arteminisia"
 url: /vancouver/arteminisia/
-shop: Kleidung
+shop: clothes
 ---

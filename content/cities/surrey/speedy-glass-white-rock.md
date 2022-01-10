@@ -1,5 +1,5 @@
 ---
 title: "Speedy Glass White Rock"
 url: /surrey/speedy-glass-white-rock/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ed's Linens"
 url: /port-coquitlam/eds-linens/
-shop: Raumausstattung
+shop: interior decoration
 ---

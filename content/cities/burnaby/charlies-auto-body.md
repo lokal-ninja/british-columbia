@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Auto Body"
 url: /burnaby/charlies-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

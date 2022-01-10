@@ -1,5 +1,5 @@
 ---
 title: "RP Electronics"
 url: /burnaby/rp-electronics/
-shop: Radiotechnik
+shop: radiotechnics
 ---

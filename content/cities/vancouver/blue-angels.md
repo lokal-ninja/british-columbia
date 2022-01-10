@@ -1,5 +1,5 @@
 ---
 title: "Blue Angels"
 url: /vancouver/blue-angels/
-shop: Lebensmittel
+shop: convenience
 ---

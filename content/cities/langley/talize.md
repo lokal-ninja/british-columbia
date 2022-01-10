@@ -1,5 +1,5 @@
 ---
 title: "Talize"
 url: /langley/talize/
-shop: Gebrauchtwaren
+shop: charity
 ---

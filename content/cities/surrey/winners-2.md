@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /surrey/winners-2/
-shop: Kleidung
+shop: clothes
 ---

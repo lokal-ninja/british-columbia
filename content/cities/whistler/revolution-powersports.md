@@ -1,5 +1,5 @@
 ---
 title: "Revolution Powersports"
 url: /whistler/revolution-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

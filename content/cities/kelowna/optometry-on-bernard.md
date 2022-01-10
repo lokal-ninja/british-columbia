@@ -1,5 +1,5 @@
 ---
 title: "Optometry on Bernard"
 url: /kelowna/optometry-on-bernard/
-shop: Optiker
+shop: optician
 ---

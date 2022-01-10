@@ -1,5 +1,5 @@
 ---
 title: "Oak+Fort"
 url: /vancouver/oak-fort/
-shop: Kleidung
+shop: clothes
 ---

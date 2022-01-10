@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /nanaimo/penningtons/
-shop: Kleidung
+shop: clothes
 ---

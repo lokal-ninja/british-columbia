@@ -1,5 +1,5 @@
 ---
 title: "Relax the Back"
 url: /victoria/relax-the-back/
-shop: Betten
+shop: bed
 ---

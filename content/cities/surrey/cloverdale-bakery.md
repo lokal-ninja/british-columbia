@@ -1,5 +1,5 @@
 ---
 title: "Cloverdale Bakery"
 url: /surrey/cloverdale-bakery/
-shop: Bäckerei
+shop: bakery
 ---

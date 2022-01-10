@@ -1,5 +1,5 @@
 ---
 title: "Vinoscenti Vineyards"
 url: /surrey/vinoscenti-vineyards/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coastal Cake Company"
 url: /parksville/coastal-cake-company/
-shop: Bäckerei
+shop: bakery
 ---

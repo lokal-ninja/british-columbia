@@ -1,5 +1,5 @@
 ---
 title: "Southland Farm Market"
 url: /vancouver/southland-farm-market/
-shop: Lebensmittel
+shop: convenience
 ---

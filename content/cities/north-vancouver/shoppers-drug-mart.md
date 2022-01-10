@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Drug Mart"
 url: /north-vancouver/shoppers-drug-mart/
-shop: Drogerie
+shop: chemist
 ---

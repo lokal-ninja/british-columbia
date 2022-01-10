@@ -1,5 +1,5 @@
 ---
 title: "Venue Financial"
 url: /esquimalt/venue-financial/
-shop: Leiher
+shop: pawnbroker
 ---

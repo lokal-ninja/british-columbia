@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /gibsons/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

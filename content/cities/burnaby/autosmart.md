@@ -1,5 +1,5 @@
 ---
 title: "AutoSmart"
 url: /burnaby/autosmart/
-shop: Autowerkstatt
+shop: car repair
 ---

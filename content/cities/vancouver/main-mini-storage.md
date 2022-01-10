@@ -1,5 +1,5 @@
 ---
 title: "Main Mini Storage"
 url: /vancouver/main-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

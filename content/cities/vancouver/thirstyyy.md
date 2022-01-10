@@ -1,5 +1,5 @@
 ---
 title: "THiRSTYYY"
 url: /vancouver/thirstyyy/
-shop: Lebensmittel
+shop: convenience
 ---

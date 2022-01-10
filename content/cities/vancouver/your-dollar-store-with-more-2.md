@@ -1,5 +1,5 @@
 ---
-title: "Your Dollar Store With More"
+title: "Your Dollar Store with More"
 url: /vancouver/your-dollar-store-with-more-2/
-shop: Kramladen
+shop: variety store
 ---

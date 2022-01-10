@@ -1,5 +1,5 @@
 ---
 title: "Silver Orchid"
 url: /vancouver/silver-orchid/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Icebreaker"
 url: /vancouver/icebreaker-2/
-shop: Kleidung
+shop: clothes
 ---

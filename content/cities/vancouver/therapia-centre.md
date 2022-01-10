@@ -1,5 +1,5 @@
 ---
 title: "Therapia Centre"
 url: /vancouver/therapia-centre/
-shop: Massage
+shop: massage
 ---

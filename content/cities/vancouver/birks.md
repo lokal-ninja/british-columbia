@@ -1,5 +1,5 @@
 ---
 title: "Birks"
 url: /vancouver/birks/
-shop: Schmuck
+shop: jewelry
 ---

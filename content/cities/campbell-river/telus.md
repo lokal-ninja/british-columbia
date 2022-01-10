@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /campbell-river/telus/
-shop: Handy
+shop: mobile phone
 ---

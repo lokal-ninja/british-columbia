@@ -1,5 +1,5 @@
 ---
 title: "Mavi"
 url: /vancouver/mavi/
-shop: Kleidung
+shop: clothes
 ---

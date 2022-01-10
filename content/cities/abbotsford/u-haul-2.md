@@ -1,5 +1,5 @@
 ---
 title: "U-HAUL"
 url: /abbotsford/u-haul-2/
-shop: Allgemein
+shop: shop
 ---

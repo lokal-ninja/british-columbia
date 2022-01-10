@@ -1,5 +1,5 @@
 ---
 title: "Team West Auto Group"
 url: /coquitlam/team-west-auto-group/
-shop: Autohaus
+shop: car
 ---

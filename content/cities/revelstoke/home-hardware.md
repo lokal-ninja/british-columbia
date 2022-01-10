@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /revelstoke/home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

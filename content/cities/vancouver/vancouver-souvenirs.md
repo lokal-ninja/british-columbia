@@ -1,5 +1,5 @@
 ---
 title: "Vancouver Souvenirs"
 url: /vancouver/vancouver-souvenirs/
-shop: Andenken
+shop: gift
 ---

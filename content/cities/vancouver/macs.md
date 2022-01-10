@@ -1,5 +1,5 @@
 ---
 title: "Mac's"
 url: /vancouver/macs/
-shop: Lebensmittel
+shop: convenience
 ---

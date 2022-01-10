@@ -1,5 +1,5 @@
 ---
 title: "Alder Auto Parts"
 url: /surrey/alder-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

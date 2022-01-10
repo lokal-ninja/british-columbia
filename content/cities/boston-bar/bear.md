@@ -1,5 +1,5 @@
 ---
 title: "Bear"
 url: /boston-bar/bear/
-shop: Lebensmittel
+shop: convenience
 ---

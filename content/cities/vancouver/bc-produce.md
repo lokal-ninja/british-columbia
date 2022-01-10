@@ -1,5 +1,5 @@
 ---
 title: "BC Produce"
 url: /vancouver/bc-produce/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /salmon-arm/telus/
-shop: Handy
+shop: mobile phone
 ---

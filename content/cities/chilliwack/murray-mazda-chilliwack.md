@@ -1,5 +1,5 @@
 ---
 title: "Murray Mazda Chilliwack"
 url: /chilliwack/murray-mazda-chilliwack/
-shop: Autohaus
+shop: car
 ---

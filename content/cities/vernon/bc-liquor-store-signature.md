@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor Store (Signature)"
 url: /vernon/bc-liquor-store-signature/
-shop: Spirituosen
+shop: alcohol
 ---

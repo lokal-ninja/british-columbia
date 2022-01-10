@@ -1,5 +1,5 @@
 ---
 title: "Vancity Laptop"
 url: /vancouver/vancity-laptop/
-shop: Computer
+shop: computer
 ---

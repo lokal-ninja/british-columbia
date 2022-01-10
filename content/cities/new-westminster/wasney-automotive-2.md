@@ -1,5 +1,5 @@
 ---
 title: "Wasney Automotive"
 url: /new-westminster/wasney-automotive-2/
-shop: Autoteile
+shop: car parts
 ---

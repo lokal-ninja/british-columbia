@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /nanaimo/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

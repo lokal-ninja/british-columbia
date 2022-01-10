@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /victoria/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

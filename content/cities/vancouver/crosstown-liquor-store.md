@@ -1,5 +1,5 @@
 ---
 title: "Crosstown Liquor Store"
 url: /vancouver/crosstown-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

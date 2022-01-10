@@ -1,5 +1,5 @@
 ---
 title: "JoieFarm"
 url: /naramata/joiefarm/
-shop: Spirituosen
+shop: alcohol
 ---

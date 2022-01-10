@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /kamloops/volkswagen/
-shop: Autowerkstatt
+shop: car repair
 ---

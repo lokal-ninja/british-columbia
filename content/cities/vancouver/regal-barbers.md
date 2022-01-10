@@ -1,5 +1,5 @@
 ---
 title: "Regal Barbers"
 url: /vancouver/regal-barbers/
-shop: Friseur
+shop: hairdresser
 ---

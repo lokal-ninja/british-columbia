@@ -1,5 +1,5 @@
 ---
 title: "Rockshop"
 url: /vancouver/rockshop/
-shop: Kleidung
+shop: clothes
 ---

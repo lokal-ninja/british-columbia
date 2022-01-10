@@ -1,5 +1,5 @@
 ---
 title: "Modu Hair Salon"
 url: /vancouver/modu-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

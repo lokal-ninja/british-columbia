@@ -1,5 +1,5 @@
 ---
 title: "Stylezone Fashions"
 url: /squamish/stylezone-fashions/
-shop: Allgemein
+shop: shop
 ---

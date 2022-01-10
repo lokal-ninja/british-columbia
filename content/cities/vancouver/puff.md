@@ -1,5 +1,5 @@
 ---
 title: "Puff"
 url: /vancouver/puff/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

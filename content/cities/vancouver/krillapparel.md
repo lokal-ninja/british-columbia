@@ -1,5 +1,5 @@
 ---
 title: "Krillapparel"
 url: /vancouver/krillapparel/
-shop: Kleidung
+shop: clothes
 ---

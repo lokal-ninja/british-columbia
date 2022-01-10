@@ -1,5 +1,5 @@
 ---
 title: "Urban Fare"
 url: /vancouver/urban-fare-2/
-shop: Supermarkt
+shop: supermarket
 ---

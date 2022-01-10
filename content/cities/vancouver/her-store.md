@@ -1,5 +1,5 @@
 ---
 title: "HER Store"
 url: /vancouver/her-store/
-shop: Kleidung
+shop: clothes
 ---

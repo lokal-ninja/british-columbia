@@ -1,5 +1,5 @@
 ---
 title: "Chalo FreshCo"
 url: /surrey/chalo-freshco/
-shop: Supermarkt
+shop: supermarket
 ---

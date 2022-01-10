@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /richmond/hugo-boss/
-shop: Kleidung
+shop: clothes
 ---

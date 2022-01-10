@@ -1,5 +1,5 @@
 ---
 title: "La Casa Gelato"
 url: /vancouver/la-casa-gelato/
-shop: Eisprodukte
+shop: ice cream
 ---

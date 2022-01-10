@@ -1,5 +1,5 @@
 ---
 title: "Ingledew's"
 url: /vancouver/ingledews/
-shop: Schuhe
+shop: shoes
 ---

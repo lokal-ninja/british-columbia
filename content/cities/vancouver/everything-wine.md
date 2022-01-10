@@ -1,5 +1,5 @@
 ---
 title: "Everything Wine"
 url: /vancouver/everything-wine/
-shop: Wein
+shop: wine
 ---

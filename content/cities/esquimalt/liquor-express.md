@@ -1,5 +1,5 @@
 ---
 title: "Liquor Express"
 url: /esquimalt/liquor-express/
-shop: Spirituosen
+shop: alcohol
 ---

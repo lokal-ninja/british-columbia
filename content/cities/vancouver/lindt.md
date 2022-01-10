@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /vancouver/lindt/
-shop: Schokolade
+shop: chocolate
 ---

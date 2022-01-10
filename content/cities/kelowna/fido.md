@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /kelowna/fido/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gyroscope Collision"
 url: /vancouver/gyroscope-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

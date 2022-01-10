@@ -1,5 +1,5 @@
 ---
 title: "Fortress Self Storage"
 url: /port-coquitlam/fortress-self-storage/
-shop: Mieten
+shop: storage rental
 ---

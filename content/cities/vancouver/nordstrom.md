@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /vancouver/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

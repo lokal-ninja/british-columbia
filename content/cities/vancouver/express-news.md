@@ -1,5 +1,5 @@
 ---
 title: "Express News"
 url: /vancouver/express-news/
-shop: Lebensmittel
+shop: convenience
 ---

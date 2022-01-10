@@ -1,5 +1,5 @@
 ---
 title: "Spruce"
 url: /vancouver/spruce/
-shop: Kosmetik
+shop: beauty
 ---

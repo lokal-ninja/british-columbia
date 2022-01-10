@@ -1,5 +1,5 @@
 ---
 title: "Nixon Automotive"
 url: /burnaby/nixon-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

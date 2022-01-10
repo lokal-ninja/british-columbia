@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /coquitlam/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

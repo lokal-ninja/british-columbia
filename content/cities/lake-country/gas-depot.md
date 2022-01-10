@@ -1,5 +1,5 @@
 ---
 title: "Gas Depot"
 url: /lake-country/gas-depot/
-shop: Allgemein
+shop: shop
 ---

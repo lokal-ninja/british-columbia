@@ -1,5 +1,5 @@
 ---
 title: "Fujiya"
 url: /vancouver/fujiya/
-shop: Supermarkt
+shop: supermarket
 ---

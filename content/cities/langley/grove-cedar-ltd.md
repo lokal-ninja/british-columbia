@@ -1,5 +1,5 @@
 ---
 title: "Grove Cedar Ltd"
 url: /langley/grove-cedar-ltd/
-shop: Baustoffe
+shop: trade
 ---

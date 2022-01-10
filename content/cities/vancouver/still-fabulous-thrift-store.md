@@ -1,5 +1,5 @@
 ---
 title: "Still Fabulous Thrift Store"
 url: /vancouver/still-fabulous-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

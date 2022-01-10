@@ -1,5 +1,5 @@
 ---
 title: "Joe Fresh"
 url: /vancouver/joe-fresh/
-shop: Leerstehend
+shop: vacant
 ---

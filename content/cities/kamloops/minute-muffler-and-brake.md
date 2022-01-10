@@ -1,5 +1,5 @@
 ---
 title: "Minute Muffler and Brake"
 url: /kamloops/minute-muffler-and-brake/
-shop: Autowerkstatt
+shop: car repair
 ---

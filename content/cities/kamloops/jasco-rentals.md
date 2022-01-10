@@ -1,5 +1,5 @@
 ---
 title: "Jasco Rentals"
 url: /kamloops/jasco-rentals/
-shop: Mieten
+shop: storage rental
 ---

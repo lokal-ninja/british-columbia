@@ -1,5 +1,5 @@
 ---
 title: "Atic"
 url: /vancouver/atic/
-shop: Computer
+shop: computer
 ---

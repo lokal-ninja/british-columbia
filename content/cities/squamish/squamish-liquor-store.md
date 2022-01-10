@@ -1,5 +1,5 @@
 ---
 title: "Squamish Liquor Store"
 url: /squamish/squamish-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

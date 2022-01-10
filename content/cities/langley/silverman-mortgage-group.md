@@ -1,5 +1,5 @@
 ---
 title: "Silverman Mortgage Group"
 url: /langley/silverman-mortgage-group/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /abbotsford/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

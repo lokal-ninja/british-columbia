@@ -1,5 +1,5 @@
 ---
 title: "KMS Tools"
 url: /kamloops/kms-tools/
-shop: Eisenwaren
+shop: hardware
 ---

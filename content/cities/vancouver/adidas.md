@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /vancouver/adidas/
-shop: Sport
+shop: sports
 ---

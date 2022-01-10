@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /burnaby/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Westhill Interiors"
 url: /vancouver/westhill-interiors/
-shop: Möbel
+shop: furniture
 ---

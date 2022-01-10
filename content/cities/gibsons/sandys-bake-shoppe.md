@@ -1,5 +1,5 @@
 ---
 title: "Sandy’s Bake Shoppe"
 url: /gibsons/sandys-bake-shoppe/
-shop: Bäckerei
+shop: bakery
 ---

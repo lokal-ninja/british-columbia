@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /surrey/fido/
-shop: Handy
+shop: mobile phone
 ---

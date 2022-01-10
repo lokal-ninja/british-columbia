@@ -1,5 +1,5 @@
 ---
 title: "Integra Custom Collision"
 url: /vancouver/integra-custom-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

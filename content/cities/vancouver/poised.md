@@ -1,5 +1,5 @@
 ---
 title: "Poised"
 url: /vancouver/poised/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moody Ales"
 url: /port-moody/moody-ales/
-shop: Spirituosen
+shop: alcohol
 ---

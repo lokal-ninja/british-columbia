@@ -1,5 +1,5 @@
 ---
 title: "TMC Freeriderz"
 url: /whistler/tmc-freeriderz/
-shop: Allgemein
+shop: shop
 ---

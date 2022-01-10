@@ -1,5 +1,5 @@
 ---
 title: "Napa Autopro"
 url: /kamloops/napa-autopro/
-shop: Autowerkstatt
+shop: car repair
 ---

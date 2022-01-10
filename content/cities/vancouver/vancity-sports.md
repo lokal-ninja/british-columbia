@@ -1,5 +1,5 @@
 ---
 title: "Vancity Sports"
 url: /vancouver/vancity-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deakin Industries"
 url: /vancouver/deakin-industries/
-shop: Outdoor
+shop: outdoor
 ---

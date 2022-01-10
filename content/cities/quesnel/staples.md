@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /quesnel/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

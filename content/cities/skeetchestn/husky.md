@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /skeetchestn/husky/
-shop: Lebensmittel
+shop: convenience
 ---

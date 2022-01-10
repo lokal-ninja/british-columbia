@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /vancouver/fossil/
-shop: Uhren
+shop: watches
 ---

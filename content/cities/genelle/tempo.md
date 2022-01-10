@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /genelle/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

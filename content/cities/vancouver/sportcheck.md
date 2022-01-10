@@ -1,5 +1,5 @@
 ---
 title: "Sportcheck"
 url: /vancouver/sportcheck/
-shop: Sport
+shop: sports
 ---

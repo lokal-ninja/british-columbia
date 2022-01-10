@@ -1,5 +1,5 @@
 ---
 title: "Murray Hyundai White Rock"
 url: /surrey/murray-hyundai-white-rock/
-shop: Autohaus
+shop: car
 ---

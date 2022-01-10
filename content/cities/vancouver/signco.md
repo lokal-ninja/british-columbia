@@ -1,5 +1,5 @@
 ---
 title: "Signco"
 url: /vancouver/signco/
-shop: Allgemein
+shop: shop
 ---

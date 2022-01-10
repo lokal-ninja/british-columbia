@@ -1,5 +1,5 @@
 ---
 title: "Loooks Wow"
 url: /vancouver/loooks-wow/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lee Valley"
 url: /coquitlam/lee-valley/
-shop: Baumarkt
+shop: doityourself
 ---

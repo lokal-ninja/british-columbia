@@ -1,5 +1,5 @@
 ---
 title: "Pete's Meat"
 url: /vancouver/petes-meat/
-shop: Metzgerei
+shop: butcher
 ---

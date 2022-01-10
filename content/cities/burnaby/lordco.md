@@ -1,5 +1,5 @@
 ---
 title: "Lordco"
 url: /burnaby/lordco/
-shop: Autowerkstatt
+shop: car repair
 ---

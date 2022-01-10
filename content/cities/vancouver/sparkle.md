@@ -1,5 +1,5 @@
 ---
 title: "Sparkle"
 url: /vancouver/sparkle/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep Country"
 url: /district-of-north-vancouver/sleep-country/
-shop: Betten
+shop: bed
 ---

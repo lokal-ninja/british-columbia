@@ -1,5 +1,5 @@
 ---
 title: "London School"
 url: /vancouver/london-school/
-shop: Friseur
+shop: hairdresser
 ---

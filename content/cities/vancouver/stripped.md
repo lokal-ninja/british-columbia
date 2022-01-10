@@ -1,5 +1,5 @@
 ---
 title: "Stripped"
 url: /vancouver/stripped/
-shop: Kosmetik
+shop: beauty
 ---

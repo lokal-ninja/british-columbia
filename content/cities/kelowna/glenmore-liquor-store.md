@@ -1,5 +1,5 @@
 ---
 title: "Glenmore Liquor Store"
 url: /kelowna/glenmore-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

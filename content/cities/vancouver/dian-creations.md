@@ -1,5 +1,5 @@
 ---
 title: "Dian Creations"
 url: /vancouver/dian-creations/
-shop: Schmuck
+shop: jewelry
 ---

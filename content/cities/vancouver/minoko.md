@@ -1,5 +1,5 @@
 ---
 title: "Minoko"
 url: /vancouver/minoko/
-shop: Kosmetik
+shop: beauty
 ---

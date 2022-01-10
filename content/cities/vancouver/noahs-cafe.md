@@ -1,5 +1,5 @@
 ---
 title: "Noah's Cafe"
 url: /vancouver/noahs-cafe/
-shop: Leerstehend
+shop: vacant
 ---

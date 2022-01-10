@@ -1,5 +1,5 @@
 ---
 title: "Lordco Auto Parts"
 url: /kelowna/lordco-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

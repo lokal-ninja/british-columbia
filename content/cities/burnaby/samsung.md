@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /burnaby/samsung/
-shop: Elektronik
+shop: electronics
 ---

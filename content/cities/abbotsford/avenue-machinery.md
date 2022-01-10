@@ -1,5 +1,5 @@
 ---
 title: "Avenue Machinery"
 url: /abbotsford/avenue-machinery/
-shop: Baustoffe
+shop: trade
 ---

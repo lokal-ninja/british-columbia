@@ -1,5 +1,5 @@
 ---
 title: "La Bicicletta Pro Shop"
 url: /vancouver/la-bicicletta-pro-shop/
-shop: Fahrrad
+shop: bicycle
 ---

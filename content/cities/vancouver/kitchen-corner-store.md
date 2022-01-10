@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Corner Store"
 url: /vancouver/kitchen-corner-store/
-shop: Küchen
+shop: kitchen
 ---

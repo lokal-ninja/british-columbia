@@ -1,5 +1,5 @@
 ---
 title: "Weissach Vancouver"
 url: /vancouver/weissach-vancouver/
-shop: Autohaus
+shop: car
 ---

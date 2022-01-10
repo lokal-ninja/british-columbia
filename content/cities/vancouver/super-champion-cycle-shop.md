@@ -1,5 +1,5 @@
 ---
 title: "Super Champion Cycle Shop"
 url: /vancouver/super-champion-cycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J. Crew Factory"
 url: /richmond/j-crew-factory/
-shop: Kleidung
+shop: clothes
 ---

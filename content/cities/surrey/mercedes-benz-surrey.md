@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz Surrey"
 url: /surrey/mercedes-benz-surrey/
-shop: Autohaus
+shop: car
 ---

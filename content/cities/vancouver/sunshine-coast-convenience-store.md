@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Coast Convenience Store"
 url: /vancouver/sunshine-coast-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

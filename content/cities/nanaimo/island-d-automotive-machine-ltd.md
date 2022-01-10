@@ -1,5 +1,5 @@
 ---
 title: "Island D. Automotive Machine Ltd"
 url: /nanaimo/island-d-automotive-machine-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

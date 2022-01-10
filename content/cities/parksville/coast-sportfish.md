@@ -1,5 +1,5 @@
 ---
 title: "Coast Sportfish"
 url: /parksville/coast-sportfish/
-shop: Sport
+shop: sports
 ---

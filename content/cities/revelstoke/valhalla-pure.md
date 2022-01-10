@@ -1,5 +1,5 @@
 ---
 title: "Valhalla Pure"
 url: /revelstoke/valhalla-pure/
-shop: Outdoor
+shop: outdoor
 ---

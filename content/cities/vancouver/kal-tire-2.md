@@ -1,5 +1,5 @@
 ---
 title: "Kal Tire"
 url: /vancouver/kal-tire-2/
-shop: Autowerkstatt
+shop: car repair
 ---

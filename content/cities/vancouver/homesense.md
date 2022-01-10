@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /vancouver/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

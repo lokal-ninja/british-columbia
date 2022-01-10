@@ -1,5 +1,5 @@
 ---
 title: "Leisure Center"
 url: /vancouver/leisure-center/
-shop: Kleidung
+shop: clothes
 ---

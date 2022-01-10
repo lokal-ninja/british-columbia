@@ -1,5 +1,5 @@
 ---
 title: "Unitek"
 url: /vancouver/unitek/
-shop: Handy
+shop: mobile phone
 ---

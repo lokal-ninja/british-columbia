@@ -1,5 +1,5 @@
 ---
 title: "Acme Signs"
 url: /nanaimo/acme-signs/
-shop: Beschriftungen
+shop: lettering
 ---

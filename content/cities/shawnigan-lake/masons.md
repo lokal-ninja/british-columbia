@@ -1,5 +1,5 @@
 ---
 title: "Mason's"
 url: /shawnigan-lake/masons/
-shop: Lebensmittel
+shop: convenience
 ---

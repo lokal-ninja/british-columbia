@@ -1,5 +1,5 @@
 ---
 title: "Opticana"
 url: /vancouver/opticana/
-shop: Optiker
+shop: optician
 ---

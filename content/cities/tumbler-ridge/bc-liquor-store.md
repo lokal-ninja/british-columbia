@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor Store"
 url: /tumbler-ridge/bc-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

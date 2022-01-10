@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /surrey/sephora/
-shop: Kosmetik
+shop: beauty
 ---

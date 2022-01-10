@@ -1,5 +1,5 @@
 ---
 title: "Little Earth"
 url: /vancouver/little-earth/
-shop: Kleidung
+shop: clothes
 ---

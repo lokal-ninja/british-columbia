@@ -1,5 +1,5 @@
 ---
 title: "Carline Auto Repair"
 url: /maple-ridge/carline-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

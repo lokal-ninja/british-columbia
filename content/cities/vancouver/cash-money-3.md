@@ -1,5 +1,5 @@
 ---
 title: "Cash Money"
 url: /vancouver/cash-money-3/
-shop: Leiher
+shop: pawnbroker
 ---

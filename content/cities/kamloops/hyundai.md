@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /kamloops/hyundai/
-shop: Autohaus
+shop: car
 ---

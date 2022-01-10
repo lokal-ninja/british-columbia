@@ -1,5 +1,5 @@
 ---
 title: "Davie Flowers"
 url: /vancouver/davie-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JV Convenience Store"
 url: /maple-ridge/jv-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

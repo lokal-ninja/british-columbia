@@ -1,5 +1,5 @@
 ---
 title: "Pritchard Station"
 url: /pritchard/pritchard-station/
-shop: Lebensmittel
+shop: convenience
 ---

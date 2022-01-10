@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Floors"
 url: /coquitlam/exclusive-floors/
-shop: Baumarkt
+shop: doityourself
 ---

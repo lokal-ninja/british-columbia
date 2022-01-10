@@ -1,5 +1,5 @@
 ---
 title: "Quality Dry Cleaning"
 url: /surrey/quality-dry-cleaning/
-shop: Wäscherei
+shop: laundry
 ---

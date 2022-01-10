@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /montrose/tempo/
-shop: Lebensmittel
+shop: convenience
 ---

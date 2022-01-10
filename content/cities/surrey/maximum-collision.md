@@ -1,5 +1,5 @@
 ---
 title: "Maximum Collision"
 url: /surrey/maximum-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

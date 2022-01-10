@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /richmond/benjamin-moore/
-shop: Farben
+shop: paint
 ---

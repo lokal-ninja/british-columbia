@@ -1,5 +1,5 @@
 ---
 title: "EzeeRiders Bike Rentals"
 url: /vancouver/ezeeriders-bike-rentals/
-shop: Mieten
+shop: storage rental
 ---

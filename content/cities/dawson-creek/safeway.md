@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /dawson-creek/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Temple Food Store"
 url: /parksville/temple-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

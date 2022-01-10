@@ -1,5 +1,5 @@
 ---
 title: "Thrift Store"
 url: /kaslo/thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

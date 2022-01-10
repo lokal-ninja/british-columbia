@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /duncan/winners/
-shop: Kleidung
+shop: clothes
 ---

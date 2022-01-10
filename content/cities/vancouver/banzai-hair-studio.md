@@ -1,5 +1,5 @@
 ---
 title: "Banzai Hair Studio"
 url: /vancouver/banzai-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

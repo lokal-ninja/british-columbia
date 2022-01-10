@@ -1,5 +1,5 @@
 ---
 title: "Coombs Country Auto"
 url: /coombs/coombs-country-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

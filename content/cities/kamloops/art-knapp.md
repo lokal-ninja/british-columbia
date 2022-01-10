@@ -1,5 +1,5 @@
 ---
 title: "Art Knapp"
 url: /kamloops/art-knapp/
-shop: Garten-Center
+shop: garden centre
 ---

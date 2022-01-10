@@ -1,5 +1,5 @@
 ---
 title: "PrintPrint"
 url: /vancouver/printprint/
-shop: Allgemein
+shop: shop
 ---

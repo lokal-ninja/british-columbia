@@ -1,5 +1,5 @@
 ---
 title: "Park Royal"
 url: /west-vancouver/park-royal/
-shop: Einkaufszentrum
+shop: mall
 ---
