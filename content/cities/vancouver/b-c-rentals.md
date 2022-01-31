@@ -1,5 +1,5 @@
 ---
 title: "B.C. Rentals"
 url: /vancouver/b-c-rentals/
-shop: shop
+shop: tools
 ---
