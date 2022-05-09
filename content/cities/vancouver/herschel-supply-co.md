@@ -1,5 +1,5 @@
 ---
 title: "Herschel Supply Co."
 url: /vancouver/herschel-supply-co/
-shop: shop
+shop: clothes
 ---
