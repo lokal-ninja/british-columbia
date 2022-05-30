@@ -1,5 +1,5 @@
 ---
 title: "Fisgard Market"
-url: /fisgard-street/fisgard-market/
+url: /victoria/fisgard-market/
 shop: convenience
 ---
