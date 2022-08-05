@@ -1,6 +1,6 @@
 ---
 title: Parksville
 url: /parksville/
-latitude: 49.339
-longitude: -124.352
+latitude: 49.32
+longitude: -124.311
 ---
