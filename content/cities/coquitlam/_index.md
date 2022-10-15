@@ -1,6 +1,6 @@
 ---
 title: Coquitlam
 url: /coquitlam/
-latitude: 49.243
-longitude: -122.891
+latitude: 49.281
+longitude: -122.799
 ---
