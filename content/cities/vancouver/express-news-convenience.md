@@ -1,5 +1,5 @@
 ---
 title: "Express News Convenience"
-url: /north-vancouver-city/express-news-convenience/
+url: /vancouver/express-news-convenience/
 shop: convenience
 ---
