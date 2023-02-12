@@ -1,5 +1,5 @@
 ---
 title: "Roots"
-url: /vancouver/roots-2/
+url: /vancouver/roots/
 shop: clothes
 ---

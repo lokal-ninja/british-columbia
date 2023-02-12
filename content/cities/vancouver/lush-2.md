@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /vancouver/lush-2/
+url: /vancouver/lush/
 shop: beauty
 ---

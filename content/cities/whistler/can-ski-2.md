@@ -1,5 +1,5 @@
 ---
 title: "Can Ski"
-url: /whistler/can-ski-2/
+url: /whistler/can-ski/
 shop: sports
 ---

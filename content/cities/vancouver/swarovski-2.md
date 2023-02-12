@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /vancouver/swarovski-2/
+url: /vancouver/swarovski/
 shop: jewelry
 ---

@@ -1,11 +1,11 @@
-id: 8235175290
-type: node
-latitude: 49.27959
-longitude: -123.12089
-postcode: "V6B 3M1"
+id: 359406065
+type: way
+latitude: 49.25912
+longitude: -123.04097
+postcode: ""
 city: Vancouver
-street: "Seymour Street"
-housenumber: 901
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-19:00; Su 10:00-18:00"
+opening_hours: ""
 website: ""

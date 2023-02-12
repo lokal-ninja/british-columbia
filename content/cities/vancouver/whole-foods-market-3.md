@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /vancouver/whole-foods-market-3/
+url: /vancouver/whole-foods-market/
 shop: supermarket
 ---
