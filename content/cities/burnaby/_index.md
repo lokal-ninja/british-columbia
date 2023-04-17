@@ -1,6 +1,6 @@
 ---
 title: Burnaby
 url: /burnaby/
-latitude: 49.231
-longitude: -123.005
+latitude: 49.252
+longitude: -122.896
 ---
