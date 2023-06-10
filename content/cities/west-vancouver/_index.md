@@ -1,6 +1,6 @@
 ---
 title: West Vancouver
 url: /west-vancouver/
-latitude: 49.33
-longitude: -123.171
+latitude: 49.325
+longitude: -123.136
 ---
