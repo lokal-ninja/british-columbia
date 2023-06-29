@@ -1,5 +1,5 @@
 ---
 title: "Vapester Smoke Shop"
 url: /vancouver/vapester-smoke-shop/
-shop: supermarket
+shop: tobacco
 ---
