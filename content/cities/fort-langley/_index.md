@@ -1,6 +1,6 @@
 ---
 title: Fort Langley
 url: /fort-langley/
-latitude: 49.169
-longitude: -122.58
+latitude: 49.17
+longitude: -122.579
 ---
