@@ -1,5 +1,5 @@
 ---
 title: "Trendybucks"
 url: /vancouver/trendybucks/
-shop: shop
+shop: variety store
 ---
