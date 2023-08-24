@@ -1,6 +1,6 @@
 ---
 title: Vancovuer
 url: /vancovuer/
-latitude: 49.273
-longitude: -123.12
+latitude: 49.274
+longitude: -123.122
 ---
