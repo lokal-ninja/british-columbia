@@ -1,6 +1,6 @@
 ---
 title: Smithers
 url: /smithers/
-latitude: 54.785
-longitude: -127.172
+latitude: 54.771
+longitude: -127.142
 ---
