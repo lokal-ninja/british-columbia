@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /vancouver/iga/
+url: /vancouver/iga-west-4th-avenue/
 shop: supermarket
 ---

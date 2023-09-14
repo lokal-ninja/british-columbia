@@ -1,5 +1,5 @@
 ---
 title: "Kimprints"
-url: /vancouver/kimprints/
+url: /vancouver/kimprints-denman-street/
 shop: frame
 ---

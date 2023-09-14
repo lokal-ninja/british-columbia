@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
-url: /vancouver/foot-locker/
+url: /vancouver/foot-locker-west-4th-avenue/
 shop: shoes
 ---

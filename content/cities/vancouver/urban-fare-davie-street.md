@@ -1,5 +1,5 @@
 ---
 title: "Urban Fare"
-url: /vancouver/urban-fare/
+url: /vancouver/urban-fare-davie-street/
 shop: supermarket
 ---

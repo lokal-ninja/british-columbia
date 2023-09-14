@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
-url: /vancouver/no-frills/
+url: /vancouver/no-frills-west-broadway/
 shop: supermarket
 ---

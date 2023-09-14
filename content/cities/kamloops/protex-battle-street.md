@@ -1,5 +1,5 @@
 ---
 title: "Protex"
-url: /kamloops/protex/
+url: /kamloops/protex-battle-street/
 shop: car
 ---

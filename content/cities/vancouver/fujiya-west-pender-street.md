@@ -1,5 +1,5 @@
 ---
 title: "Fujiya"
-url: /vancouver/fujiya/
+url: /vancouver/fujiya-west-pender-street/
 shop: supermarket
 ---

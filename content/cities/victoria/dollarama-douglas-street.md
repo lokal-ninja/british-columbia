@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /victoria/dollarama/
+url: /victoria/dollarama-douglas-street/
 shop: variety store
 ---

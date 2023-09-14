@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
-url: /merritt/home-hardware/
+url: /merritt/home-hardware-coutlee-avenue/
 shop: hardware
 ---

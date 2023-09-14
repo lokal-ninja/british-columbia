@@ -1,5 +1,5 @@
 ---
 title: "Mine & Yours"
-url: /vancouver/mine-and-yours/
+url: /vancouver/mine-and-yours-2/
 shop: clothes
 ---

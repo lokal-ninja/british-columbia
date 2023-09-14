@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /creston/esso/
+url: /creston/esso-canyon-street/
 shop: convenience
 ---

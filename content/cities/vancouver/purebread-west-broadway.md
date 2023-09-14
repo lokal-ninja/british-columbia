@@ -1,5 +1,5 @@
 ---
 title: "Purebread"
-url: /vancouver/purebread/
+url: /vancouver/purebread-west-broadway/
 shop: bakery
 ---

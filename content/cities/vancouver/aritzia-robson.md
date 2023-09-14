@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
-url: /vancouver/aritzia/
+url: /vancouver/aritzia-robson/
 shop: clothes
 ---

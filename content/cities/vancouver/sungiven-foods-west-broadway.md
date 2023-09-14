@@ -1,5 +1,5 @@
 ---
 title: "Sungiven Foods"
-url: /vancouver/sungiven-foods/
+url: /vancouver/sungiven-foods-west-broadway/
 shop: supermarket
 ---

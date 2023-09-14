@@ -1,5 +1,5 @@
 ---
 title: "Winners"
-url: /vancouver/winners/
+url: /vancouver/winners-west-8th-avenue/
 shop: department store
 ---

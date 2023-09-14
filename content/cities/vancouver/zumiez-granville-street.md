@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
-url: /vancouver/zumiez/
+url: /vancouver/zumiez-granville-street/
 shop: clothes
 ---

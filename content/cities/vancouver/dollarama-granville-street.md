@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /vancouver/dollarama/
+url: /vancouver/dollarama-granville-street/
 shop: variety store
 ---

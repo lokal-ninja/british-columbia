@@ -1,5 +1,5 @@
 ---
 title: "Bayview Custom Motorcycles"
-url: /parksville/bayview-custom-motorcycles/
+url: /parksville/bayview-custom-motorcycles-industrial-way/
 shop: motorcycle
 ---

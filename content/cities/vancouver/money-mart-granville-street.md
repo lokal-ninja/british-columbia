@@ -1,5 +1,5 @@
 ---
 title: "Money Mart"
-url: /vancouver/money-mart/
+url: /vancouver/money-mart-granville-street/
 shop: pawnbroker
 ---

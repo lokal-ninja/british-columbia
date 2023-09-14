@@ -1,5 +1,5 @@
 ---
 title: "Clearly"
-url: /vancouver/clearly/
+url: /vancouver/clearly-robson-street/
 shop: optician
 ---

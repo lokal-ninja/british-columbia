@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /nanaimo/staples/
+url: /nanaimo/staples-aulds-road/
 shop: office supplies
 ---

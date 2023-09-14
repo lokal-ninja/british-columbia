@@ -1,5 +1,5 @@
 ---
 title: "Saje"
-url: /vancouver/saje/
+url: /vancouver/saje-2/
 shop: beauty
 ---

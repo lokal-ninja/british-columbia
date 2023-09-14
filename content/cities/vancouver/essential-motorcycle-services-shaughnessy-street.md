@@ -1,5 +1,5 @@
 ---
 title: "Essential Motorcycle Services"
-url: /vancouver/essential-motorcycle-services/
+url: /vancouver/essential-motorcycle-services-shaughnessy-street/
 shop: motorcycle
 ---

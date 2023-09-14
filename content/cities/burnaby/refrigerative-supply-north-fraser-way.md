@@ -1,5 +1,5 @@
 ---
 title: "Refrigerative Supply"
-url: /burnaby/refrigerative-supply/
+url: /burnaby/refrigerative-supply-north-fraser-way/
 shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sungiven Foods"
-url: /burnaby/sungiven-foods/
+url: /burnaby/sungiven-foods-hastings-street/
 shop: supermarket
 ---

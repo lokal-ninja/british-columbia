@@ -1,5 +1,5 @@
 ---
 title: "Winners"
-url: /coquitlam/winners/
+url: /coquitlam/winners-lougheed-highway/
 shop: clothes
 ---

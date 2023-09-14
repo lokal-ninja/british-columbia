@@ -1,5 +1,5 @@
 ---
 title: "Duer"
-url: /vancouver/duer/
+url: /vancouver/duer-west-4th-avenue/
 shop: clothes
 ---

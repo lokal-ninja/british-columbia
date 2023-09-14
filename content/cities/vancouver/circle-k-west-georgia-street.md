@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /vancouver/circle-k/
+url: /vancouver/circle-k-west-georgia-street/
 shop: convenience
 ---

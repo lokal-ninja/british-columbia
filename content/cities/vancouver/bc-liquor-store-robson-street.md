@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor Store"
-url: /vancouver/bc-liquor-store/
+url: /vancouver/bc-liquor-store-robson-street/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /vancouver/iga/
+url: /vancouver/iga-burrard-street/
 shop: supermarket
 ---

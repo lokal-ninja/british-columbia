@@ -1,5 +1,5 @@
 ---
 title: "Tisol"
-url: /vancouver/tisol/
+url: /vancouver/tisol-main-street/
 shop: pet
 ---

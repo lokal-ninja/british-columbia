@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /port-alberni/7-eleven/
+url: /port-alberni/7-eleven-redford-street/
 shop: convenience
 ---

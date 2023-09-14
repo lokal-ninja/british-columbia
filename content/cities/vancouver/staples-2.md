@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /vancouver/staples/
+url: /vancouver/staples-2/
 shop: office supplies
 ---

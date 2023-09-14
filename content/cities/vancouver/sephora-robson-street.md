@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
-url: /vancouver/sephora/
+url: /vancouver/sephora-robson-street/
 shop: beauty
 ---

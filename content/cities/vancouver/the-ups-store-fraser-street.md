@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
-url: /vancouver/the-ups-store/
+url: /vancouver/the-ups-store-fraser-street/
 shop: copyshop
 ---

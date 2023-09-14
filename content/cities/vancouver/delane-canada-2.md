@@ -1,5 +1,5 @@
 ---
 title: "Delané Canada"
-url: /vancouver/delane-canada/
+url: /vancouver/delane-canada-2/
 shop: gift
 ---
