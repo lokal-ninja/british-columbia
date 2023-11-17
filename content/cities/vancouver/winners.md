@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /vancouver/winners/
-shop: clothes
+shop: department store
 ---
