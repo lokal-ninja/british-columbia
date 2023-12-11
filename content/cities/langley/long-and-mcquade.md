@@ -1,5 +1,5 @@
 ---
 title: "Long & McQuade"
 url: /langley/long-and-mcquade/
-shop: music
+shop: musical instrument
 ---
