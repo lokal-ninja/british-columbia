@@ -1,6 +1,6 @@
 ---
 title: Kamloops
 url: /kamloops/
-latitude: 50.697
-longitude: -120.359
+latitude: 50.676
+longitude: -120.322
 ---
