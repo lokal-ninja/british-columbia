@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /vancouver/7-eleven-seymour-street/
+url: /quesnel/7-eleven-maple-drive/
 shop: convenience
 ---

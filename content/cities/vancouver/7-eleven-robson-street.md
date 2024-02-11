@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /quesnel/7-eleven-marsh-drive/
+url: /vancouver/7-eleven-robson-street/
 shop: convenience
 ---
