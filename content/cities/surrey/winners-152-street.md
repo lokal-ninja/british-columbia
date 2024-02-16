@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /surrey/winners-152-street/
-shop: clothes
+shop: department store
 ---
