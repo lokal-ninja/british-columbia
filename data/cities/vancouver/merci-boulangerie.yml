@@ -7,5 +7,5 @@ city: Vancouver
 street: "Commercial Drive"
 housenumber: 2879
 phone: "778-875-1424"
-opening_hours: "Fr-Sat 7:30-4:30 and Sun 8am - 4pm"
+opening_hours: "Fr,Sa 07:30-16:30; Su 08:00-16:00"
 website: "https://www.merciboulangerie.com/"
