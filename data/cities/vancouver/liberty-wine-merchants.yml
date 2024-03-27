@@ -7,5 +7,5 @@ city: Vancouver
 street: "Commercial Drive"
 housenumber: 1622
 phone: "+1-604-633-1922"
-opening_hours: "Mo-Fr 11:00-11:00; Sa,Su 10:00-11:00"
+opening_hours: "Mo, We, Th, Fr 11:00-11:00; Tu,Sa,Su 10:00-11:00"
 website: "https://libertywinemerchants.com/"
