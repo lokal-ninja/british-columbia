@@ -1,5 +1,5 @@
 ---
 title: "AirLobby"
 url: /victoria/airlobby/
-shop: shop
+shop: storage rental
 ---
