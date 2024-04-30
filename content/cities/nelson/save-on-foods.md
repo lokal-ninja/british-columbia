@@ -1,5 +1,5 @@
 ---
 title: "Save-On-Foods"
-url: /grand-forks/save-on-foods/
+url: /nelson/save-on-foods/
 shop: supermarket
 ---
