@@ -1,5 +1,5 @@
 ---
 title: "Style Lab"
-url: /vancouver/style-lab-2/
+url: /vancouver/style-lab-cambie-street/
 shop: hairdresser
 ---
