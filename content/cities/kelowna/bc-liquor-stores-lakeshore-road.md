@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor Stores"
-url: /kelowna/bc-liquor-stores-dilworth-drive/
+url: /kelowna/bc-liquor-stores-lakeshore-road/
 shop: alcohol
 ---
