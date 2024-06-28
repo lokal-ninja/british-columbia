@@ -6,6 +6,6 @@ postcode: ""
 city: Vancouver
 street: "West Pender Street"
 housenumber: 88
-phone: "604-568-6161"
-opening_hours: "Mo-Fr 11:00-20:00 Sat-Sun 11:00-19:00"
+phone: "+1 604-568-6161"
+opening_hours: "Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00"
 website: "https://www.cocoatanning.ca/locations/gastown/"
