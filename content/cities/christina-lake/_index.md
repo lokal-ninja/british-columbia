@@ -1,6 +1,6 @@
 ---
 title: Christina Lake
 url: /christina-lake/
-latitude: 49.04
-longitude: -118.208
+latitude: 49.051
+longitude: -118.209
 ---
