@@ -1,6 +1,6 @@
 ---
 title: Houston
 url: /houston/
-latitude: 54.4
-longitude: -126.648
+latitude: 54.398
+longitude: -126.658
 ---
