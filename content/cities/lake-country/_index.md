@@ -1,6 +1,6 @@
 ---
 title: Lake Country
 url: /lake-country/
-latitude: 50.02
-longitude: -119.406
+latitude: 50.028
+longitude: -119.405
 ---
