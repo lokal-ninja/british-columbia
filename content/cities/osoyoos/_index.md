@@ -1,6 +1,6 @@
 ---
 title: Osoyoos
 url: /osoyoos/
-latitude: 49.037
-longitude: -119.479
+latitude: 49.033
+longitude: -119.471
 ---
