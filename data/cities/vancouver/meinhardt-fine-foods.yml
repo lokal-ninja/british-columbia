@@ -7,5 +7,5 @@ city: Vancouver
 street: "Granville Street"
 housenumber: 609
 phone: "+1-604-681-8175"
-opening_hours: "Mo-Su 09:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00"
 website: ""
