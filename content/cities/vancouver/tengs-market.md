@@ -1,5 +1,5 @@
 ---
 title: "Teng's Market"
 url: /vancouver/tengs-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

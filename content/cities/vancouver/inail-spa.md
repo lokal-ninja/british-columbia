@@ -1,5 +1,5 @@
 ---
 title: "iNail Spa"
 url: /vancouver/inail-spa/
-shop: beauty
+shop: Kosmetik
 ---

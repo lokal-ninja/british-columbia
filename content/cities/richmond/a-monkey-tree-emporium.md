@@ -1,5 +1,5 @@
 ---
 title: "A Monkey Tree Emporium"
 url: /richmond/a-monkey-tree-emporium/
-shop: gift
+shop: Andenken
 ---

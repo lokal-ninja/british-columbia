@@ -1,5 +1,5 @@
 ---
 title: "Hype Hair Studio"
 url: /vancouver/hype-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

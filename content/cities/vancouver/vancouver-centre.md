@@ -1,5 +1,5 @@
 ---
 title: "Vancouver Centre"
 url: /vancouver/vancouver-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

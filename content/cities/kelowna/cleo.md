@@ -1,5 +1,5 @@
 ---
 title: "Cleo"
 url: /kelowna/cleo/
-shop: clothes
+shop: Kleidung
 ---

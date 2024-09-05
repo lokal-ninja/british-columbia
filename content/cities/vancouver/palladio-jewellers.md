@@ -1,5 +1,5 @@
 ---
 title: "Palladio Jewellers"
 url: /vancouver/palladio-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

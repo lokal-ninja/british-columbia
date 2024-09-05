@@ -1,5 +1,5 @@
 ---
 title: "Simply Local"
 url: /fort-langley/simply-local/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nesters Market"
 url: /whistler/nesters-market/
-shop: supermarket
+shop: Supermarkt
 ---

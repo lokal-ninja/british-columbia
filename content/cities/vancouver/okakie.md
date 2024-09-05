@@ -1,5 +1,5 @@
 ---
 title: "Okakie"
 url: /vancouver/okakie/
-shop: clothes
+shop: Kleidung
 ---

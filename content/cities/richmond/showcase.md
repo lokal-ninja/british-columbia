@@ -1,5 +1,5 @@
 ---
 title: "Showcase"
 url: /richmond/showcase/
-shop: gift
+shop: Andenken
 ---

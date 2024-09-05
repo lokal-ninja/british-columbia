@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /langford/salvation-army/
-shop: charity
+shop: Gebrauchtwaren
 ---

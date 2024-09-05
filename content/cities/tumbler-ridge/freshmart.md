@@ -1,5 +1,5 @@
 ---
 title: "FreshMart"
 url: /tumbler-ridge/freshmart/
-shop: supermarket
+shop: Supermarkt
 ---

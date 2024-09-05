@@ -1,5 +1,5 @@
 ---
 title: "Hardwoods"
 url: /kelowna/hardwoods/
-shop: trade
+shop: Baustoffe
 ---

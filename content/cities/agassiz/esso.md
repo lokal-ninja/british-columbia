@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /agassiz/esso/
-shop: convenience
+shop: Lebensmittel
 ---

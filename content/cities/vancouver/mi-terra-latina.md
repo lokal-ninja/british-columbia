@@ -1,5 +1,5 @@
 ---
 title: "Mi Terra Latina"
 url: /vancouver/mi-terra-latina/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

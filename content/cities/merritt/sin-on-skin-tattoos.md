@@ -1,5 +1,5 @@
 ---
 title: "Sin On Skin Tattoos"
 url: /merritt/sin-on-skin-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

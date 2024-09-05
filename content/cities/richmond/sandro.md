@@ -1,5 +1,5 @@
 ---
 title: "Sandro"
 url: /richmond/sandro/
-shop: clothes
+shop: Kleidung
 ---

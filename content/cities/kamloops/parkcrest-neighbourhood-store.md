@@ -1,5 +1,5 @@
 ---
 title: "Parkcrest Neighbourhood Store"
 url: /kamloops/parkcrest-neighbourhood-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daruma"
 url: /richmond/daruma/
-shop: convenience
+shop: Lebensmittel
 ---

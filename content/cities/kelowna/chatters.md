@@ -1,5 +1,5 @@
 ---
 title: "Chatters"
 url: /kelowna/chatters/
-shop: hairdresser
+shop: Friseur
 ---

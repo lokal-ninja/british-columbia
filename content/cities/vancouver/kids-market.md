@@ -1,5 +1,5 @@
 ---
 title: "Kids Market"
 url: /vancouver/kids-market/
-shop: mall
+shop: Einkaufszentrum
 ---

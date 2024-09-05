@@ -1,5 +1,5 @@
 ---
 title: "DLB"
 url: /bowen-island/dlb/
-shop: clothes
+shop: Kleidung
 ---

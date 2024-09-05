@@ -1,5 +1,5 @@
 ---
 title: "Ammerose"
 url: /vancouver/ammerose/
-shop: hairdresser
+shop: Friseur
 ---

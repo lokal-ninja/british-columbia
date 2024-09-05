@@ -1,5 +1,5 @@
 ---
 title: "Hip Baby"
 url: /vancouver/hip-baby/
-shop: baby goods
+shop: Babysachen
 ---

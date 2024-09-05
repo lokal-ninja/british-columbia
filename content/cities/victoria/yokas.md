@@ -1,5 +1,5 @@
 ---
 title: "Yoka's"
 url: /victoria/yokas/
-shop: coffee
+shop: Kaffee
 ---

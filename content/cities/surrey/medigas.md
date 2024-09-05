@@ -1,5 +1,5 @@
 ---
 title: "Medigas"
 url: /surrey/medigas/
-shop: medical supply
+shop: Sanitätshaus
 ---

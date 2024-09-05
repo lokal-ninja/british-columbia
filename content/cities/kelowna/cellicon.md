@@ -1,5 +1,5 @@
 ---
 title: "Cellicon"
 url: /kelowna/cellicon/
-shop: mobile phone
+shop: Handy
 ---

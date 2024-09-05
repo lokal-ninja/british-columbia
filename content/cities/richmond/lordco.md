@@ -1,5 +1,5 @@
 ---
 title: "Lordco"
 url: /richmond/lordco/
-shop: car parts
+shop: Autoteile
 ---

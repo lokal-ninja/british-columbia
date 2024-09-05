@@ -1,5 +1,5 @@
 ---
 title: "Elphi Cycles"
 url: /sechelt/elphi-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

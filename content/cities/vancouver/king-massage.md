@@ -1,5 +1,5 @@
 ---
 title: "King Massage"
 url: /vancouver/king-massage/
-shop: massage
+shop: Massage
 ---

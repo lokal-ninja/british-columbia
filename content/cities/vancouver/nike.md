@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /vancouver/nike/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Langley Farm Market"
 url: /maple-ridge/langley-farm-market-lougheed-highway/
-shop: supermarket
+shop: Supermarkt
 ---

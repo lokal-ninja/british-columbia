@@ -1,5 +1,5 @@
 ---
 title: "Powderhound"
 url: /rossland/powderhound/
-shop: sports
+shop: Sport
 ---

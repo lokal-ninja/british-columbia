@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /vancouver/aveda/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

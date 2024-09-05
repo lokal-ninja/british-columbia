@@ -1,5 +1,5 @@
 ---
 title: "Canco"
 url: /greenwood/canco/
-shop: convenience
+shop: Lebensmittel
 ---

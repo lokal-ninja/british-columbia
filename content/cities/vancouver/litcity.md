@@ -1,5 +1,5 @@
 ---
 title: "LitCity"
 url: /vancouver/litcity/
-shop: tobacco
+shop: Tabak
 ---

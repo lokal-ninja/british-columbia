@@ -1,5 +1,5 @@
 ---
 title: "Jeweliette"
 url: /vancouver/jeweliette/
-shop: jewelry
+shop: Schmuck
 ---

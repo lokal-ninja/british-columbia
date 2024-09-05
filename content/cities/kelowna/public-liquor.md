@@ -1,5 +1,5 @@
 ---
 title: "Public Liquor"
 url: /kelowna/public-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

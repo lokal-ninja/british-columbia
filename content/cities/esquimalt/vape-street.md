@@ -1,5 +1,5 @@
 ---
 title: "Vape Street"
 url: /esquimalt/vape-street/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tisol"
 url: /surrey/tisol/
-shop: pet
+shop: Tiere
 ---

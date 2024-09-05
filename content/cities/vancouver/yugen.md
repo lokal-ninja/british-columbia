@@ -1,5 +1,5 @@
 ---
 title: "Yugen"
 url: /vancouver/yugen/
-shop: beauty
+shop: Kosmetik
 ---

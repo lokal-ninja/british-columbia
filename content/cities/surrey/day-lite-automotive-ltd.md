@@ -1,5 +1,5 @@
 ---
 title: "Day-Lite Automotive Ltd"
 url: /surrey/day-lite-automotive-ltd/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nick Appliances"
 url: /surrey/nick-appliances/
-shop: appliance
+shop: Haushaltsgeräte
 ---

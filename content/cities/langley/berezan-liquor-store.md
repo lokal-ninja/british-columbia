@@ -1,5 +1,5 @@
 ---
 title: "Berezan Liquor Store"
 url: /langley/berezan-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

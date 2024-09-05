@@ -1,5 +1,5 @@
 ---
 title: "Posy"
 url: /vancouver/posy/
-shop: beauty
+shop: Kosmetik
 ---

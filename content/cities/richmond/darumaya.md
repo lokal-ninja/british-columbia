@@ -1,5 +1,5 @@
 ---
 title: "Darumaya"
 url: /richmond/darumaya/
-shop: supermarket
+shop: Supermarkt
 ---

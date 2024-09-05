@@ -1,5 +1,5 @@
 ---
 title: "Billies House"
 url: /squamish/billies-house/
-shop: florist
+shop: Blumen
 ---

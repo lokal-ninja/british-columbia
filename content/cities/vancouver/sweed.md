@@ -1,5 +1,5 @@
 ---
 title: "Sweed"
 url: /vancouver/sweed/
-shop: cannabis
+shop: Hanf
 ---

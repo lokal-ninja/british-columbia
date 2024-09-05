@@ -1,5 +1,5 @@
 ---
 title: "Triumph"
 url: /vancouver/triumph/
-shop: motorcycle
+shop: Motorrad
 ---

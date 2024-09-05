@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /nanaimo/party-city/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruiticana"
 url: /surrey/fruiticana/
-shop: supermarket
+shop: Supermarkt
 ---

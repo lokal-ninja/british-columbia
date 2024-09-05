@@ -1,5 +1,5 @@
 ---
 title: "GMC"
 url: /kamloops/gmc/
-shop: car
+shop: Autohaus
 ---

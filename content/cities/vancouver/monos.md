@@ -1,5 +1,5 @@
 ---
 title: "Monos"
 url: /vancouver/monos/
-shop: bag
+shop: Taschen & Koffer
 ---

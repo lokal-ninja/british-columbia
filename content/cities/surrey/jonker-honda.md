@@ -1,5 +1,5 @@
 ---
 title: "Jonker Honda"
 url: /surrey/jonker-honda/
-shop: car
+shop: Autohaus
 ---

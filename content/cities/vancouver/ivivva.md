@@ -1,5 +1,5 @@
 ---
 title: "Ivivva"
 url: /vancouver/ivivva/
-shop: clothes
+shop: Kleidung
 ---

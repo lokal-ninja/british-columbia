@@ -1,5 +1,5 @@
 ---
 title: "Lure"
 url: /vancouver/lure/
-shop: hairdresser
+shop: Friseur
 ---

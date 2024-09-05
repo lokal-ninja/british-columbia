@@ -1,5 +1,5 @@
 ---
 title: "Wildfires Bookshop"
 url: /new-westminster/wildfires-bookshop/
-shop: books
+shop: Bücher
 ---

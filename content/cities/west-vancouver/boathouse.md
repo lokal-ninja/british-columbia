@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /west-vancouver/boathouse/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wow Interiors"
 url: /vancouver/wow-interiors/
-shop: furniture
+shop: Möbel
 ---

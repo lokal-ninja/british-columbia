@@ -1,5 +1,5 @@
 ---
 title: "Celebrate"
 url: /whistler/celebrate/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaporline"
 url: /vancouver/vaporline/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

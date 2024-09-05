@@ -1,5 +1,5 @@
 ---
 title: "Bellisima"
 url: /kelowna/bellisima/
-shop: clothes
+shop: Kleidung
 ---

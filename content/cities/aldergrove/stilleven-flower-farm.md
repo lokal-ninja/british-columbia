@@ -1,5 +1,5 @@
 ---
 title: "Stilleven Flower Farm"
 url: /aldergrove/stilleven-flower-farm/
-shop: florist
+shop: Blumen
 ---

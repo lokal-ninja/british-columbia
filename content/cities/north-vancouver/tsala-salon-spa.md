@@ -1,5 +1,5 @@
 ---
 title: "T'sala Salon Spa"
 url: /north-vancouver/tsala-salon-spa/
-shop: hairdresser
+shop: Friseur
 ---

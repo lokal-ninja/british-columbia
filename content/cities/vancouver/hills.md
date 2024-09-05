@@ -1,5 +1,5 @@
 ---
 title: "Hills"
 url: /vancouver/hills/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /port-coquitlam/sherwin-williams/
-shop: paint
+shop: Farben
 ---

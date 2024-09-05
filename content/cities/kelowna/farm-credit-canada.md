@@ -1,5 +1,5 @@
 ---
 title: "Farm Credit Canada"
 url: /kelowna/farm-credit-canada/
-shop: pawnbroker
+shop: Leiher
 ---

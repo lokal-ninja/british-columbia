@@ -1,5 +1,5 @@
 ---
 title: "Nespresso"
 url: /kelowna/nespresso/
-shop: appliance
+shop: Haushaltsgeräte
 ---

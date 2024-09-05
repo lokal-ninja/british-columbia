@@ -1,5 +1,5 @@
 ---
 title: "Pisolino"
 url: /vancouver/pisolino/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolford"
 url: /vancouver/wolford/
-shop: clothes
+shop: Kleidung
 ---

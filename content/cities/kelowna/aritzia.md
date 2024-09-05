@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
 url: /kelowna/aritzia/
-shop: clothes
+shop: Kleidung
 ---

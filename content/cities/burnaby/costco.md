@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /burnaby/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Cliff Farm"
 url: /kamloops/red-cliff-farm/
-shop: farm
+shop: Hofladen
 ---

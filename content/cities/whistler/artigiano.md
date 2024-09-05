@@ -1,5 +1,5 @@
 ---
 title: "Artigiano"
 url: /whistler/artigiano/
-shop: coffee
+shop: Kaffee
 ---

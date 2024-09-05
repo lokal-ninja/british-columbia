@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /whistler/patagonia/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vape Master"
 url: /vancouver/vape-master/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

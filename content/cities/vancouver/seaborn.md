@@ -1,5 +1,5 @@
 ---
 title: "Seaborn"
 url: /vancouver/seaborn/
-shop: seafood
+shop: Fisch
 ---

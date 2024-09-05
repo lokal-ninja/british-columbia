@@ -1,5 +1,5 @@
 ---
 title: "Granville Street Tattoos"
 url: /vancouver/granville-street-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

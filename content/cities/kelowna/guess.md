@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /kelowna/guess/
-shop: clothes
+shop: Kleidung
 ---

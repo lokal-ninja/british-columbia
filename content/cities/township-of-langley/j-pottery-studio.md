@@ -1,5 +1,5 @@
 ---
 title: "J Pottery Studio"
 url: /township-of-langley/j-pottery-studio/
-shop: pottery
+shop: Töpferei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dutil"
 url: /vancouver/dutil/
-shop: clothes
+shop: Kleidung
 ---

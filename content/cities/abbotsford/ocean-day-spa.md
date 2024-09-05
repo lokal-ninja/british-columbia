@@ -1,5 +1,5 @@
 ---
 title: "Ocean Day Spa"
 url: /abbotsford/ocean-day-spa/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amy's"
 url: /vancouver/amys/
-shop: variety store
+shop: Kramladen
 ---

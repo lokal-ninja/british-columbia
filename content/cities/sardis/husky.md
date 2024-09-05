@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /sardis/husky/
-shop: convenience
+shop: Lebensmittel
 ---

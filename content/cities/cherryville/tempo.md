@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /cherryville/tempo/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /coquitlam/winners/
-shop: department store
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /richmond/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T's"
 url: /maple-ridge/ts/
-shop: tea
+shop: Tee
 ---

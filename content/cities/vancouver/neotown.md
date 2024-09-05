@@ -1,5 +1,5 @@
 ---
 title: "Neotown"
 url: /vancouver/neotown/
-shop: convenience
+shop: Lebensmittel
 ---

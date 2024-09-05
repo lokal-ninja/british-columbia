@@ -1,5 +1,5 @@
 ---
 title: "Neighbours"
 url: /surrey/neighbours/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Shirts That Talk"
 url: /qualicum-beach/t-shirts-that-talk/
-shop: clothes
+shop: Kleidung
 ---

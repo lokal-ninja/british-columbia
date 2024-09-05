@@ -1,5 +1,5 @@
 ---
 title: "Comor"
 url: /whistler/comor/
-shop: sports
+shop: Sport
 ---

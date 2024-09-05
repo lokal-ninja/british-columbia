@@ -1,5 +1,5 @@
 ---
 title: "Wren Boutique"
 url: /bowen-island/wren-boutique/
-shop: clothes
+shop: Kleidung
 ---

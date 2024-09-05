@@ -1,5 +1,5 @@
 ---
 title: "Quality Foods Parksville"
 url: /parksville/quality-foods-parksville/
-shop: supermarket
+shop: Supermarkt
 ---

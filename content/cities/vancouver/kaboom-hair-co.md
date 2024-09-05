@@ -1,5 +1,5 @@
 ---
 title: "Kaboom Hair Co."
 url: /vancouver/kaboom-hair-co/
-shop: hairdresser
+shop: Friseur
 ---

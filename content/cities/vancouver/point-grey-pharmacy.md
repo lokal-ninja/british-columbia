@@ -1,5 +1,5 @@
 ---
 title: "Point Grey Pharmacy"
 url: /vancouver/point-grey-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

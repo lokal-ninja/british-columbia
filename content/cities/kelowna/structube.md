@@ -1,5 +1,5 @@
 ---
 title: "Structube"
 url: /kelowna/structube/
-shop: furniture
+shop: Möbel
 ---

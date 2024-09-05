@@ -1,5 +1,5 @@
 ---
 title: "Bellami"
 url: /vancouver/bellami/
-shop: shop
+shop: Allgemein
 ---

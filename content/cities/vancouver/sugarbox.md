@@ -1,5 +1,5 @@
 ---
 title: "Sugarbox"
 url: /vancouver/sugarbox/
-shop: beauty
+shop: Kosmetik
 ---

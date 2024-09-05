@@ -1,5 +1,5 @@
 ---
 title: "Large Jade Antiques"
 url: /vancouver/large-jade-antiques/
-shop: gift
+shop: Andenken
 ---

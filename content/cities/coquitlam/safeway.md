@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /coquitlam/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

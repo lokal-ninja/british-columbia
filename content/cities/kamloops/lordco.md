@@ -1,5 +1,5 @@
 ---
 title: "Lordco"
 url: /kamloops/lordco/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dress Mi"
 url: /vancouver/dress-mi/
-shop: clothes
+shop: Kleidung
 ---

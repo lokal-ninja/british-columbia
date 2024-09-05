@@ -1,5 +1,5 @@
 ---
 title: "Miele"
 url: /vancouver/miele/
-shop: appliance
+shop: Haushaltsgeräte
 ---

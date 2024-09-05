@@ -1,5 +1,5 @@
 ---
 title: "Medi Spa La Bella"
 url: /richmond/medi-spa-la-bella/
-shop: beauty
+shop: Kosmetik
 ---

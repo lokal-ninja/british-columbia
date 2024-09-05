@@ -1,5 +1,5 @@
 ---
 title: "Happy Flowers"
 url: /vancouver/happy-flowers/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rimowa"
 url: /vancouver/rimowa/
-shop: bag
+shop: Taschen & Koffer
 ---

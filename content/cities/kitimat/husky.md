@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /kitimat/husky/
-shop: convenience
+shop: Lebensmittel
 ---

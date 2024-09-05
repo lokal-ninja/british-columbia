@@ -1,5 +1,5 @@
 ---
 title: "RODEO Jewellers"
 url: /vancouver/rodeo-jewellers/
-shop: watches
+shop: Uhren
 ---

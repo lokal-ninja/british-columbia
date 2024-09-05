@@ -1,5 +1,5 @@
 ---
 title: "Showcase"
 url: /kelowna/showcase/
-shop: gift
+shop: Andenken
 ---

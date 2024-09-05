@@ -1,5 +1,5 @@
 ---
 title: "Uniques"
 url: /vancouver/uniques/
-shop: antiques
+shop: Antiquitäten
 ---

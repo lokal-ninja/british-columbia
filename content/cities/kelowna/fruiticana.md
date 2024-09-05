@@ -1,5 +1,5 @@
 ---
 title: "Fruiticana"
 url: /kelowna/fruiticana/
-shop: supermarket
+shop: Supermarkt
 ---

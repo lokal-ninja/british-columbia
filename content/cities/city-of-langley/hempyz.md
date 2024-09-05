@@ -1,5 +1,5 @@
 ---
 title: "Hempyz"
 url: /city-of-langley/hempyz/
-shop: tobacco
+shop: Tabak
 ---

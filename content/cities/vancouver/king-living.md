@@ -1,5 +1,5 @@
 ---
 title: "King Living"
 url: /vancouver/king-living/
-shop: furniture
+shop: Möbel
 ---

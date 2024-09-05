@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /nanaimo/dollarama/
-shop: variety store
+shop: Kramladen
 ---

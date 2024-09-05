@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /duncan/jysk/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /valemount/shell/
-shop: convenience
+shop: Lebensmittel
 ---

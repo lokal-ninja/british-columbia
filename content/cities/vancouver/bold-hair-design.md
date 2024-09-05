@@ -1,5 +1,5 @@
 ---
 title: "Bold Hair Design"
 url: /vancouver/bold-hair-design/
-shop: beauty
+shop: Kosmetik
 ---

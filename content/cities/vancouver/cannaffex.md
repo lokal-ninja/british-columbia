@@ -1,5 +1,5 @@
 ---
 title: "Cannaffex"
 url: /vancouver/cannaffex/
-shop: cannabis
+shop: Hanf
 ---

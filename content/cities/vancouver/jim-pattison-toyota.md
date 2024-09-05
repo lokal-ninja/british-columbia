@@ -1,5 +1,5 @@
 ---
 title: "Jim Pattison Toyota"
 url: /vancouver/jim-pattison-toyota/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albion Books"
 url: /vancouver/albion-books-richards-street/
-shop: books
+shop: Bücher
 ---

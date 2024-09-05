@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /kelowna/aerie/
-shop: clothes
+shop: Kleidung
 ---

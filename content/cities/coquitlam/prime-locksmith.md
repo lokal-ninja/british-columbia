@@ -1,5 +1,5 @@
 ---
 title: "Prime Locksmith"
 url: /coquitlam/prime-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

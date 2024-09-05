@@ -1,5 +1,5 @@
 ---
 title: "Sparrow Salon"
 url: /victoria/sparrow-salon/
-shop: hairdresser
+shop: Friseur
 ---

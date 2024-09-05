@@ -1,5 +1,5 @@
 ---
 title: "Gescan"
 url: /vancouver/gescan/
-shop: electrical
+shop: Elektrisch
 ---

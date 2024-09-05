@@ -1,5 +1,5 @@
 ---
 title: "Vessel Liquor Store"
 url: /victoria/vessel-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

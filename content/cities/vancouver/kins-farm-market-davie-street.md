@@ -1,5 +1,5 @@
 ---
 title: "Kin's Farm Market"
 url: /vancouver/kins-farm-market-davie-street/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

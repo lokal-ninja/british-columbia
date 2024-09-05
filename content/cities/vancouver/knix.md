@@ -1,5 +1,5 @@
 ---
 title: "Knix"
 url: /vancouver/knix/
-shop: clothes
+shop: Kleidung
 ---

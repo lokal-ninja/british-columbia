@@ -1,5 +1,5 @@
 ---
 title: "Demo Nails"
 url: /surrey/demo-nails/
-shop: beauty
+shop: Kosmetik
 ---

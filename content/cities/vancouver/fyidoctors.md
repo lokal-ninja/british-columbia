@@ -1,5 +1,5 @@
 ---
 title: "FYidoctors"
 url: /vancouver/fyidoctors/
-shop: optician
+shop: Optiker
 ---

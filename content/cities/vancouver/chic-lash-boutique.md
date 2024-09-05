@@ -1,5 +1,5 @@
 ---
 title: "Chic Lash Boutique"
 url: /vancouver/chic-lash-boutique/
-shop: beauty
+shop: Kosmetik
 ---

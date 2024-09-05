@@ -1,5 +1,5 @@
 ---
 title: "Pacific Potato Corporation"
 url: /delta/pacific-potato-corporation/
-shop: farm
+shop: Hofladen
 ---

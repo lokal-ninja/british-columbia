@@ -1,5 +1,5 @@
 ---
 title: "Acacia"
 url: /vancouver/acacia/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Windsor Quality Meats"
 url: /vancouver/windsor-quality-meats/
-shop: butcher
+shop: Metzgerei
 ---
