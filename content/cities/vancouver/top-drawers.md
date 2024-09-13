@@ -1,5 +1,5 @@
 ---
 title: "Top Drawers"
 url: /vancouver/top-drawers/
-shop: Kleidung
+shop: clothes
 ---

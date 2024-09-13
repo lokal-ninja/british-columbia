@@ -1,5 +1,5 @@
 ---
 title: "BjornBar Bakery - Burquitlam"
 url: /coquitlam/bjornbar-bakery-burquitlam/
-shop: Bäckerei
+shop: bakery
 ---

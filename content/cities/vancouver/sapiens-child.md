@@ -1,5 +1,5 @@
 ---
 title: "Sapiens Child"
 url: /vancouver/sapiens-child/
-shop: Möbel
+shop: furniture
 ---

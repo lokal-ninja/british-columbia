@@ -1,5 +1,5 @@
 ---
 title: "HNT TOOLS"
 url: /maple-ridge/hnt-tools/
-shop: Eisenwaren
+shop: hardware
 ---

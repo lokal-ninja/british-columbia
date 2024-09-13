@@ -1,5 +1,5 @@
 ---
 title: "Jefferson's Barbershop"
 url: /vancouver/jeffersons-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

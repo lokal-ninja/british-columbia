@@ -1,5 +1,5 @@
 ---
 title: "Sitka Studio"
 url: /tlell/sitka-studio/
-shop: Kunst
+shop: art
 ---

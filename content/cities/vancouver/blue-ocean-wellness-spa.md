@@ -1,5 +1,5 @@
 ---
 title: "Blue Ocean Wellness Spa"
 url: /vancouver/blue-ocean-wellness-spa/
-shop: Massage
+shop: massage
 ---

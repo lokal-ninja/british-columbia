@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /burnaby/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

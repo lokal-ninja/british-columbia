@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
 url: /richmond/on-the-run/
-shop: Lebensmittel
+shop: convenience
 ---

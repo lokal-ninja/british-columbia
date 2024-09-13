@@ -1,5 +1,5 @@
 ---
 title: "Refrigerative Supply"
 url: /vancouver/refrigerative-supply/
-shop: Großhandel
+shop: wholesale
 ---

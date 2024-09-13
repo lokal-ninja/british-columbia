@@ -1,5 +1,5 @@
 ---
 title: "Mtt"
 url: /vancouver/mtt/
-shop: Reisebüro
+shop: travel agency
 ---

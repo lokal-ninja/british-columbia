@@ -1,5 +1,5 @@
 ---
 title: "Camper"
 url: /vancouver/camper/
-shop: Schuhe
+shop: shoes
 ---

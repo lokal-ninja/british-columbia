@@ -1,5 +1,5 @@
 ---
 title: "Stop 'N Shop"
 url: /langley/stop-n-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /kelowna/spencers/
-shop: Andenken
+shop: gift
 ---

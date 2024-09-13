@@ -1,5 +1,5 @@
 ---
 title: "Upper Village Market"
 url: /whistler/upper-village-market/
-shop: Supermarkt
+shop: supermarket
 ---

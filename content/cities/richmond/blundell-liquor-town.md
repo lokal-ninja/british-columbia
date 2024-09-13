@@ -1,5 +1,5 @@
 ---
 title: "Blundell Liquor Town"
 url: /richmond/blundell-liquor-town/
-shop: Spirituosen
+shop: alcohol
 ---

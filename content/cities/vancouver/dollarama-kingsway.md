@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /vancouver/dollarama-kingsway/
-shop: Kramladen
+shop: variety store
 ---

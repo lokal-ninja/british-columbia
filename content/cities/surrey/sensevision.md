@@ -1,5 +1,5 @@
 ---
 title: "SenseVision"
 url: /surrey/sensevision/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /nanaimo/jysk/
-shop: Möbel
+shop: furniture
 ---

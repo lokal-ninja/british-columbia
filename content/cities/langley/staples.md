@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /langley/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

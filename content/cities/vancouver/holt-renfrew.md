@@ -1,5 +1,5 @@
 ---
 title: "Holt Renfrew"
 url: /vancouver/holt-renfrew/
-shop: Warenhaus
+shop: department store
 ---

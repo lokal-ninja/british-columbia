@@ -1,5 +1,5 @@
 ---
 title: "West Coast Vape"
 url: /kamloops/west-coast-vape/
-shop: Tabak
+shop: tobacco
 ---

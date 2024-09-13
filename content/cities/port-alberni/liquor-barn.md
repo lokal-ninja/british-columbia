@@ -1,5 +1,5 @@
 ---
 title: "Liquor Barn"
 url: /port-alberni/liquor-barn/
-shop: Spirituosen
+shop: alcohol
 ---

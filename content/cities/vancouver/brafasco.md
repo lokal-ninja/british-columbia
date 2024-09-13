@@ -1,5 +1,5 @@
 ---
 title: "Brafasco"
 url: /vancouver/brafasco/
-shop: Eisenwaren
+shop: hardware
 ---

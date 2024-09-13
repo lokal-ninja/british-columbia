@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /vancouver/dollarama-fraser-street/
-shop: Kramladen
+shop: variety store
 ---

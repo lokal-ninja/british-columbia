@@ -1,5 +1,5 @@
 ---
 title: "Arrowsmith Bikes"
 url: /nanaimo/arrowsmith-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

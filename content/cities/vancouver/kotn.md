@@ -1,5 +1,5 @@
 ---
 title: "Kotn"
 url: /vancouver/kotn/
-shop: Kleidung
+shop: clothes
 ---

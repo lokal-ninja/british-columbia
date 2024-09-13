@@ -1,5 +1,5 @@
 ---
 title: "Regal Estate Jewels"
 url: /qualicum-beach/regal-estate-jewels/
-shop: Schmuck
+shop: jewelry
 ---

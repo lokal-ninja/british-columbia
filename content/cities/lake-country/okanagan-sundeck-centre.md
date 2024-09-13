@@ -1,5 +1,5 @@
 ---
 title: "Okanagan Sundeck Centre"
 url: /lake-country/okanagan-sundeck-centre/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cozy Corner Books"
 url: /coombs/cozy-corner-books/
-shop: Bücher
+shop: books
 ---

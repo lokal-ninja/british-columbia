@@ -1,5 +1,5 @@
 ---
 title: "Bicicletta"
 url: /vancouver/bicicletta-adanac-street/
-shop: Fahrrad
+shop: bicycle
 ---

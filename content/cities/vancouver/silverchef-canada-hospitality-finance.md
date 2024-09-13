@@ -1,5 +1,5 @@
 ---
 title: "SilverChef Canada - Hospitality Finance"
 url: /vancouver/silverchef-canada-hospitality-finance/
-shop: Mieten
+shop: storage rental
 ---

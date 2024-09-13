@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /coquitlam/jysk/
-shop: Möbel
+shop: furniture
 ---

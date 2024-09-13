@@ -1,5 +1,5 @@
 ---
 title: "Pharmasave"
 url: /burnaby/pharmasave/
-shop: Lebensmittel
+shop: convenience
 ---

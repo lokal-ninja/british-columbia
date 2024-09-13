@@ -1,5 +1,5 @@
 ---
 title: "Eileen Fisher"
 url: /vancouver/eileen-fisher/
-shop: Kleidung
+shop: clothes
 ---

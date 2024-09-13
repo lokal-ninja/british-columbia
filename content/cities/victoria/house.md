@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /victoria/house/
-shop: Kleidung
+shop: clothes
 ---

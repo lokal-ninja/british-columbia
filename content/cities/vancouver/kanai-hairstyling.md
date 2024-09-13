@@ -1,5 +1,5 @@
 ---
 title: "Kanai Hairstyling"
 url: /vancouver/kanai-hairstyling/
-shop: Friseur
+shop: hairdresser
 ---

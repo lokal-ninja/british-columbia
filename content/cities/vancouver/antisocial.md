@@ -1,5 +1,5 @@
 ---
 title: "AntiSocial"
 url: /vancouver/antisocial/
-shop: Sport
+shop: sports
 ---

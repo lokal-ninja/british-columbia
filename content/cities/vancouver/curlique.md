@@ -1,5 +1,5 @@
 ---
 title: "Curlique"
 url: /vancouver/curlique/
-shop: Kosmetik
+shop: beauty
 ---

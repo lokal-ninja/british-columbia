@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /vancouver/burberry/
-shop: Kleidung
+shop: clothes
 ---

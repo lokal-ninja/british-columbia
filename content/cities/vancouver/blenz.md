@@ -1,5 +1,5 @@
 ---
 title: "Blenz"
 url: /vancouver/blenz/
-shop: Kaffee
+shop: coffee
 ---

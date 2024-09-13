@@ -1,5 +1,5 @@
 ---
 title: "Magicuts"
 url: /burnaby/magicuts/
-shop: Friseur
+shop: hairdresser
 ---

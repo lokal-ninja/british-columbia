@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /surrey/garage/
-shop: Kleidung
+shop: clothes
 ---

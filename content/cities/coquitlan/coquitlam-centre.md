@@ -1,5 +1,5 @@
 ---
 title: "Coquitlam Centre"
 url: /coquitlan/coquitlam-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GIRO"
 url: /gabriola/giro/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trail Appliances - Richmond"
 url: /richmond/trail-appliances-richmond/
-shop: Haushaltsgeräte
+shop: appliance
 ---

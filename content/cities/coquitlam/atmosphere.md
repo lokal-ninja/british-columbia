@@ -1,5 +1,5 @@
 ---
 title: "Atmosphere"
 url: /coquitlam/atmosphere/
-shop: Outdoor
+shop: outdoor
 ---

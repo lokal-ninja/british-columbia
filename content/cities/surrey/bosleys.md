@@ -1,5 +1,5 @@
 ---
 title: "Bosley's"
 url: /surrey/bosleys/
-shop: Tiere
+shop: pet
 ---

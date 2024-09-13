@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /burnaby/nike/
-shop: Kleidung
+shop: clothes
 ---

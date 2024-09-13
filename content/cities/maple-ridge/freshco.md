@@ -1,5 +1,5 @@
 ---
 title: "FreshCo"
 url: /maple-ridge/freshco/
-shop: Supermarkt
+shop: supermarket
 ---

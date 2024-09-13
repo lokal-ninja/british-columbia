@@ -1,5 +1,5 @@
 ---
 title: "Save-On-Foods"
 url: /duncan/save-on-foods/
-shop: Supermarkt
+shop: supermarket
 ---

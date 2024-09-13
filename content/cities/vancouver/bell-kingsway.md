@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /vancouver/bell-kingsway/
-shop: Handy
+shop: mobile phone
 ---

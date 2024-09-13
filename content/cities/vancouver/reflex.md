@@ -1,5 +1,5 @@
 ---
 title: "Reflex"
 url: /vancouver/reflex/
-shop: Möbel
+shop: furniture
 ---

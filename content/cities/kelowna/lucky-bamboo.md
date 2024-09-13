@@ -1,5 +1,5 @@
 ---
 title: "Lucky Bamboo"
 url: /kelowna/lucky-bamboo/
-shop: Modehaus
+shop: boutique
 ---

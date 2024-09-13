@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /abbotsford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

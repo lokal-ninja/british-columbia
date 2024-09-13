@@ -1,5 +1,5 @@
 ---
 title: "The Raving Gamer Bistro"
 url: /langley-city/the-raving-gamer-bistro/
-shop: Spiele
+shop: games
 ---

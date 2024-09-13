@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /vancouver/ecco-granville-street/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richmond Chrysler"
 url: /richmond/richmond-chrysler/
-shop: Autohaus
+shop: car
 ---

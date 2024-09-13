@@ -1,5 +1,5 @@
 ---
 title: "Artel Salon"
 url: /vancouver/artel-salon-fraser-street/
-shop: Friseur
+shop: hairdresser
 ---

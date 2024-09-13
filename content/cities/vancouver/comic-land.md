@@ -1,5 +1,5 @@
 ---
 title: "Comic Land"
 url: /vancouver/comic-land/
-shop: Spielzeug
+shop: toys
 ---

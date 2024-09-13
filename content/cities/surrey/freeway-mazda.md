@@ -1,5 +1,5 @@
 ---
 title: "Freeway Mazda"
 url: /surrey/freeway-mazda/
-shop: Autohaus
+shop: car
 ---

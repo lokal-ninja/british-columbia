@@ -1,5 +1,5 @@
 ---
 title: "Dashing.Dawgs"
 url: /vancouver/dashing-dawgs/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kascade Coin Laundry"
 url: /langley/kascade-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

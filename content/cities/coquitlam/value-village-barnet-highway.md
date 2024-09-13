@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /coquitlam/value-village-barnet-highway/
-shop: Gebrauchtwaren
+shop: charity
 ---

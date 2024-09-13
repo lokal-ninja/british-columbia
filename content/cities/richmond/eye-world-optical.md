@@ -1,5 +1,5 @@
 ---
 title: "Eye World Optical"
 url: /richmond/eye-world-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maska"
 url: /vancouver/maska/
-shop: Kleidung
+shop: clothes
 ---

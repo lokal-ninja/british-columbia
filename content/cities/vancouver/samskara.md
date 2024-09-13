@@ -1,5 +1,5 @@
 ---
 title: "Samskara"
 url: /vancouver/samskara/
-shop: Kosmetik
+shop: beauty
 ---

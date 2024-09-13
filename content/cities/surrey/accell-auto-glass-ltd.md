@@ -1,5 +1,5 @@
 ---
 title: "Accell Auto Glass Ltd"
 url: /surrey/accell-auto-glass-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

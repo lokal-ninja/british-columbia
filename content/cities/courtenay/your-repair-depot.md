@@ -1,5 +1,5 @@
 ---
 title: "Your Repair Depot"
 url: /courtenay/your-repair-depot/
-shop: Elektronik
+shop: electronics
 ---

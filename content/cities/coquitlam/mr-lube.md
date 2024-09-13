@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
 url: /coquitlam/mr-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

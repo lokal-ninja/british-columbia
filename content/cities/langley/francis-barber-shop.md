@@ -1,5 +1,5 @@
 ---
 title: "Francis Barber Shop"
 url: /langley/francis-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

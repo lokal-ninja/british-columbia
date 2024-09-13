@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /richmond/roots/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virgin Plus"
 url: /kelowna/virgin-plus/
-shop: Handy
+shop: mobile phone
 ---

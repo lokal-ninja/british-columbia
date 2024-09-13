@@ -1,5 +1,5 @@
 ---
 title: "Pacifica Paddle Sports"
 url: /brentwood-bay/pacifica-paddle-sports/
-shop: Sport
+shop: sports
 ---

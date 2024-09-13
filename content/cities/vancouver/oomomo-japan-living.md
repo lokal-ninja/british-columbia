@@ -1,5 +1,5 @@
 ---
 title: "OOMOMO Japan Living"
 url: /vancouver/oomomo-japan-living/
-shop: Warenhaus
+shop: department store
 ---

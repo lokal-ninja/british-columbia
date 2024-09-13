@@ -1,5 +1,5 @@
 ---
 title: "Wild Kingdom"
 url: /kelowna/wild-kingdom/
-shop: Erotik
+shop: erotic
 ---

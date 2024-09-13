@@ -1,5 +1,5 @@
 ---
 title: "skoah Morgan Crossing"
 url: /surrey/skoah-morgan-crossing/
-shop: Kosmetik
+shop: beauty
 ---

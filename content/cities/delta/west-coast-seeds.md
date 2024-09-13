@@ -1,5 +1,5 @@
 ---
 title: "West Coast Seeds"
 url: /delta/west-coast-seeds/
-shop: Garten-Center
+shop: garden centre
 ---

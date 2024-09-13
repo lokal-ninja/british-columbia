@@ -1,5 +1,5 @@
 ---
 title: "Protex"
 url: /kamloops/protex/
-shop: Autowerkstatt
+shop: car repair
 ---

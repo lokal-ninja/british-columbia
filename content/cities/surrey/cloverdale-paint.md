@@ -1,5 +1,5 @@
 ---
 title: "Cloverdale Paint"
 url: /surrey/cloverdale-paint/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Active Baby"
 url: /north-vancouver/active-baby/
-shop: Babysachen
+shop: baby goods
 ---

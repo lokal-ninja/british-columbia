@@ -1,5 +1,5 @@
 ---
 title: "Blackwell Supply Co."
 url: /kelowna/blackwell-supply-co/
-shop: Schuhe
+shop: shoes
 ---

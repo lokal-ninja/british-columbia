@@ -1,5 +1,5 @@
 ---
 title: "Impression Floors"
 url: /kelowna/impression-floors/
-shop: Teppiche
+shop: carpet
 ---

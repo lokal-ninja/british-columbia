@@ -1,5 +1,5 @@
 ---
 title: "Boss Exotics"
 url: /surrey/boss-exotics/
-shop: Süßwaren
+shop: confectionery
 ---

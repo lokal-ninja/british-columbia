@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /prince-george/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

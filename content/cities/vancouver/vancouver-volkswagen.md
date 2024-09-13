@@ -1,5 +1,5 @@
 ---
 title: "Vancouver Volkswagen"
 url: /vancouver/vancouver-volkswagen/
-shop: Autohaus
+shop: car
 ---

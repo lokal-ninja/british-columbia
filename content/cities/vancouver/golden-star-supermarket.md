@@ -1,5 +1,5 @@
 ---
 title: "Golden Star Supermarket"
 url: /vancouver/golden-star-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

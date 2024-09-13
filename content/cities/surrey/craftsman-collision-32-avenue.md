@@ -1,5 +1,5 @@
 ---
 title: "Craftsman Collision"
 url: /surrey/craftsman-collision-32-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

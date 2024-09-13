@@ -1,5 +1,5 @@
 ---
 title: "Reo's"
 url: /nelson/reos/
-shop: Videothek
+shop: video
 ---

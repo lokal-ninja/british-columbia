@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto Langley"
 url: /surrey/fix-auto-langley/
-shop: Autowerkstatt
+shop: car repair
 ---

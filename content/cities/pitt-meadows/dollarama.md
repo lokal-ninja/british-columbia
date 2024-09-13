@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /pitt-meadows/dollarama/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dr Love"
 url: /kamloops/dr-love/
-shop: Erotik
+shop: erotic
 ---

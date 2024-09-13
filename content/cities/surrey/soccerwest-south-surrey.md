@@ -1,5 +1,5 @@
 ---
 title: "Soccerwest South Surrey"
 url: /surrey/soccerwest-south-surrey/
-shop: Sport
+shop: sports
 ---

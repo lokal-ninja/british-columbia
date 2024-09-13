@@ -1,5 +1,5 @@
 ---
 title: "Snowflake"
 url: /vancouver/snowflake/
-shop: Kleidung
+shop: clothes
 ---

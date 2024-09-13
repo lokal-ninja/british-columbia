@@ -1,5 +1,5 @@
 ---
 title: "Maxim's Bakery"
 url: /richmond/maxims-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noir Lash Lounge"
 url: /vancouver/noir-lash-lounge/
-shop: Kosmetik
+shop: beauty
 ---

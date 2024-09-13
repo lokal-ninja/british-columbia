@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /vancouver/sephora-robson-street/
-shop: Kosmetik
+shop: beauty
 ---

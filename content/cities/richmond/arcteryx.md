@@ -1,5 +1,5 @@
 ---
 title: "Arc'teryx"
 url: /richmond/arcteryx/
-shop: Kleidung
+shop: clothes
 ---

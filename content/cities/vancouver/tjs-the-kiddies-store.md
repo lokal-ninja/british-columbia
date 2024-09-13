@@ -1,5 +1,5 @@
 ---
 title: "TJ's The Kiddies Store"
 url: /vancouver/tjs-the-kiddies-store/
-shop: Babysachen
+shop: baby goods
 ---

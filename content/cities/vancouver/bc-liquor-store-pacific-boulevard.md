@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor Store"
 url: /vancouver/bc-liquor-store-pacific-boulevard/
-shop: Spirituosen
+shop: alcohol
 ---

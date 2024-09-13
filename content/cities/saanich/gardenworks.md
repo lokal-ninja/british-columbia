@@ -1,5 +1,5 @@
 ---
 title: "GARDENWORKS"
 url: /saanich/gardenworks/
-shop: Garten-Center
+shop: garden centre
 ---

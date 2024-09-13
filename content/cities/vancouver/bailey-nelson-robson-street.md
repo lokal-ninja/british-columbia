@@ -1,5 +1,5 @@
 ---
 title: "Bailey Nelson"
 url: /vancouver/bailey-nelson-robson-street/
-shop: Optiker
+shop: optician
 ---

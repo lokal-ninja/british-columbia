@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /kamloops/marks/
-shop: Kleidung
+shop: clothes
 ---

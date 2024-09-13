@@ -1,5 +1,5 @@
 ---
 title: "The Kit and Kaboodle: KIDSVILLE"
 url: /parksville/the-kit-and-kaboodle-kidsville/
-shop: Kleidung
+shop: clothes
 ---

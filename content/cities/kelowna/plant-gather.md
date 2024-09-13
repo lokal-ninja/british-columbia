@@ -1,5 +1,5 @@
 ---
 title: "Plant Gather"
 url: /kelowna/plant-gather/
-shop: Garten-Center
+shop: garden centre
 ---

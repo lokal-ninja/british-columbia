@@ -1,5 +1,5 @@
 ---
 title: "WirelessWave"
 url: /kelowna/wirelesswave/
-shop: Handy
+shop: mobile phone
 ---

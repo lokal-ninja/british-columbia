@@ -1,5 +1,5 @@
 ---
 title: "Air"
 url: /vancouver/air/
-shop: Friseur
+shop: hairdresser
 ---

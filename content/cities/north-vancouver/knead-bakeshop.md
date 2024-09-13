@@ -1,5 +1,5 @@
 ---
 title: "Knead Bakeshop"
 url: /north-vancouver/knead-bakeshop/
-shop: Allgemein
+shop: shop
 ---

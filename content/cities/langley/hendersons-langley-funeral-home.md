@@ -1,5 +1,5 @@
 ---
 title: "Henderson's Langley Funeral Home"
 url: /langley/hendersons-langley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

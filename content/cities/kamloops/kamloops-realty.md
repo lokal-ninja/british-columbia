@@ -1,5 +1,5 @@
 ---
 title: "Kamloops Realty"
 url: /kamloops/kamloops-realty/
-shop: Allgemein
+shop: shop
 ---

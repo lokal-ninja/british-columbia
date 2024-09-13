@@ -1,5 +1,5 @@
 ---
 title: "High Point"
 url: /vancouver/high-point/
-shop: Spirituosen
+shop: alcohol
 ---

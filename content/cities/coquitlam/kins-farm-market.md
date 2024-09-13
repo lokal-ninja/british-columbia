@@ -1,5 +1,5 @@
 ---
 title: "Kin's Farm Market"
 url: /coquitlam/kins-farm-market/
-shop: Supermarkt
+shop: supermarket
 ---

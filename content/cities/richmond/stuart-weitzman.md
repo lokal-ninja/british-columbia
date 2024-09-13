@@ -1,5 +1,5 @@
 ---
 title: "Stuart Weitzman"
 url: /richmond/stuart-weitzman/
-shop: Schuhe
+shop: shoes
 ---

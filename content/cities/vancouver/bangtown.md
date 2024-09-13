@@ -1,5 +1,5 @@
 ---
 title: "Bangtown"
 url: /vancouver/bangtown/
-shop: Friseur
+shop: hairdresser
 ---

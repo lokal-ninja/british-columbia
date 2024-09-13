@@ -1,5 +1,5 @@
 ---
 title: "Granville Tobacconist"
 url: /vancouver/granville-tobacconist/
-shop: Tabak
+shop: tobacco
 ---

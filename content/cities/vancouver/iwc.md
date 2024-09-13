@@ -1,5 +1,5 @@
 ---
 title: "IWC"
 url: /vancouver/iwc/
-shop: Uhren
+shop: watches
 ---

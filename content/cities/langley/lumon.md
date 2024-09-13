@@ -1,5 +1,5 @@
 ---
 title: "Lumon"
 url: /langley/lumon/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bicicletta"
 url: /vancouver/bicicletta/
-shop: Fahrrad
+shop: bicycle
 ---

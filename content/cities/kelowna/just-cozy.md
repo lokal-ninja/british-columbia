@@ -1,5 +1,5 @@
 ---
 title: "Just Cozy"
 url: /kelowna/just-cozy/
-shop: Kleidung
+shop: clothes
 ---

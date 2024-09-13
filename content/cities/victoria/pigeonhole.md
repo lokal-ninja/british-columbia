@@ -1,5 +1,5 @@
 ---
 title: "Pigeonhole"
 url: /victoria/pigeonhole/
-shop: Raumausstattung
+shop: interior decoration
 ---

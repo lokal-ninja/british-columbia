@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /north-vancouver-city/dollarama/
-shop: Kramladen
+shop: variety store
 ---

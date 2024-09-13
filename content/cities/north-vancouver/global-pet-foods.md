@@ -1,5 +1,5 @@
 ---
 title: "Global Pet Foods"
 url: /north-vancouver/global-pet-foods/
-shop: Tiere
+shop: pet
 ---

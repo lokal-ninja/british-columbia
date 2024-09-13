@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /abbotsford/fido/
-shop: Handy
+shop: mobile phone
 ---

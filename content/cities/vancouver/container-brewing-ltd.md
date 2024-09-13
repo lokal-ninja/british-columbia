@@ -1,5 +1,5 @@
 ---
 title: "Container Brewing Ltd."
 url: /vancouver/container-brewing-ltd/
-shop: Spirituosen
+shop: alcohol
 ---

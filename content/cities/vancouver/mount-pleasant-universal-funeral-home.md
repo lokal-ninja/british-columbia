@@ -1,5 +1,5 @@
 ---
 title: "Mount Pleasant Universal Funeral Home"
 url: /vancouver/mount-pleasant-universal-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

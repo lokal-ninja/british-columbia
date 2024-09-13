@@ -1,5 +1,5 @@
 ---
 title: "PABLO Cheese Tart"
 url: /vancouver/pablo-cheese-tart/
-shop: Bäckerei
+shop: bakery
 ---

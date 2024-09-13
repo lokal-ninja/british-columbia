@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /nanaimo/lush/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blink Brow Bar"
 url: /vancouver/blink-brow-bar/
-shop: Kosmetik
+shop: beauty
 ---

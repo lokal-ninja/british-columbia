@@ -1,5 +1,5 @@
 ---
 title: "Solo Market"
 url: /vancouver/solo-market/
-shop: Lebensmittel
+shop: convenience
 ---

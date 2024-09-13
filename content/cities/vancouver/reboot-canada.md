@@ -1,5 +1,5 @@
 ---
 title: "reBoot Canada"
 url: /vancouver/reboot-canada/
-shop: Computer
+shop: computer
 ---

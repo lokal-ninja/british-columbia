@@ -1,5 +1,5 @@
 ---
 title: "Consumers Produce"
 url: /vancouver/consumers-produce/
-shop: Supermarkt
+shop: supermarket
 ---

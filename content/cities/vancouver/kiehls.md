@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
 url: /vancouver/kiehls/
-shop: Kosmetik
+shop: beauty
 ---

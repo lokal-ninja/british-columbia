@@ -1,5 +1,5 @@
 ---
 title: "The Skin Girls"
 url: /vancouver/the-skin-girls/
-shop: Kosmetik
+shop: beauty
 ---

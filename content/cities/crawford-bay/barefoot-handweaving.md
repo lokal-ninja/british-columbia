@@ -1,5 +1,5 @@
 ---
 title: "Barefoot Handweaving"
 url: /crawford-bay/barefoot-handweaving/
-shop: Basteln
+shop: craft
 ---

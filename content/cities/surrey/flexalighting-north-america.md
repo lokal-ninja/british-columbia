@@ -1,5 +1,5 @@
 ---
 title: "Flexalighting North America"
 url: /surrey/flexalighting-north-america/
-shop: Lampen
+shop: lamps
 ---

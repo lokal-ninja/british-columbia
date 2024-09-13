@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /pemberton/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

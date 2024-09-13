@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /richmond/muji/
-shop: Warenhaus
+shop: department store
 ---

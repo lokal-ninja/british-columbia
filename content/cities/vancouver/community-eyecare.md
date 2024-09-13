@@ -1,5 +1,5 @@
 ---
 title: "Community Eyecare"
 url: /vancouver/community-eyecare/
-shop: Optiker
+shop: optician
 ---

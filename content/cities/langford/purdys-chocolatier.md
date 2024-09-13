@@ -1,5 +1,5 @@
 ---
 title: "Purdys Chocolatier"
 url: /langford/purdys-chocolatier/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daiso"
 url: /surrey/daiso/
-shop: Kramladen
+shop: variety store
 ---

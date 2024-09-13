@@ -1,5 +1,5 @@
 ---
 title: "Island Potters"
 url: /hornby-island/island-potters/
-shop: Töpferei
+shop: pottery
 ---

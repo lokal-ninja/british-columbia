@@ -1,5 +1,5 @@
 ---
 title: "Supertech Auto Repair"
 url: /north-vancouver/supertech-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

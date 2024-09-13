@@ -1,5 +1,5 @@
 ---
 title: "Lee's Donuts"
 url: /langley/lees-donuts/
-shop: Bäckerei
+shop: bakery
 ---

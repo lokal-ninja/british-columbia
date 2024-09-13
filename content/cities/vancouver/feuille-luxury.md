@@ -1,5 +1,5 @@
 ---
 title: "Feuille Luxury"
 url: /vancouver/feuille-luxury/
-shop: Kleidung
+shop: clothes
 ---

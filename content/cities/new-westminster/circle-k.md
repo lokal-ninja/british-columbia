@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /new-westminster/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

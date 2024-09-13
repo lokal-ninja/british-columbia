@@ -1,5 +1,5 @@
 ---
 title: "Maverick Foods"
 url: /port-edward/maverick-foods/
-shop: Lebensmittel
+shop: convenience
 ---

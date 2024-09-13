@@ -1,5 +1,5 @@
 ---
 title: "Burrard Corner Store"
 url: /vancouver/burrard-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

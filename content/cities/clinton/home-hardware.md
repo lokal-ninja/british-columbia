@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /clinton/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

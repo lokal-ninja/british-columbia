@@ -1,5 +1,5 @@
 ---
 title: "Evergreen International Foodstuffs LTD"
 url: /vancouver/evergreen-international-foodstuffs-ltd/
-shop: Großhandel
+shop: wholesale
 ---

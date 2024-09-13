@@ -1,5 +1,5 @@
 ---
 title: "Cyclepath Kelowna"
 url: /kelowna/cyclepath-kelowna/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ricki's"
 url: /kelowna/rickis/
-shop: Kleidung
+shop: clothes
 ---

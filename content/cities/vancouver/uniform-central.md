@@ -1,5 +1,5 @@
 ---
 title: "Uniform Central"
 url: /vancouver/uniform-central/
-shop: Kleidung
+shop: clothes
 ---

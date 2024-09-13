@@ -1,5 +1,5 @@
 ---
 title: "Fruiticana"
 url: /new-westminster/fruiticana/
-shop: Supermarkt
+shop: supermarket
 ---

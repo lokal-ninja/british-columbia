@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cranbrook/walmart/
-shop: Warenhaus
+shop: department store
 ---

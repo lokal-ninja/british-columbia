@@ -1,5 +1,5 @@
 ---
 title: "Vitasave"
 url: /vancouver/vitasave/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corcelettes Estate Winery"
 url: /keremeos/corcelettes-estate-winery/
-shop: Spirituosen
+shop: alcohol
 ---

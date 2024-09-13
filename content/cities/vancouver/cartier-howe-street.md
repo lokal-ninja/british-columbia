@@ -1,5 +1,5 @@
 ---
 title: "Cartier"
 url: /vancouver/cartier-howe-street/
-shop: Schmuck
+shop: jewelry
 ---

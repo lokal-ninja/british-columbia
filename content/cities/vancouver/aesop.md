@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
 url: /vancouver/aesop/
-shop: Kosmetik
+shop: beauty
 ---

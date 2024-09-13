@@ -1,5 +1,5 @@
 ---
 title: "Pistachio Boutique"
 url: /surrey/pistachio-boutique/
-shop: Kleidung
+shop: clothes
 ---

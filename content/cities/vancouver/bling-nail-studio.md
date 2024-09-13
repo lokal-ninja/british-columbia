@@ -1,5 +1,5 @@
 ---
 title: "Bling Nail Studio"
 url: /vancouver/bling-nail-studio/
-shop: Kosmetik
+shop: beauty
 ---

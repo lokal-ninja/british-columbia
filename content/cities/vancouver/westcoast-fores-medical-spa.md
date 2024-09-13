@@ -1,5 +1,5 @@
 ---
 title: "Westcoast Fores Medical Spa"
 url: /vancouver/westcoast-fores-medical-spa/
-shop: Massage
+shop: massage
 ---

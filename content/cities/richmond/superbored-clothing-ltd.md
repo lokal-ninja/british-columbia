@@ -1,5 +1,5 @@
 ---
 title: "Superbored Clothing Ltd."
 url: /richmond/superbored-clothing-ltd/
-shop: Kleidung
+shop: clothes
 ---

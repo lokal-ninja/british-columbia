@@ -1,5 +1,5 @@
 ---
 title: "Aria Market"
 url: /vancouver/aria-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nicholas Alexander"
 url: /vernon/nicholas-alexander/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marv Jones Honda"
 url: /maple-ridge/marv-jones-honda/
-shop: Autohaus
+shop: car
 ---

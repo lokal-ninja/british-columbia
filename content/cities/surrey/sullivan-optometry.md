@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Optometry"
 url: /surrey/sullivan-optometry/
-shop: Optiker
+shop: optician
 ---

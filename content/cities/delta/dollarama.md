@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /delta/dollarama/
-shop: Kramladen
+shop: variety store
 ---

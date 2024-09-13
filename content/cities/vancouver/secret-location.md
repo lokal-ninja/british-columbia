@@ -1,5 +1,5 @@
 ---
 title: "Secret Location"
 url: /vancouver/secret-location/
-shop: Allgemein
+shop: shop
 ---

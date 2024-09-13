@@ -1,5 +1,5 @@
 ---
 title: "Pupper Palace"
 url: /vancouver/pupper-palace/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caposhie"
 url: /kelowna/caposhie/
-shop: Allgemein
+shop: shop
 ---

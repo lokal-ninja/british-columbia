@@ -1,5 +1,5 @@
 ---
 title: "Bosa Foods"
 url: /vancouver/bosa-foods/
-shop: Supermarkt
+shop: supermarket
 ---

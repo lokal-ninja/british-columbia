@@ -1,5 +1,5 @@
 ---
 title: "Lordco"
 url: /surrey/lordco/
-shop: Autoteile
+shop: car parts
 ---

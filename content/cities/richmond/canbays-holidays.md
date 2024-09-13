@@ -1,5 +1,5 @@
 ---
 title: "CanBays Holidays"
 url: /richmond/canbays-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

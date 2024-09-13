@@ -1,5 +1,5 @@
 ---
 title: "Continental Repairs"
 url: /vancouver/continental-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

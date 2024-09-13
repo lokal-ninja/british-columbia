@@ -1,5 +1,5 @@
 ---
 title: "Graff"
 url: /vancouver/graff/
-shop: Schmuck
+shop: jewelry
 ---

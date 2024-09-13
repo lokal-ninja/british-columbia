@@ -1,5 +1,5 @@
 ---
 title: "London Drugs"
 url: /nanaimo/london-drugs/
-shop: Warenhaus
+shop: department store
 ---

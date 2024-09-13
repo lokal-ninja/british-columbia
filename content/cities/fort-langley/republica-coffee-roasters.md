@@ -1,5 +1,5 @@
 ---
 title: "Republica Coffee Roasters"
 url: /fort-langley/republica-coffee-roasters/
-shop: Kaffee
+shop: coffee
 ---

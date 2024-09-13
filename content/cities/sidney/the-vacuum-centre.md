@@ -1,5 +1,5 @@
 ---
 title: "The Vacuum Centre"
 url: /sidney/the-vacuum-centre/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

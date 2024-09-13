@@ -1,5 +1,5 @@
 ---
 title: "City Avenue Market"
 url: /vancouver/city-avenue-market/
-shop: Lebensmittel
+shop: convenience
 ---

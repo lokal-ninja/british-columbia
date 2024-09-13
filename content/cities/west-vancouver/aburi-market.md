@@ -1,5 +1,5 @@
 ---
 title: "ABURI Market"
 url: /west-vancouver/aburi-market/
-shop: Lebensmittel
+shop: convenience
 ---

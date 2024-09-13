@@ -1,5 +1,5 @@
 ---
-title: "Frank And Oak"
+title: "Frank & Oak"
 url: /vancouver/frank-and-oak/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Driftwood Mall"
 url: /courtenay/driftwood-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

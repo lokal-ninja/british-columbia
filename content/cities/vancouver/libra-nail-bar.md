@@ -1,5 +1,5 @@
 ---
 title: "Libra Nail Bar"
 url: /vancouver/libra-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

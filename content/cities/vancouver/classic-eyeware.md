@@ -1,5 +1,5 @@
 ---
 title: "Classic Eyeware"
 url: /vancouver/classic-eyeware/
-shop: Optiker
+shop: optician
 ---

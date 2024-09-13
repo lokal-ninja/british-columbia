@@ -1,5 +1,5 @@
 ---
 title: "Lian Hair Salon"
 url: /vancouver/lian-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

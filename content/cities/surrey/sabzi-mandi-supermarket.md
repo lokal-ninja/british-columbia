@@ -1,5 +1,5 @@
 ---
 title: "Sabzi Mandi Supermarket"
 url: /surrey/sabzi-mandi-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

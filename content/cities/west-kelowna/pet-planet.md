@@ -1,5 +1,5 @@
 ---
 title: "Pet Planet"
 url: /west-kelowna/pet-planet/
-shop: Tiere
+shop: pet
 ---

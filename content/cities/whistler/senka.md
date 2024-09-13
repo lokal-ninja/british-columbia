@@ -1,5 +1,5 @@
 ---
 title: "Senka"
 url: /whistler/senka/
-shop: Blumen
+shop: florist
 ---

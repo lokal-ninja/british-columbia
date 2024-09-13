@@ -1,5 +1,5 @@
 ---
 title: "California Closets"
 url: /vancouver/california-closets/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John's Thistle Auto"
 url: /delta/johns-thistle-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

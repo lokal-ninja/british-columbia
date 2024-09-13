@@ -1,5 +1,5 @@
 ---
 title: "Wild Poppy Market"
 url: /ladysmith/wild-poppy-market/
-shop: Bäckerei
+shop: bakery
 ---

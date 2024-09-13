@@ -1,5 +1,5 @@
 ---
 title: "Leon's"
 url: /richmond/leons/
-shop: Möbel
+shop: furniture
 ---

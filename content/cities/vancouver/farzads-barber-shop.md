@@ -1,5 +1,5 @@
 ---
 title: "Farzad's Barber Shop"
 url: /vancouver/farzads-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

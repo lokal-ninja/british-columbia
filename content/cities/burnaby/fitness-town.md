@@ -1,5 +1,5 @@
 ---
 title: "Fitness Town"
 url: /burnaby/fitness-town/
-shop: Fitness
+shop: fitness equipment
 ---

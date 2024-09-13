@@ -1,5 +1,5 @@
 ---
 title: "Mar Mac Grocery"
 url: /surrey/mar-mac-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

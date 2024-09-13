@@ -1,5 +1,5 @@
 ---
 title: "Century Batteries"
 url: /port-coquitlam/century-batteries/
-shop: Allgemein
+shop: shop
 ---

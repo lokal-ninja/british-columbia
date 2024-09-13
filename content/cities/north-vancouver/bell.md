@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /north-vancouver/bell/
-shop: Handy
+shop: mobile phone
 ---

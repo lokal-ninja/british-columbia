@@ -1,5 +1,5 @@
 ---
 title: "Town Pantry"
 url: /port-hardy/town-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

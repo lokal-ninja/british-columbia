@@ -1,5 +1,5 @@
 ---
 title: "Rivian"
 url: /burnaby/rivian/
-shop: Autohaus
+shop: car
 ---

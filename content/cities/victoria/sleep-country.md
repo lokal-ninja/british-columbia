@@ -1,5 +1,5 @@
 ---
 title: "Sleep Country"
 url: /victoria/sleep-country/
-shop: Betten
+shop: bed
 ---

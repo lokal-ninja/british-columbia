@@ -1,5 +1,5 @@
 ---
 title: "Summerland Optometry Clinic"
 url: /summerland/summerland-optometry-clinic/
-shop: Optiker
+shop: optician
 ---

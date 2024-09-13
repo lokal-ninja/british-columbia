@@ -1,5 +1,5 @@
 ---
 title: "Animal Magic Pet Boutique"
 url: /nanaimo/animal-magic-pet-boutique/
-shop: Tiere
+shop: pet
 ---

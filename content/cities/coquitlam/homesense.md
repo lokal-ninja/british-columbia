@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /coquitlam/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

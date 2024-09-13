@@ -1,5 +1,5 @@
 ---
 title: "CottonMouth"
 url: /vancouver/cottonmouth/
-shop: Hanf
+shop: cannabis
 ---

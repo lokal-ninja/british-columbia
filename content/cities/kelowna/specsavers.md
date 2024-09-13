@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /kelowna/specsavers/
-shop: Optiker
+shop: optician
 ---

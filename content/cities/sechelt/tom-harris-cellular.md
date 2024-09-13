@@ -1,5 +1,5 @@
 ---
 title: "Tom Harris Cellular"
 url: /sechelt/tom-harris-cellular/
-shop: Handy
+shop: mobile phone
 ---

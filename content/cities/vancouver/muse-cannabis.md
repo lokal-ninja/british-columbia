@@ -1,5 +1,5 @@
 ---
 title: "Muse Cannabis"
 url: /vancouver/muse-cannabis/
-shop: Hanf
+shop: cannabis
 ---

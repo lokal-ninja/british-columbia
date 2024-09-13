@@ -1,5 +1,5 @@
 ---
 title: "Ghaziani"
 url: /vancouver/ghaziani/
-shop: Kleidung
+shop: clothes
 ---

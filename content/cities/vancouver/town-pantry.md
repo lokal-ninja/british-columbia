@@ -1,5 +1,5 @@
 ---
 title: "Town Pantry"
 url: /vancouver/town-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

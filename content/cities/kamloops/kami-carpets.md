@@ -1,5 +1,5 @@
 ---
 title: "Kami Carpets"
 url: /kamloops/kami-carpets/
-shop: Teppiche
+shop: carpet
 ---

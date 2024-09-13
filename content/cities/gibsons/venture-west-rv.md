@@ -1,5 +1,5 @@
 ---
 title: "Venture West RV"
 url: /gibsons/venture-west-rv/
-shop: Autoteile
+shop: car parts
 ---

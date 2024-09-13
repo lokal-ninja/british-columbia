@@ -1,5 +1,5 @@
 ---
 title: "Icebreaker"
 url: /richmond/icebreaker/
-shop: Sport
+shop: sports
 ---

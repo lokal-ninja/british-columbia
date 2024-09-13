@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /delta/walmart-supercentre/
-shop: Supermarkt
+shop: supermarket
 ---

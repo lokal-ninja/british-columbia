@@ -1,5 +1,5 @@
 ---
 title: "Sungiven Foods"
 url: /richmond/sungiven-foods/
-shop: Supermarkt
+shop: supermarket
 ---

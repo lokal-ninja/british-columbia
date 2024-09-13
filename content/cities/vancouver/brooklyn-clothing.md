@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Clothing"
 url: /vancouver/brooklyn-clothing/
-shop: Kleidung
+shop: clothes
 ---

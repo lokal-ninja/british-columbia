@@ -1,5 +1,5 @@
 ---
 title: "ABC Hair Express"
 url: /vancouver/abc-hair-express/
-shop: Friseur
+shop: hairdresser
 ---

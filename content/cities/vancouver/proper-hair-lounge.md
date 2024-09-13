@@ -1,5 +1,5 @@
 ---
 title: "Proper Hair Lounge"
 url: /vancouver/proper-hair-lounge/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Husky"
 url: /sicamous/husky/
-shop: Lebensmittel
+shop: convenience
 ---

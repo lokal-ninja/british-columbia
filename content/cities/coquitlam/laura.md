@@ -1,5 +1,5 @@
 ---
 title: "Laura"
 url: /coquitlam/laura/
-shop: Kleidung
+shop: clothes
 ---

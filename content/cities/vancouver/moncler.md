@@ -1,5 +1,5 @@
 ---
 title: "Moncler"
 url: /vancouver/moncler/
-shop: Kleidung
+shop: clothes
 ---

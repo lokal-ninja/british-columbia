@@ -1,5 +1,5 @@
 ---
 title: "Purdys Chocolatier"
 url: /kelowna/purdys-chocolatier/
-shop: Schokolade
+shop: chocolate
 ---

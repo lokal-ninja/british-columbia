@@ -1,5 +1,5 @@
 ---
 title: "Exposure"
 url: /vancouver/exposure/
-shop: Kleidung
+shop: clothes
 ---

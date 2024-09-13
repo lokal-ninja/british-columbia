@@ -1,5 +1,5 @@
 ---
 title: "Evolve Grooming"
 url: /vancouver/evolve-grooming/
-shop: Friseur
+shop: hairdresser
 ---

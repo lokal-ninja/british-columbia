@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
 url: /vancouver/rolex/
-shop: Uhren
+shop: watches
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /kelowna/koodo/
-shop: Handy
+shop: mobile phone
 ---

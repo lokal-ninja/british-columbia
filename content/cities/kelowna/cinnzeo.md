@@ -1,5 +1,5 @@
 ---
 title: "Cinnzeo"
 url: /kelowna/cinnzeo/
-shop: Bäckerei
+shop: bakery
 ---

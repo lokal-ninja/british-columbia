@@ -1,5 +1,5 @@
 ---
 title: "The Boardwalk"
 url: /surrey/the-boardwalk/
-shop: Einkaufszentrum
+shop: mall
 ---

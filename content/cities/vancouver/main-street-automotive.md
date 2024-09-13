@@ -1,5 +1,5 @@
 ---
 title: "Main Street Automotive"
 url: /vancouver/main-street-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

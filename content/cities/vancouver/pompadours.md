@@ -1,5 +1,5 @@
 ---
 title: "Pompadours"
 url: /vancouver/pompadours/
-shop: Friseur
+shop: hairdresser
 ---

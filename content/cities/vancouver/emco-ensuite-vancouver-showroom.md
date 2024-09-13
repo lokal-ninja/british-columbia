@@ -1,5 +1,5 @@
 ---
 title: "Emco Ensuite Vancouver Showroom"
 url: /vancouver/emco-ensuite-vancouver-showroom/
-shop: Badezimmer
+shop: bathroom
 ---

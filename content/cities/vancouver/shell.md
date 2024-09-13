@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /vancouver/shell/
-shop: Lebensmittel
+shop: convenience
 ---

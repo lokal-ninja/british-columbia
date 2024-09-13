@@ -1,5 +1,5 @@
 ---
 title: "Abasa Optical"
 url: /vancouver/abasa-optical/
-shop: Optiker
+shop: optician
 ---

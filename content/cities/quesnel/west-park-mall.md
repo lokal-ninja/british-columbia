@@ -1,5 +1,5 @@
 ---
 title: "West Park Mall"
 url: /quesnel/west-park-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

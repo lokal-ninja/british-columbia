@@ -1,5 +1,5 @@
 ---
 title: "Stanley Park Brewing"
 url: /vancouver/stanley-park-brewing/
-shop: Spirituosen
+shop: alcohol
 ---

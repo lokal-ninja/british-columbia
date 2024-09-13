@@ -1,5 +1,5 @@
 ---
 title: "BC Liquor"
 url: /north-vancouver/bc-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

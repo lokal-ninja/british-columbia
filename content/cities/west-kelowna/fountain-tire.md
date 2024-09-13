@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
 url: /west-kelowna/fountain-tire/
-shop: Reifen
+shop: tyres
 ---

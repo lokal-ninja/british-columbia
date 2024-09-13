@@ -1,5 +1,5 @@
 ---
 title: "Main Convenience Store"
 url: /vancouver/main-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

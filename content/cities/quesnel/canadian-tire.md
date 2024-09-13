@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /quesnel/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

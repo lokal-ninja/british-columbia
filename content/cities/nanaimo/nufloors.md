@@ -1,5 +1,5 @@
 ---
 title: "Nufloors"
 url: /nanaimo/nufloors/
-shop: Fußböden
+shop: flooring
 ---

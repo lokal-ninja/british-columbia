@@ -1,5 +1,5 @@
 ---
 title: "PickEco Refills;Stormy's"
 url: /chilliwack/pickeco-refills-stormys/
-shop: Bioladen
+shop: health food
 ---

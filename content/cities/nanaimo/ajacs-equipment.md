@@ -1,5 +1,5 @@
 ---
 title: "Ajac's Equipment"
 url: /nanaimo/ajacs-equipment/
-shop: Outdoor
+shop: outdoor
 ---

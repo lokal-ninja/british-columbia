@@ -1,5 +1,5 @@
 ---
 title: "Maxwell's Barbershop"
 url: /colwood/maxwells-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

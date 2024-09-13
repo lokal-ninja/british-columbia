@@ -1,5 +1,5 @@
 ---
 title: "Vancouver Auto Parts"
 url: /vancouver/vancouver-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

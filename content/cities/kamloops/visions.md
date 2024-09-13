@@ -1,5 +1,5 @@
 ---
 title: "Visions"
 url: /kamloops/visions/
-shop: Elektronik
+shop: electronics
 ---

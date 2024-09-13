@@ -1,5 +1,5 @@
 ---
 title: "Country Grocer"
 url: /saanich/country-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

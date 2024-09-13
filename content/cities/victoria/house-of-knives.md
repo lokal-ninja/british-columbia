@@ -1,5 +1,5 @@
 ---
 title: "House of Knives"
 url: /victoria/house-of-knives/
-shop: Haushaltsartikel
+shop: houseware
 ---

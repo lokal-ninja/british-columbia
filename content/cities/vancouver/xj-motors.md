@@ -1,5 +1,5 @@
 ---
 title: "XJ Motors"
 url: /vancouver/xj-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

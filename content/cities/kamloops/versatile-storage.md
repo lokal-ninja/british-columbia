@@ -1,5 +1,5 @@
 ---
 title: "Versatile Storage"
 url: /kamloops/versatile-storage/
-shop: Mieten
+shop: storage rental
 ---

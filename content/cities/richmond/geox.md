@@ -1,5 +1,5 @@
 ---
 title: "Geox"
 url: /richmond/geox/
-shop: Schuhe
+shop: shoes
 ---

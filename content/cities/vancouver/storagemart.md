@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /vancouver/storagemart/
-shop: Mieten
+shop: storage rental
 ---

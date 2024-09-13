@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /vancouver/oasis/
-shop: Kosmetik
+shop: beauty
 ---

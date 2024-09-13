@@ -1,5 +1,5 @@
 ---
 title: "Regency Lexus"
 url: /vancouver/regency-lexus/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kelowna Lashes"
 url: /kelowna/kelowna-lashes/
-shop: Kosmetik
+shop: beauty
 ---

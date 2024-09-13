@@ -1,5 +1,5 @@
 ---
 title: "Plain Jane Cannabis Co."
 url: /duncan/plain-jane-cannabis-co/
-shop: Hanf
+shop: cannabis
 ---

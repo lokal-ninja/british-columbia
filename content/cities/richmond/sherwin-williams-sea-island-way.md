@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /richmond/sherwin-williams-sea-island-way/
-shop: Farben
+shop: paint
 ---

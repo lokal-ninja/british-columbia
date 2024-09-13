@@ -1,5 +1,5 @@
 ---
 title: "Carter Body Shops"
 url: /burnaby/carter-body-shops/
-shop: Autowerkstatt
+shop: car repair
 ---

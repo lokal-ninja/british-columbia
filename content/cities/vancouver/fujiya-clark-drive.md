@@ -1,5 +1,5 @@
 ---
 title: "Fujiya"
 url: /vancouver/fujiya-clark-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millenium Meats"
 url: /port-coquitlam/millenium-meats/
-shop: Metzgerei
+shop: butcher
 ---

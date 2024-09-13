@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /kelowna/bell/
-shop: Handy
+shop: mobile phone
 ---

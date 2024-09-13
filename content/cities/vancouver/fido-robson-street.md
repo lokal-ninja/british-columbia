@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /vancouver/fido-robson-street/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wing Wah Bakery"
 url: /vancouver/wing-wah-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fraser Market"
 url: /vancouver/fraser-market/
-shop: Lebensmittel
+shop: convenience
 ---

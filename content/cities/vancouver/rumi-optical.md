@@ -1,5 +1,5 @@
 ---
 title: "Rumi Optical"
 url: /vancouver/rumi-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia Vancouver"
 url: /vancouver/kia-vancouver/
-shop: Autohaus
+shop: car
 ---

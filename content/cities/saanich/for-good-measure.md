@@ -1,5 +1,5 @@
 ---
 title: "For Good Measure"
 url: /saanich/for-good-measure/
-shop: Lebensmittel
+shop: convenience
 ---

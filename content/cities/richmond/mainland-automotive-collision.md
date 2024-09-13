@@ -1,5 +1,5 @@
 ---
 title: "Mainland Automotive Collision"
 url: /richmond/mainland-automotive-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

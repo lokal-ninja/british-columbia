@@ -1,5 +1,5 @@
 ---
 title: "Volcom"
 url: /kelowna/volcom/
-shop: Kleidung
+shop: clothes
 ---

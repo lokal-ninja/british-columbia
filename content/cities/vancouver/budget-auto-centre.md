@@ -1,5 +1,5 @@
 ---
 title: "Budget Auto Centre"
 url: /vancouver/budget-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

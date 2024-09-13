@@ -1,5 +1,5 @@
 ---
 title: "Chapters"
 url: /kelowna/chapters/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bike Chameleon"
 url: /campbell-river/bike-chameleon/
-shop: Fahrrad
+shop: bicycle
 ---

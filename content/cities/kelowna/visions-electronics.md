@@ -1,5 +1,5 @@
 ---
 title: "Visions Electronics"
 url: /kelowna/visions-electronics/
-shop: Elektronik
+shop: electronics
 ---

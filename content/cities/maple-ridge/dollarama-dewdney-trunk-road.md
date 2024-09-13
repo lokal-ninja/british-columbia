@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /maple-ridge/dollarama-dewdney-trunk-road/
-shop: Kramladen
+shop: variety store
 ---

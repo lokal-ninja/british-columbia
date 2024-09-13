@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /richmond/tesla/
-shop: Autohaus
+shop: car
 ---

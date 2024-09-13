@@ -1,5 +1,5 @@
 ---
 title: "Motortoyz"
 url: /penticton/motortoyz/
-shop: Allgemein
+shop: shop
 ---

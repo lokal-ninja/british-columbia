@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /delta/specsavers/
-shop: Optiker
+shop: optician
 ---

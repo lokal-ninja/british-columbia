@@ -1,5 +1,5 @@
 ---
 title: "Bell Locksmith"
 url: /maple-ridge/bell-locksmith/
-shop: Schlüsseldienst
+shop: locksmith
 ---

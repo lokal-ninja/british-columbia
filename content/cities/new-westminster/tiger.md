@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /new-westminster/tiger/
-shop: Kosmetik
+shop: beauty
 ---

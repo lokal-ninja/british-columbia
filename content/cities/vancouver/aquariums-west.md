@@ -1,5 +1,5 @@
 ---
 title: "Aquariums West"
 url: /vancouver/aquariums-west/
-shop: Tiere
+shop: pet
 ---

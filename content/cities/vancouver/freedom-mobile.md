@@ -1,5 +1,5 @@
 ---
 title: "Freedom Mobile"
 url: /vancouver/freedom-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chronic Ink"
 url: /vancouver/chronic-ink/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HITZ BOUTIQUE"
 url: /kelowna/hitz-boutique/
-shop: Kleidung
+shop: clothes
 ---

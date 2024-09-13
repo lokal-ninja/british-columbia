@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /kamloops/walmart/
-shop: Warenhaus
+shop: department store
 ---

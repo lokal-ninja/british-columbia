@@ -1,5 +1,5 @@
 ---
 title: "Wildlife Thrift Store"
 url: /vancouver/wildlife-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

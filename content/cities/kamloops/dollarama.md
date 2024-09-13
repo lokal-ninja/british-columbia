@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /kamloops/dollarama/
-shop: Kramladen
+shop: variety store
 ---

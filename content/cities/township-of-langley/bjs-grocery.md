@@ -1,5 +1,5 @@
 ---
 title: "BJ's Grocery"
 url: /township-of-langley/bjs-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

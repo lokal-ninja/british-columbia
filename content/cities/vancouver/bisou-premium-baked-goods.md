@@ -1,5 +1,5 @@
 ---
 title: "Bisou Premium Baked Goods"
 url: /vancouver/bisou-premium-baked-goods/
-shop: Bäckerei
+shop: bakery
 ---

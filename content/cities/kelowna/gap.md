@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /kelowna/gap/
-shop: Kleidung
+shop: clothes
 ---

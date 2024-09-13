@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /surrey/bell-nordel-way/
-shop: Handy
+shop: mobile phone
 ---

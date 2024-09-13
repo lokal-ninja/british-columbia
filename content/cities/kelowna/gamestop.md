@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /kelowna/gamestop/
-shop: Videospiele
+shop: video games
 ---

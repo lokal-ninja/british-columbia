@@ -1,5 +1,5 @@
 ---
 title: "Shefield Express"
 url: /new-westminster/shefield-express/
-shop: Lebensmittel
+shop: convenience
 ---

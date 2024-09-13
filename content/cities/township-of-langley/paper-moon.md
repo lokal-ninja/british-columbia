@@ -1,5 +1,5 @@
 ---
 title: "Paper Moon"
 url: /township-of-langley/paper-moon/
-shop: Schreibwaren
+shop: office supplies
 ---

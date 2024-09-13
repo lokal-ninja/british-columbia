@@ -1,5 +1,5 @@
 ---
 title: "Performance Vision"
 url: /vancouver/performance-vision/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "University Village"
 url: /nanaimo/university-village/
-shop: Einkaufszentrum
+shop: mall
 ---

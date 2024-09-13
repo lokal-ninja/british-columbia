@@ -1,5 +1,5 @@
 ---
 title: "Bannister Honda Vernon"
 url: /vernon/bannister-honda-vernon/
-shop: Autohaus
+shop: car
 ---

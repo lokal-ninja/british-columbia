@@ -1,5 +1,5 @@
 ---
 title: "Resolution Reprographics"
 url: /vancouver/resolution-reprographics/
-shop: Kopieren
+shop: copyshop
 ---

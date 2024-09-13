@@ -1,5 +1,5 @@
 ---
 title: "Summit Tools"
 url: /port-coquitlam/summit-tools/
-shop: Eisenwaren
+shop: hardware
 ---

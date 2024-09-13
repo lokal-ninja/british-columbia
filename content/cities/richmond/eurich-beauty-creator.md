@@ -1,5 +1,5 @@
 ---
 title: "Eurich Beauty Creator"
 url: /richmond/eurich-beauty-creator/
-shop: Friseur
+shop: hairdresser
 ---

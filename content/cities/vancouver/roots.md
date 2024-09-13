@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /vancouver/roots/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golestan Bakery"
 url: /north-vancouver-city/golestan-bakery/
-shop: Bäckerei
+shop: bakery
 ---

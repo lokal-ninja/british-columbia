@@ -1,5 +1,5 @@
 ---
 title: "ON the RUN"
 url: /burnaby/on-the-run/
-shop: Lebensmittel
+shop: convenience
 ---

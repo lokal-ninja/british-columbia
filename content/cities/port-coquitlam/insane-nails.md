@@ -1,5 +1,5 @@
 ---
 title: "Insane Nails"
 url: /port-coquitlam/insane-nails/
-shop: Kosmetik
+shop: beauty
 ---

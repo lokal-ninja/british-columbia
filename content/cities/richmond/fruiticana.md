@@ -1,5 +1,5 @@
 ---
 title: "Fruiticana"
 url: /richmond/fruiticana/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
 url: /vancouver/rocket/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

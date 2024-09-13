@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /nanaimo/costco/
-shop: Großhandel
+shop: wholesale
 ---

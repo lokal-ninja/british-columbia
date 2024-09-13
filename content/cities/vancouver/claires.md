@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /vancouver/claires/
-shop: Andenken
+shop: gift
 ---

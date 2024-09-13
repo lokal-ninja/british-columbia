@@ -1,5 +1,5 @@
 ---
 title: "Polestar Vancouver"
 url: /vancouver/polestar-vancouver/
-shop: Autohaus
+shop: car
 ---

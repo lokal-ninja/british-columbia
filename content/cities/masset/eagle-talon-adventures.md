@@ -1,5 +1,5 @@
 ---
 title: "Eagle Talon Adventures"
 url: /masset/eagle-talon-adventures/
-shop: Mieten
+shop: storage rental
 ---

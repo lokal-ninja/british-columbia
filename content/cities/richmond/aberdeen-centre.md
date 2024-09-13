@@ -1,5 +1,5 @@
 ---
 title: "Aberdeen Centre"
 url: /richmond/aberdeen-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

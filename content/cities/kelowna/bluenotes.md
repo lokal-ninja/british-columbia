@@ -1,5 +1,5 @@
 ---
 title: "Bluenotes"
 url: /kelowna/bluenotes/
-shop: Kleidung
+shop: clothes
 ---

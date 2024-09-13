@@ -1,5 +1,5 @@
 ---
 title: "Loki Systems Inc."
 url: /richmond/loki-systems-inc/
-shop: Allgemein
+shop: shop
 ---

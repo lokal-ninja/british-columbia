@@ -1,5 +1,5 @@
 ---
 title: "Salon Origins"
 url: /vancouver/salon-origins/
-shop: Friseur
+shop: hairdresser
 ---

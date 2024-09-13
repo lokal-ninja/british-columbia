@@ -1,5 +1,5 @@
 ---
 title: "Forme"
 url: /vancouver/forme/
-shop: Friseur
+shop: hairdresser
 ---

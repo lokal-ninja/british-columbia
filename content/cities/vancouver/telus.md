@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /vancouver/telus/
-shop: Handy
+shop: mobile phone
 ---

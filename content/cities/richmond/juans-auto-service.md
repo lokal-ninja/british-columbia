@@ -1,5 +1,5 @@
 ---
 title: "Juan's Auto Service"
 url: /richmond/juans-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

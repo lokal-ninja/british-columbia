@@ -1,5 +1,5 @@
 ---
 title: "Fountain Tire"
 url: /dawson-creek/fountain-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

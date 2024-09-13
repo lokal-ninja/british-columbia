@@ -1,5 +1,5 @@
 ---
 title: "Vula"
 url: /whistler/vula/
-shop: Kleidung
+shop: clothes
 ---

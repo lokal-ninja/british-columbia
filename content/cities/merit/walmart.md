@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /merit/walmart/
-shop: Warenhaus
+shop: department store
 ---

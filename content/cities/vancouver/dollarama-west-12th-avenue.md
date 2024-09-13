@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /vancouver/dollarama-west-12th-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /squamish/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

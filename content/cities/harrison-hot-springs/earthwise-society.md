@@ -1,5 +1,5 @@
 ---
 title: "Earthwise Society"
 url: /harrison-hot-springs/earthwise-society/
-shop: Hofladen
+shop: farm
 ---

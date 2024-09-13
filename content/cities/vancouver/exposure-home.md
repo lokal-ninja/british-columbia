@@ -1,5 +1,5 @@
 ---
 title: "Exposure Home"
 url: /vancouver/exposure-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

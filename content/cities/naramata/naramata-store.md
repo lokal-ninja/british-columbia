@@ -1,5 +1,5 @@
 ---
 title: "Naramata Store"
 url: /naramata/naramata-store/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Make Space"
 url: /fernie/make-space/
-shop: Mieten
+shop: storage rental
 ---

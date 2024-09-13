@@ -1,5 +1,5 @@
 ---
 title: "Kimprints"
 url: /vancouver/kimprints/
-shop: Rahmen
+shop: frame
 ---

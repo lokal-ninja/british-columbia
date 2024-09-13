@@ -1,5 +1,5 @@
 ---
 title: "Stella Nails"
 url: /vancouver/stella-nails/
-shop: Kosmetik
+shop: beauty
 ---

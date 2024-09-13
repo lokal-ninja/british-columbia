@@ -1,5 +1,5 @@
 ---
 title: "AFD"
 url: /sicamous/afd/
-shop: Lebensmittel
+shop: convenience
 ---

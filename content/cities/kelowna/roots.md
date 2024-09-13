@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /kelowna/roots/
-shop: Kleidung
+shop: clothes
 ---

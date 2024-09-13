@@ -1,5 +1,5 @@
 ---
 title: "Van Fade"
 url: /vancouver/van-fade/
-shop: Friseur
+shop: hairdresser
 ---

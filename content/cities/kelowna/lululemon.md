@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /kelowna/lululemon/
-shop: Kleidung
+shop: clothes
 ---

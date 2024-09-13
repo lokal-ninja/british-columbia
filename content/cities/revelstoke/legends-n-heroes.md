@@ -1,5 +1,5 @@
 ---
 title: "Legends-N-Heroes"
 url: /revelstoke/legends-n-heroes/
-shop: Spielzeug
+shop: toys
 ---

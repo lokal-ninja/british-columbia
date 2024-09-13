@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /golden/shell/
-shop: Lebensmittel
+shop: convenience
 ---

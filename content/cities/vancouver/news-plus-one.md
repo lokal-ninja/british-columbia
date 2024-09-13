@@ -1,5 +1,5 @@
 ---
 title: "News Plus One"
 url: /vancouver/news-plus-one/
-shop: Zeitungen
+shop: newsagent
 ---

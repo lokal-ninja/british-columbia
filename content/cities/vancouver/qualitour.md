@@ -1,5 +1,5 @@
 ---
 title: "Qualitour"
 url: /vancouver/qualitour/
-shop: Reisebüro
+shop: travel agency
 ---

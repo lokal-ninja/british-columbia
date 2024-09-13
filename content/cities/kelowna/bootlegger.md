@@ -1,5 +1,5 @@
 ---
 title: "Bootlegger"
 url: /kelowna/bootlegger/
-shop: Kleidung
+shop: clothes
 ---

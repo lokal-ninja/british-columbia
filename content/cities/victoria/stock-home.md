@@ -1,5 +1,5 @@
 ---
 title: "Stock Home"
 url: /victoria/stock-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scotch Creek Market"
 url: /scotch-creek/scotch-creek-market/
-shop: Supermarkt
+shop: supermarket
 ---

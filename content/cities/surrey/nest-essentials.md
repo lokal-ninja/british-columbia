@@ -1,5 +1,5 @@
 ---
 title: "Nest Essentials"
 url: /surrey/nest-essentials/
-shop: Betten
+shop: bed
 ---
