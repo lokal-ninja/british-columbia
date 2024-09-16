@@ -1,11 +1,11 @@
 id: 550310741
-type: way
+type: node
 latitude: 49.11242
 longitude: -122.66208
 postcode: ""
 city: Langley
-street: "Langley Bypass"
-housenumber: 20350
+street: Langley Bypass
+housenumber: "20350"
 phone: ""
 opening_hours: ""
 website: ""

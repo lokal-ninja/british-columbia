@@ -1,11 +1,11 @@
 id: 95035881
-type: way
+type: node
 latitude: 48.42628
 longitude: -123.36563
 postcode: ""
 city: Victoria
-street: "Douglas Street"
-housenumber: 1222
+street: Douglas Street
+housenumber: "1222"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 423449335
-type: way
+type: node
 latitude: 49.13222
 longitude: -123.92093
-postcode: "V9R 6R5"
+postcode: V9R 6R5
 city: Nanaimo
-street: "Trans-Canada Highway"
-housenumber: 1250
+street: Trans-Canada Highway
+housenumber: "1250"
 phone: ""
 opening_hours: ""
-website: "https://www.rona.ca/en"
+website: https://www.rona.ca/en

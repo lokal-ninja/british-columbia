@@ -1,11 +1,11 @@
 id: 769167855
-type: way
+type: node
 latitude: 49.26874
 longitude: -123.14034
 postcode: ""
 city: Vancouver
-street: "Fir Street"
-housenumber: 1918
+street: Fir Street
+housenumber: "1918"
 phone: ""
 opening_hours: ""
 website: ""

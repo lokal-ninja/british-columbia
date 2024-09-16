@@ -4,8 +4,8 @@ latitude: 49.28062
 longitude: -123.13134
 postcode: ""
 city: Vancouver
-street: "Davie Street"
-housenumber: 1111
+street: Davie Street
+housenumber: "1111"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 429699081
-type: way
+type: node
 latitude: 49.27222
 longitude: -123.02305
 postcode: ""
 city: Burnaby
-street: "Boundary Road"
-housenumber: 1390
-phone: "+1-604-291-2804"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-17:00"
+street: Boundary Road
+housenumber: "1390"
+phone: +1-604-291-2804
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-17:00
 website: ""

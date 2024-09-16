@@ -1,11 +1,11 @@
 id: 136695897
-type: way
+type: node
 latitude: 49.27716
 longitude: -123.08177
-postcode: "V6A 3R9"
+postcode: V6A 3R9
 city: Vancouver
-street: "Venables Street"
-housenumber: 1033
-phone: "+1 604 251 3211"
-opening_hours: "Mo-Su 13:00-22:00"
+street: Venables Street
+housenumber: "1033"
+phone: +1 604 251 3211
+opening_hours: Mo-Su 13:00-22:00
 website: ""

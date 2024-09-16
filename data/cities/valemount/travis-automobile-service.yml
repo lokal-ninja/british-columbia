@@ -1,11 +1,11 @@
 id: 265347321
-type: way
+type: node
 latitude: 52.84691
 longitude: -119.28996
-postcode: "V0E 2Z0"
+postcode: V0E 2Z0
 city: Valemount
-street: "Highway 5 N"
-housenumber: 945
-phone: "+1-250-566-8403"
+street: Highway 5 N
+housenumber: "945"
+phone: +1-250-566-8403
 opening_hours: ""
 website: ""

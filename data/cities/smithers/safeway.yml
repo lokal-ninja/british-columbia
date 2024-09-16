@@ -1,11 +1,11 @@
 id: 192808692
-type: way
+type: node
 latitude: 54.78131
 longitude: -127.16212
 postcode: ""
 city: Smithers
-street: "Highway 16"
-housenumber: 3664
-phone: "+1-250-847-2622"
+street: Highway 16
+housenumber: "3664"
+phone: +1-250-847-2622
 opening_hours: ""
 website: ""

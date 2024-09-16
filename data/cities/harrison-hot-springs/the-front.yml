@@ -1,11 +1,11 @@
 id: 1240043107
-type: way
+type: node
 latitude: 49.28496
 longitude: -121.78027
 postcode: ""
 city: Harrison Hot Springs
-street: "Hot Springs Road"
-housenumber: 889
+street: Hot Springs Road
+housenumber: "889"
 phone: ""
 opening_hours: ""
 website: ""

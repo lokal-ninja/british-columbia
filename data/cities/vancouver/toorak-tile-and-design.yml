@@ -1,11 +1,11 @@
 id: 156419335
-type: way
+type: node
 latitude: 49.25576
 longitude: -123.18469
 postcode: ""
 city: Vancouver
-street: "Dunbar Street"
-housenumber: 3496
-phone: "+1-604-739-5966"
+street: Dunbar Street
+housenumber: "3496"
+phone: +1-604-739-5966
 opening_hours: ""
 website: ""

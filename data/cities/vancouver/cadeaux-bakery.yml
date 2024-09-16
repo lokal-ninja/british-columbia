@@ -2,10 +2,10 @@ id: 4424551035
 type: node
 latitude: 49.2831
 longitude: -123.10049
-postcode: "V6A 1G1"
+postcode: V6A 1G1
 city: Vancouver
-street: "Powell Street"
-housenumber: 172
-phone: "+1-604-608-8889"
+street: Powell Street
+housenumber: "172"
+phone: +1-604-608-8889
 opening_hours: ""
-website: "https://www.cadeauxbakery.com/"
+website: https://www.cadeauxbakery.com/

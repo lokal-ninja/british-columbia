@@ -4,8 +4,8 @@ latitude: 49.20504
 longitude: -123.12784
 postcode: ""
 city: Vancouver
-street: "Shaughnessy Street"
-housenumber: 8910
-phone: "+1-604-323-0293"
-opening_hours: "Mo 12:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.essentialmotorcycleservices.ca/"
+street: Shaughnessy Street
+housenumber: "8910"
+phone: +1-604-323-0293
+opening_hours: Mo 12:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off
+website: https://www.essentialmotorcycleservices.ca/

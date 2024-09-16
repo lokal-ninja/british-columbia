@@ -1,11 +1,11 @@
 id: 223421635
-type: way
+type: node
 latitude: 49.32104
 longitude: -124.31448
 postcode: ""
 city: Parksville
-street: "Morison Avenue"
-housenumber: 142
+street: Morison Avenue
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/55704"
+website: https://www.homehardware.ca/en/store/55704

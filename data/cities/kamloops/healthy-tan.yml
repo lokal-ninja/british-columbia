@@ -2,10 +2,10 @@ id: 1422255528
 type: node
 latitude: 50.67615
 longitude: -120.33181
-postcode: "V2C 3N3"
+postcode: V2C 3N3
 city: Kamloops
-street: "4th Avenue"
-housenumber: 175
+street: 4th Avenue
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.29194
 longitude: -123.1345
 postcode: ""
 city: Vancouver
-street: "Denman Street"
-housenumber: 710
+street: Denman Street
+housenumber: "710"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

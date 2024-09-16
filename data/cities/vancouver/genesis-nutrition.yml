@@ -4,8 +4,8 @@ latitude: 49.26221
 longitude: -123.10074
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 2570
+street: Main Street
+housenumber: "2570"
 phone: ""
 opening_hours: ""
-website: "https://www.genesisnutrition.ca/"
+website: https://www.genesisnutrition.ca/

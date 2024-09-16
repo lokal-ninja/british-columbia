@@ -2,10 +2,10 @@ id: 6839370486
 type: node
 latitude: 49.25393
 longitude: -123.06822
-postcode: "V5N 4E8"
+postcode: V5N 4E8
 city: Vancouver
-street: "Commercial Street"
-housenumber: 3433
-phone: "+1-604-336-9423"
-opening_hours: "09:00-17:00"
-website: "https://flourist.com"
+street: Commercial Street
+housenumber: "3433"
+phone: +1-604-336-9423
+opening_hours: 09:00-17:00
+website: https://flourist.com

@@ -1,11 +1,13 @@
 id: 88798527
-type: way
+type: node
 latitude: 49.25987
 longitude: -123.00024
-postcode: "V5C 0E5"
+postcode: V5C 0E5
 city: Burnaby
-street: "Still Creek Drive"
-housenumber: 4500
-phone: "+1-604-435-6695"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:00-18:00; Jan 01 off; Feb Mo[3] off; easter off; May Mo[-2] off; Jul 01 off; Sep Mo[1] off; Oct Mo[2] off; Dec 25 off"
-website: "https://www.costco.ca/warehouse-locations/willingdon-burnaby-bc-548.html"
+street: Still Creek Drive
+housenumber: "4500"
+phone: +1-604-435-6695
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:00-18:00; Jan 01 off; Feb
+    Mo[3] off; easter off; May Mo[-2] off; Jul 01 off; Sep Mo[1] off; Oct Mo[2] off;
+    Dec 25 off
+website: https://www.costco.ca/warehouse-locations/willingdon-burnaby-bc-548.html

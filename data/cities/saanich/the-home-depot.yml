@@ -1,11 +1,11 @@
 id: 182624169
-type: way
+type: node
 latitude: 48.47032
 longitude: -123.33364
 postcode: ""
 city: Saanich
-street: "Shelbourne Street"
-housenumber: 3956
+street: Shelbourne Street
+housenumber: "3956"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://stores.homedepot.ca/bc/saanich/home-improvement-saanich-bc-7055.html"
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
+website: https://stores.homedepot.ca/bc/saanich/home-improvement-saanich-bc-7055.html

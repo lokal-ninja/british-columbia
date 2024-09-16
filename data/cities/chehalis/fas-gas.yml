@@ -1,11 +1,11 @@
 id: 498726702
-type: way
+type: node
 latitude: 49.30275
 longitude: -121.92917
-postcode: "V0M 1L0"
+postcode: V0M 1L0
 city: Chehalis
-street: "Morris Valley Road"
-housenumber: 1001
-phone: "+1-604-796-9252"
+street: Morris Valley Road
+housenumber: "1001"
+phone: +1-604-796-9252
 opening_hours: ""
 website: ""

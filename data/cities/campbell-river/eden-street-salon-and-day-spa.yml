@@ -1,11 +1,11 @@
 id: 555278345
-type: way
+type: node
 latitude: 49.96293
 longitude: -125.22921
-postcode: "V9H 1S7"
+postcode: V9H 1S7
 city: Campbell River
-street: "Eden Street"
-housenumber: 2701
+street: Eden Street
+housenumber: "2701"
 phone: ""
-opening_hours: "Mo-Tu 09:30-17:30, We-Th 09:30-19:00, Fr 09:30-17:30, Sa 09:30-16:30"
+opening_hours: Mo-Tu 09:30-17:30, We-Th 09:30-19:00, Fr 09:30-17:30, Sa 09:30-16:30
 website: ""

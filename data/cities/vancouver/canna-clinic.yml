@@ -4,8 +4,8 @@ latitude: 49.2796
 longitude: -123.12329
 postcode: ""
 city: Vancouver
-street: "Nelson Street"
-housenumber: 725
+street: Nelson Street
+housenumber: "725"
 phone: ""
-opening_hours: "Su-Tu 10:00-22:00; We-Sa 10:00-23:00"
+opening_hours: Su-Tu 10:00-22:00; We-Sa 10:00-23:00
 website: ""

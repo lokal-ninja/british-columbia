@@ -1,11 +1,11 @@
 id: 161460989
-type: way
+type: node
 latitude: 48.62871
 longitude: -123.41578
 postcode: ""
 city: North Saanich
-street: "McTavish Road"
-housenumber: 2095
+street: McTavish Road
+housenumber: "2095"
 phone: ""
 opening_hours: ""
 website: ""

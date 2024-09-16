@@ -2,10 +2,11 @@ id: 9433400608
 type: node
 latitude: 49.26333
 longitude: -122.78092
-postcode: "V3C 0E1"
+postcode: V3C 0E1
 city: Port Coquitlam
-street: "Shaughnessy Street"
-housenumber: 2627
-phone: "+1-604-945-7741"
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su 09:30-20:00; Jan 01 off; Dec 24,Dec 31 09:00-18:00; Dec 21 09:00-17:00; Dec 25-26 off"
-website: "https://www.cityavenuemarket.ca/"
+street: Shaughnessy Street
+housenumber: "2627"
+phone: +1-604-945-7741
+opening_hours: Mo-Sa 09:00-20:00; PH,Su 09:30-20:00; Jan 01 off; Dec 24,Dec 31 09:00-18:00;
+    Dec 21 09:00-17:00; Dec 25-26 off
+website: https://www.cityavenuemarket.ca/

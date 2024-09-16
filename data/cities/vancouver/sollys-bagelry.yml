@@ -2,10 +2,10 @@ id: 3401126412
 type: node
 latitude: 49.26472
 longitude: -123.11264
-postcode: "V5Y 1M4"
+postcode: V5Y 1M4
 city: Vancouver
-street: "West 7th Avenue"
-housenumber: 378
-phone: "+1-604-675-9750"
+street: West 7th Avenue
+housenumber: "378"
+phone: +1-604-675-9750
 opening_hours: ""
 website: ""

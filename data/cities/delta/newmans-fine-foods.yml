@@ -1,11 +1,11 @@
 id: 689571342
-type: way
+type: node
 latitude: 49.03182
 longitude: -123.08075
-postcode: "V4M 0A6"
+postcode: V4M 0A6
 city: Delta
-street: "Springs Boulevard"
-housenumber: 5188
-phone: "+1 604-948-0677"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "http://www.newmansfinefoods.com/"
+street: Springs Boulevard
+housenumber: "5188"
+phone: +1 604-948-0677
+opening_hours: Mo-Su 10:00-18:00
+website: http://www.newmansfinefoods.com/

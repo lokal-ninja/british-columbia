@@ -1,11 +1,11 @@
 id: 429556179
-type: way
+type: node
 latitude: 49.32178
 longitude: -123.09544
 postcode: ""
 city: North Vancouver
-street: "Marine Drive"
-housenumber: 820
+street: Marine Drive
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

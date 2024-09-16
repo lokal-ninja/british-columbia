@@ -1,11 +1,11 @@
 id: 239810056
-type: way
+type: node
 latitude: 48.45567
 longitude: -123.37842
-postcode: "V8Z 1S4"
+postcode: V8Z 1S4
 city: Victoria
-street: "Crease Avenue"
-housenumber: 25
-phone: "+1-250-418-8867"
+street: Crease Avenue
+housenumber: "25"
+phone: +1-250-418-8867
 opening_hours: ""
-website: "https://www.recyclistas.ca/"
+website: https://www.recyclistas.ca/

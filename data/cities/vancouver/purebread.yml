@@ -2,10 +2,10 @@ id: 6148831984
 type: node
 latitude: 49.26664
 longitude: -123.10453
-postcode: "V5T 1G7"
+postcode: V5T 1G7
 city: Vancouver
-street: "East 5th Avenue"
-housenumber: 5
-phone: "+1 604-336-9001"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.purebread.ca/"
+street: East 5th Avenue
+housenumber: "5"
+phone: +1 604-336-9001
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.purebread.ca/

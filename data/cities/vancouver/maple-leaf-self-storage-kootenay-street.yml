@@ -1,11 +1,11 @@
 id: 400078313
-type: way
+type: node
 latitude: 49.27025
 longitude: -123.0275
 postcode: ""
 city: Vancouver
-street: "Kootenay Street"
-housenumber: 
+street: Kootenay Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://mapleleafstorage.com/"
+website: https://mapleleafstorage.com/

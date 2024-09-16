@@ -1,11 +1,11 @@
 id: 83602376
-type: way
+type: node
 latitude: 49.23646
 longitude: -122.87297
-postcode: "V3K 1C7"
+postcode: V3K 1C7
 city: Coquitlam
-street: "Brunette Avenue"
-housenumber: 901
-phone: "+1-604-518-7693"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:00-17:00"
-website: "https://www.paylesstire.ca/"
+street: Brunette Avenue
+housenumber: "901"
+phone: +1-604-518-7693
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:00-17:00
+website: https://www.paylesstire.ca/

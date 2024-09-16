@@ -4,8 +4,8 @@ latitude: 49.28373
 longitude: -123.11175
 postcode: ""
 city: Vancouver
-street: "West Hastings Street"
-housenumber: 440
-phone: "+1-604-897-5555"
-opening_hours: "Mo-Su 11:30-18:30"
-website: "https://valuesports.ca/"
+street: West Hastings Street
+housenumber: "440"
+phone: +1-604-897-5555
+opening_hours: Mo-Su 11:30-18:30
+website: https://valuesports.ca/

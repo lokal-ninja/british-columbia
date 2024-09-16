@@ -4,8 +4,8 @@ latitude: 49.25522
 longitude: -123.0897
 postcode: ""
 city: Vancouver
-street: "Fraser Street"
-housenumber: 3328
+street: Fraser Street
+housenumber: "3328"
 phone: ""
-opening_hours: "Th-Su 11:00-17:00"
-website: "https://www.auntleahs.org/social-enterprises/thrift-store-vancouver/"
+opening_hours: Th-Su 11:00-17:00
+website: https://www.auntleahs.org/social-enterprises/thrift-store-vancouver/

@@ -1,11 +1,11 @@
 id: 324172365
-type: way
+type: node
 latitude: 49.24815
 longitude: -123.09033
-postcode: "V5V 4E9"
+postcode: V5V 4E9
 city: Vancouver
-street: "Fraser Street"
-housenumber: 4131
-phone: "+1-604-875-1993"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://leeselectronic.com/"
+street: Fraser Street
+housenumber: "4131"
+phone: +1-604-875-1993
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://leeselectronic.com/

@@ -4,8 +4,8 @@ latitude: 49.28431
 longitude: -123.12409
 postcode: ""
 city: Vancouver
-street: "Robson Street"
-housenumber: 1067
+street: Robson Street
+housenumber: "1067"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.footlocker.ca/en/bc/vancouver/1067-robson-street-99220.html"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.footlocker.ca/en/bc/vancouver/1067-robson-street-99220.html

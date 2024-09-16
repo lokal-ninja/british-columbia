@@ -2,10 +2,10 @@ id: 4400465469
 type: node
 latitude: 49.26656
 longitude: -123.13933
-postcode: "V6J 1R1"
+postcode: V6J 1R1
 city: Vancouver
-street: "West 6th Avenue"
-housenumber: #102-1529
-phone: "+1-604-730-1247"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.randonneetours.com/"
+street: West 6th Avenue
+housenumber: '#102-1529'
+phone: +1-604-730-1247
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.randonneetours.com/

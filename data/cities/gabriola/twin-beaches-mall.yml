@@ -1,11 +1,11 @@
 id: 1157215023
-type: way
+type: node
 latitude: 49.1923
 longitude: -123.85494
-postcode: "V0R 1X1"
+postcode: V0R 1X1
 city: Gabriola
-street: "Berry Point Road"
-housenumber: 377
+street: Berry Point Road
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

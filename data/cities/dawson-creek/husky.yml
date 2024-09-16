@@ -1,11 +1,11 @@
 id: 178540048
-type: way
+type: node
 latitude: 55.7663
 longitude: -120.25123
-postcode: "V1G 1P4"
+postcode: V1G 1P4
 city: Dawson Creek
-street: "Alaska Highway"
-housenumber: 1700
-phone: "+1-250-782-1414"
+street: Alaska Highway
+housenumber: "1700"
+phone: +1-250-782-1414
 opening_hours: ""
 website: ""

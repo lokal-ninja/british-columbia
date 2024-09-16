@@ -2,10 +2,10 @@ id: 1685461482
 type: node
 latitude: 49.26429
 longitude: -123.1143
-postcode: "V5Z 2T8"
+postcode: V5Z 2T8
 city: Vancouver
-street: "Cambie Street"
-housenumber: 2388
-phone: "+1-604-675-1260"
-opening_hours: "Mo-Fr 07:00-21:00; Sa,Su 08:00-20:00"
-website: "https://stores.homedepot.ca/bc/vancouver/home-improvement-vancouver-bc-7259.html"
+street: Cambie Street
+housenumber: "2388"
+phone: +1-604-675-1260
+opening_hours: Mo-Fr 07:00-21:00; Sa,Su 08:00-20:00
+website: https://stores.homedepot.ca/bc/vancouver/home-improvement-vancouver-bc-7259.html

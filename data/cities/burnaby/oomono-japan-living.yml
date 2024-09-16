@@ -4,8 +4,8 @@ latitude: 49.22761
 longitude: -123.00027
 postcode: ""
 city: Burnaby
-street: "Kingsway"
-housenumber: 4700
-phone: "+1-604-423-4768"
-opening_hours: "Mo-Sa 10:00-21:99; Su 11:00-19:00; PH 11:00-19:00"
-website: "https://www.oomomostore.com/"
+street: Kingsway
+housenumber: "4700"
+phone: +1-604-423-4768
+opening_hours: Mo-Sa 10:00-21:99; Su 11:00-19:00; PH 11:00-19:00
+website: https://www.oomomostore.com/

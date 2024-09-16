@@ -1,11 +1,11 @@
 id: 359406042
-type: way
+type: node
 latitude: 49.25944
 longitude: -123.02887
 postcode: ""
 city: Vancouver
-street: "Skeena Street"
-housenumber: 2711
+street: Skeena Street
+housenumber: "2711"
 phone: ""
 opening_hours: ""
 website: ""

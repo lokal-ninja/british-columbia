@@ -1,11 +1,11 @@
 id: 323871696
-type: way
+type: node
 latitude: 49.04774
 longitude: -122.28288
-postcode: "V2S 2K1"
+postcode: V2S 2K1
 city: Abbotsford
-street: "Old Yale Road"
-housenumber: 33995
-phone: "+1-604-859-9777"
+street: Old Yale Road
+housenumber: "33995"
+phone: +1-604-859-9777
 opening_hours: ""
-website: "http://www.abbypizzaplace.com"
+website: http://www.abbypizzaplace.com

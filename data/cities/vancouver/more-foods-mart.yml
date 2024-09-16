@@ -4,8 +4,8 @@ latitude: 49.22494
 longitude: -123.06594
 postcode: ""
 city: Vancouver
-street: "Victoria Drive"
-housenumber: 6509
-phone: "+1 604-860-7979"
-opening_hours: "Mo-Su 11:30-19:00"
-website: "https://morefoodsmart.com/"
+street: Victoria Drive
+housenumber: "6509"
+phone: +1 604-860-7979
+opening_hours: Mo-Su 11:30-19:00
+website: https://morefoodsmart.com/

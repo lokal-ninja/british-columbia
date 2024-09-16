@@ -1,11 +1,11 @@
 id: 516881665
-type: way
+type: node
 latitude: 51.3028
 longitude: -116.96852
-postcode: "V0A 1H0"
+postcode: V0A 1H0
 city: Golden
-street: "9 Avenue North"
-housenumber: 624
+street: 9 Avenue North
+housenumber: "624"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

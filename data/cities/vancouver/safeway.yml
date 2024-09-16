@@ -2,10 +2,10 @@ id: 700544521
 type: node
 latitude: 49.23209
 longitude: -123.03307
-postcode: "V5R 5L4"
+postcode: V5R 5L4
 city: Vancouver
-street: "Kingsway"
-housenumber: 3410
-phone: "+1-604-439-0090"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://www.safeway.ca/"
+street: Kingsway
+housenumber: "3410"
+phone: +1-604-439-0090
+opening_hours: Mo-Su 07:00-00:00
+website: https://www.safeway.ca/

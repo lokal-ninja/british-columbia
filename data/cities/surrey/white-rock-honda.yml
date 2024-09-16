@@ -1,11 +1,11 @@
 id: 666827952
-type: way
+type: node
 latitude: 49.04786
 longitude: -122.79468
 postcode: ""
 city: Surrey
-street: "King George Boulevard"
-housenumber: 2466
+street: King George Boulevard
+housenumber: "2466"
 phone: ""
 opening_hours: ""
 website: ""

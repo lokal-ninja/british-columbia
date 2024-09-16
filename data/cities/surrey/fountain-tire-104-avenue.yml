@@ -1,11 +1,11 @@
 id: 161627745
-type: way
+type: node
 latitude: 49.19201
 longitude: -122.84256
 postcode: ""
 city: Surrey
-street: "104 Avenue"
-housenumber: 13689
+street: 104 Avenue
+housenumber: "13689"
 phone: ""
 opening_hours: ""
 website: ""

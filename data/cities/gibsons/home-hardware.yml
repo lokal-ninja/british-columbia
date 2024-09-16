@@ -1,11 +1,11 @@
 id: 619947558
-type: way
+type: node
 latitude: 49.40623
 longitude: -123.52101
 postcode: ""
 city: Gibsons
-street: "Gibsons Way;Hwy 101;Sunshine Coast Highway"
-housenumber: 921
+street: Gibsons Way;Hwy 101;Sunshine Coast Highway
+housenumber: "921"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/51970"
+website: https://www.homehardware.ca/en/store/51970

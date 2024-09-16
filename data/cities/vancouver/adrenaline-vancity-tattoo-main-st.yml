@@ -2,10 +2,10 @@ id: 11435619775
 type: node
 latitude: 49.25684
 longitude: -123.101
-postcode: "V5T"
+postcode: V5T
 city: Vancouver
-street: "Main Street"
-housenumber: 3138
-phone: "+1-604-262-3528"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://adrenalinestudios.com/"
+street: Main Street
+housenumber: "3138"
+phone: +1-604-262-3528
+opening_hours: Mo-Sa 10:00-19:00
+website: https://adrenalinestudios.com/

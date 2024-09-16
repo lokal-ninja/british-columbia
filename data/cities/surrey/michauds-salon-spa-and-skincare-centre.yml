@@ -1,11 +1,11 @@
 id: 392017942
-type: way
+type: node
 latitude: 49.10549
 longitude: -122.73514
-postcode: "V3S 4C5"
+postcode: V3S 4C5
 city: Surrey
-street: "176 Street"
-housenumber: 5669
-phone: "+1 604 574 9959"
-opening_hours: "Mo 09:00-17:00; Tu-Fr 08:00-21:30; Sa 08:00-17:00"
+street: 176 Street
+housenumber: "5669"
+phone: +1 604 574 9959
+opening_hours: Mo 09:00-17:00; Tu-Fr 08:00-21:30; Sa 08:00-17:00
 website: ""

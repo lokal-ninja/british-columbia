@@ -1,11 +1,11 @@
 id: 183252669
-type: way
+type: node
 latitude: 52.8348
 longitude: -119.26042
-postcode: "V0E 2Z0"
+postcode: V0E 2Z0
 city: Valemount
-street: "Main Street"
-housenumber: 1020
-phone: "+1-250-566-4035"
-opening_hours: "We-Su 05:30-17:00"
-website: "http://www.valemountswissbakery.com/"
+street: Main Street
+housenumber: "1020"
+phone: +1-250-566-4035
+opening_hours: We-Su 05:30-17:00
+website: http://www.valemountswissbakery.com/

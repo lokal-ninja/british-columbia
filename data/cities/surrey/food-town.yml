@@ -1,11 +1,11 @@
 id: 161537786
-type: way
+type: node
 latitude: 49.17683
 longitude: -122.85716
 postcode: ""
 city: Surrey
-street: "132 Street"
-housenumber: 9583
+street: 132 Street
+housenumber: "9583"
 phone: ""
 opening_hours: ""
 website: ""

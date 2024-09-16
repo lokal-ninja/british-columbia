@@ -1,11 +1,11 @@
 id: 159385371
-type: way
+type: node
 latitude: 49.26682
 longitude: -123.11413
-postcode: "V5Y 1E2"
+postcode: V5Y 1E2
 city: Vancouver
-street: "West 2nd Avenue"
-housenumber: 450
-phone: "+1 604 373 4845"
+street: West 2nd Avenue
+housenumber: "450"
+phone: +1 604 373 4845
 opening_hours: ""
-website: "https://kearneyfs.com/"
+website: https://kearneyfs.com/

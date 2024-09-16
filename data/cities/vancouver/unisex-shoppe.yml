@@ -4,8 +4,8 @@ latitude: 49.28177
 longitude: -123.10519
 postcode: ""
 city: Vancouver
-street: "West Hastings Street"
-housenumber: 11
+street: West Hastings Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://communitythriftandvintage.com/pages/about"
+website: https://communitythriftandvintage.com/pages/about

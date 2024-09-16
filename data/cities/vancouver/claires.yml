@@ -4,8 +4,8 @@ latitude: 49.2816
 longitude: -123.1192
 postcode: ""
 city: Vancouver
-street: "Granville Street"
-housenumber: 762
+street: Granville Street
+housenumber: "762"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
 website: ""

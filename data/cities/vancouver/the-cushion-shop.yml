@@ -1,11 +1,11 @@
 id: 289838329
-type: way
+type: node
 latitude: 49.26061
 longitude: -123.10127
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 2735
+street: Main Street
+housenumber: "2735"
 phone: ""
 opening_hours: ""
 website: ""

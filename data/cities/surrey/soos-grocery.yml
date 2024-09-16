@@ -4,8 +4,8 @@ latitude: 49.19856
 longitude: -122.83453
 postcode: ""
 city: Surrey
-street: "108 Avenue"
-housenumber: 13980
-phone: "+1-604-581-3812"
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00"
+street: 108 Avenue
+housenumber: "13980"
+phone: +1-604-581-3812
+opening_hours: Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00
 website: ""

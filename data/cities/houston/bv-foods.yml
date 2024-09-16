@@ -1,11 +1,11 @@
 id: 423241278
-type: way
+type: node
 latitude: 54.39634
 longitude: -126.65716
 postcode: ""
 city: Houston
-street: "Tweedie Avenue"
-housenumber: 2101
+street: Tweedie Avenue
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

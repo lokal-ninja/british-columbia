@@ -1,11 +1,11 @@
 id: 126172392
-type: way
+type: node
 latitude: 50.86039
 longitude: -120.26464
-postcode: "V2H 0B6"
+postcode: V2H 0B6
 city: Kamloops
-street: "Old Highway 5"
-housenumber: 7060
-phone: "+1-250-578-7224"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Old Highway 5
+housenumber: "7060"
+phone: +1-250-578-7224
+opening_hours: Mo-Su 07:00-21:00
 website: ""

@@ -2,10 +2,10 @@ id: 10956857188
 type: node
 latitude: 49.04772
 longitude: -122.78463
-postcode: "V3Z 2L6"
+postcode: V3Z 2L6
 city: Surrey
-street: "Croydon Drive"
-housenumber: 15775
-phone: "+1-604-560-6111"
-opening_hours: "Mo-Th, Su 12:00-21:30; Fr-Sa 12:00-20:00; "
-website: "https://www.menchies.ca/"
+street: Croydon Drive
+housenumber: "15775"
+phone: +1-604-560-6111
+opening_hours: 'Mo-Th, Su 12:00-21:30; Fr-Sa 12:00-20:00; '
+website: https://www.menchies.ca/

@@ -1,11 +1,11 @@
 id: 161101736
-type: way
+type: node
 latitude: 49.26068
 longitude: -123.09795
 postcode: ""
 city: Vancouver
-street: "East 11th Avenue"
-housenumber: 306
+street: East 11th Avenue
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

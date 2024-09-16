@@ -1,11 +1,11 @@
 id: 51185381
-type: way
+type: node
 latitude: 49.28201
 longitude: -123.1171
 postcode: ""
 city: Vancouver
-street: "Granville Street"
-housenumber: 674
+street: Granville Street
+housenumber: "674"
 phone: ""
-opening_hours: "Su-We 11:00-19:00; Th-Sa 11:00-20:00"
+opening_hours: Su-We 11:00-19:00; Th-Sa 11:00-20:00
 website: ""

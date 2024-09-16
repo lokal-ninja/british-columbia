@@ -1,11 +1,11 @@
 id: 278079128
-type: way
+type: node
 latitude: 49.1918
 longitude: -123.08297
-postcode: "V6V 1J5"
+postcode: V6V 1J5
 city: Richmond
-street: "Bridgeport Road"
-housenumber: 12680
-phone: "+1-604-720-1209"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:00-17:00, Su 12:00-16:00"
-website: "https://homeidol.com/"
+street: Bridgeport Road
+housenumber: "12680"
+phone: +1-604-720-1209
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:00-17:00, Su 12:00-16:00
+website: https://homeidol.com/

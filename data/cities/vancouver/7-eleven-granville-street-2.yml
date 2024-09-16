@@ -4,8 +4,8 @@ latitude: 49.27933
 longitude: -123.12259
 postcode: ""
 city: Vancouver
-street: "Granville Street"
-housenumber: 982
+street: Granville Street
+housenumber: "982"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/35667"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/35667

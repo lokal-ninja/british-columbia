@@ -1,11 +1,11 @@
 id: 83338373
-type: way
+type: node
 latitude: 49.26813
 longitude: -123.14502
 postcode: ""
 city: Vancouver
-street: "West 4th Avenue"
-housenumber: 1765
+street: West 4th Avenue
+housenumber: "1765"
 phone: ""
 opening_hours: ""
 website: ""

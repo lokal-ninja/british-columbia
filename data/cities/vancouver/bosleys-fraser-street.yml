@@ -4,8 +4,8 @@ latitude: 49.2543
 longitude: -123.0902
 postcode: ""
 city: Vancouver
-street: "Fraser Street"
-housenumber: 3425
+street: Fraser Street
+housenumber: "3425"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.25969
 longitude: -123.0618
 postcode: ""
 city: Vancouver
-street: "East 12th Avenue"
-housenumber: 2105
-phone: "+1-604-874-5535"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: East 12th Avenue
+housenumber: "2105"
+phone: +1-604-874-5535
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

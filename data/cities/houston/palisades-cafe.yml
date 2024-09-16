@@ -1,11 +1,11 @@
 id: 417666437
-type: way
+type: node
 latitude: 54.40013
 longitude: -126.6475
 postcode: ""
 city: Houston
-street: "9th Street"
-housenumber: 3384
+street: 9th Street
+housenumber: "3384"
 phone: ""
 opening_hours: ""
-website: "https://www.thepalisadescafe.com/"
+website: https://www.thepalisadescafe.com/

@@ -1,11 +1,11 @@
 id: 423451472
-type: way
+type: node
 latitude: 49.12979
 longitude: -123.92292
-postcode: "V9R 6R6"
+postcode: V9R 6R6
 city: Nanaimo
-street: "Twelfth Street"
-housenumber: 82
-phone: "+1-250-753-7545"
-opening_hours: "Mo-Su 7:00-22:00"
-website: "https://www.countrygrocer.com/"
+street: Twelfth Street
+housenumber: "82"
+phone: +1-250-753-7545
+opening_hours: Mo-Su 7:00-22:00
+website: https://www.countrygrocer.com/

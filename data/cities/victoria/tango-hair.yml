@@ -2,10 +2,10 @@ id: 3432342611
 type: node
 latitude: 48.42888
 longitude: -123.36949
-postcode: "V8W 3K3"
+postcode: V8W 3K3
 city: Victoria
-street: "Store Street"
-housenumber: 1619
-phone: "+1-250-984-0910"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.tangohair.com"
+street: Store Street
+housenumber: "1619"
+phone: +1-250-984-0910
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.tangohair.com

@@ -1,11 +1,11 @@
 id: 712069429
-type: way
+type: node
 latitude: 49.09257
 longitude: -123.08469
-postcode: "V4K 2Y1"
+postcode: V4K 2Y1
 city: Delta
-street: "Elliott Street"
-housenumber: 4930
+street: Elliott Street
+housenumber: "4930"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
-website: "https://www.westcoastseeds.com/"
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
+website: https://www.westcoastseeds.com/

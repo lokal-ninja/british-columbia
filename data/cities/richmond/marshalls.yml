@@ -4,8 +4,8 @@ latitude: 49.17829
 longitude: -123.12395
 postcode: ""
 city: Richmond
-street: "McClelland Road"
-housenumber: 4751
+street: McClelland Road
+housenumber: "4751"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.marshalls.ca/en/storelocator?store=751"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.marshalls.ca/en/storelocator?store=751

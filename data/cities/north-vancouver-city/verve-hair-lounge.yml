@@ -1,11 +1,11 @@
 id: 165743024
-type: way
+type: node
 latitude: 49.31322
 longitude: -123.07781
 postcode: ""
 city: North Vancouver City
-street: "Lonsdale Avenue"
-housenumber: 227
+street: Lonsdale Avenue
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 515135372
-type: way
+type: node
 latitude: 49.27075
 longitude: -123.08932
 postcode: ""
 city: Vancouver
-street: "Terminal Avenue"
-housenumber: 730
+street: Terminal Avenue
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

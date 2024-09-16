@@ -1,11 +1,11 @@
 id: 554596600
-type: way
+type: node
 latitude: 49.16866
 longitude: -121.95245
-postcode: "V2P 1W1"
+postcode: V2P 1W1
 city: Chilliwack
-street: "First Avenue"
-housenumber: 45970
+street: First Avenue
+housenumber: "45970"
 phone: ""
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-chilliwack-bc-esso-200302956"
+website: https://www.esso.ca/en-ca/find-station/esso-chilliwack-bc-esso-200302956

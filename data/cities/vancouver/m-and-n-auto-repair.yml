@@ -1,11 +1,11 @@
 id: 160298334
-type: way
+type: node
 latitude: 49.26231
 longitude: -123.09239
 postcode: ""
 city: Vancouver
-street: "East Broadway"
-housenumber: 530
+street: East Broadway
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

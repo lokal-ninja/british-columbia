@@ -4,8 +4,8 @@ latitude: 49.26578
 longitude: -123.06997
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 2115
-phone: "+1-604-428-5563"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.chiclashbc.ca/"
+street: Commercial Drive
+housenumber: "2115"
+phone: +1-604-428-5563
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.chiclashbc.ca/

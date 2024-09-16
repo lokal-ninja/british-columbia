@@ -1,11 +1,11 @@
 id: 562964809
-type: way
+type: node
 latitude: 49.1666
 longitude: -123.13852
 postcode: ""
 city: Richmond
-street: "No. 3 Road"
-housenumber: 6551
+street: No. 3 Road
+housenumber: "6551"
 phone: ""
 opening_hours: ""
 website: ""

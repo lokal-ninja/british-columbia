@@ -4,8 +4,8 @@ latitude: 49.28243
 longitude: -123.11168
 postcode: ""
 city: Vancouver
-street: "West Pender Street"
-housenumber: 334
+street: West Pender Street
+housenumber: "334"
 phone: ""
-opening_hours: "Mo-Sa 12:00-17:00"
-website: "https://www.hunterandhare.com/"
+opening_hours: Mo-Sa 12:00-17:00
+website: https://www.hunterandhare.com/

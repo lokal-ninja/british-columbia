@@ -1,11 +1,11 @@
 id: 83338578
-type: way
+type: node
 latitude: 49.26847
 longitude: -123.14749
 postcode: ""
 city: Vancouver
-street: "West 4th Avenue"
-housenumber: 1885
+street: West 4th Avenue
+housenumber: "1885"
 phone: ""
 opening_hours: ""
-website: "https://www.marks.com/en/store-details/bc/vancouver-west-251.html"
+website: https://www.marks.com/en/store-details/bc/vancouver-west-251.html

@@ -4,8 +4,8 @@ latitude: 49.28439
 longitude: -123.12485
 postcode: ""
 city: Vancouver
-street: "Robson Street"
-housenumber: 1098
+street: Robson Street
+housenumber: "1098"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th-Su 10:00-20:00"
+opening_hours: Mo-We 10:00-19:00; Th-Su 10:00-20:00
 website: ""

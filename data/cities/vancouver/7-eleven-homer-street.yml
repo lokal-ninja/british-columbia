@@ -4,8 +4,8 @@ latitude: 49.2765
 longitude: -123.12168
 postcode: ""
 city: Vancouver
-street: "Homer Street"
-housenumber: 1085
+street: Homer Street
+housenumber: "1085"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/33417"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/33417

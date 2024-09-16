@@ -2,10 +2,11 @@ id: 5154287790
 type: node
 latitude: 49.26972
 longitude: -123.04399
-postcode: "V5N 1C3"
+postcode: V5N 1C3
 city: Vancouver
-street: "Renfrew Street"
-housenumber: 1680
+street: Renfrew Street
+housenumber: "1680"
 phone: ""
-opening_hours: "Mo 08:30-18:00; We-Th 08:30-18:00; Fr-Sa 08:30-17:00; Su 08:30-18:00; PH 08:30-17:00"
+opening_hours: Mo 08:30-18:00; We-Th 08:30-18:00; Fr-Sa 08:30-17:00; Su 08:30-18:00;
+    PH 08:30-17:00
 website: ""

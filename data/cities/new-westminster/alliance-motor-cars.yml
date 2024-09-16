@@ -1,11 +1,11 @@
 id: 83228998
-type: way
+type: node
 latitude: 49.2313
 longitude: -122.88407
-postcode: "V3L 3P4"
+postcode: V3L 3P4
 city: New Westminster
-street: "Braid Street"
-housenumber: 90
+street: Braid Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "http://www.theautolounge.ca/"
+website: http://www.theautolounge.ca/

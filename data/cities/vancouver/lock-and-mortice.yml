@@ -2,10 +2,10 @@ id: 8402215130
 type: node
 latitude: 49.28438
 longitude: -123.1097
-postcode: "V6B 1B6"
+postcode: V6B 1B6
 city: Vancouver
-street: "Water Street"
-housenumber: 332
-phone: "+1-604-371-2001"
+street: Water Street
+housenumber: "332"
+phone: +1-604-371-2001
 opening_hours: ""
-website: "https://www.lockandmortice.com/"
+website: https://www.lockandmortice.com/

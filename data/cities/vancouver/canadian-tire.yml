@@ -4,8 +4,8 @@ latitude: 49.26513
 longitude: -123.1143
 postcode: ""
 city: Vancouver
-street: "Cambie Street"
-housenumber: 2290
+street: Cambie Street
+housenumber: "2290"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.canadiantire.ca/"
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.canadiantire.ca/

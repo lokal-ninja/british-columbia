@@ -1,11 +1,11 @@
 id: 137777343
-type: way
+type: node
 latitude: 49.52428
 longitude: -124.64756
-postcode: "V0R 1Z0"
+postcode: V0R 1Z0
 city: Hornby Island
-street: "Central Road"
-housenumber: 5875
-phone: "+1-250-335-1121"
+street: Central Road
+housenumber: "5875"
+phone: +1-250-335-1121
 opening_hours: ""
 website: ""

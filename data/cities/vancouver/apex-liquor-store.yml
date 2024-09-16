@@ -4,8 +4,8 @@ latitude: 49.22457
 longitude: -123.06555
 postcode: ""
 city: Vancouver
-street: "Victoria Drive"
-housenumber: 6542
-phone: "+1-604-569-3616"
-opening_hours: "Mo-We 11:00-23:00; Th-Su 10:00-23:00"
+street: Victoria Drive
+housenumber: "6542"
+phone: +1-604-569-3616
+opening_hours: Mo-We 11:00-23:00; Th-Su 10:00-23:00
 website: ""

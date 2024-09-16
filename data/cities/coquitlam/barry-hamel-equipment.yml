@@ -1,11 +1,11 @@
 id: 238697343
-type: way
+type: node
 latitude: 49.23079
 longitude: -122.81861
-postcode: "V3K 5Z9"
+postcode: V3K 5Z9
 city: Coquitlam
-street: "Shuswap Avenue"
-housenumber: 2601
-phone: "+1-604-945-9313"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.barryhamel.com/"
+street: Shuswap Avenue
+housenumber: "2601"
+phone: +1-604-945-9313
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.barryhamel.com/

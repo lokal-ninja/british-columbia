@@ -1,11 +1,11 @@
 id: 67144000
-type: way
+type: node
 latitude: 49.27036
 longitude: -123.13633
 postcode: ""
 city: Vancouver
-street: "Cartwright Street"
-housenumber: 1496
+street: Cartwright Street
+housenumber: "1496"
 phone: ""
 opening_hours: ""
-website: "https://www.kidsmarket.ca/"
+website: https://www.kidsmarket.ca/

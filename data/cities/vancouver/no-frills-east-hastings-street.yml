@@ -1,11 +1,11 @@
 id: 302208356
-type: way
+type: node
 latitude: 49.28116
 longitude: -123.07502
 postcode: ""
 city: Vancouver
-street: "East Hastings Street"
-housenumber: 1460
+street: East Hastings Street
+housenumber: "1460"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

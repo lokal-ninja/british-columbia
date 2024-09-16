@@ -2,10 +2,10 @@ id: 4000060599
 type: node
 latitude: 49.23283
 longitude: -123.03296
-postcode: "V5R 5K6"
+postcode: V5R 5K6
 city: Vancouver
-street: "Kingsway"
-housenumber: 3383
-phone: "+1-604-431-7868"
+street: Kingsway
+housenumber: "3383"
+phone: +1-604-431-7868
 opening_hours: ""
 website: ""

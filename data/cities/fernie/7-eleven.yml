@@ -1,11 +1,11 @@
 id: 223981280
-type: way
+type: node
 latitude: 49.51153
 longitude: -115.06015
-postcode: "V0B 1M0"
+postcode: V0B 1M0
 city: Fernie
-street: "BC-3"
-housenumber: 1261
-phone: "+1-250-423-7662"
+street: BC-3
+housenumber: "1261"
+phone: +1-250-423-7662
 opening_hours: ""
 website: ""

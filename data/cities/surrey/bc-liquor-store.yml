@@ -1,11 +1,11 @@
 id: 102130029
-type: way
+type: node
 latitude: 49.04706
 longitude: -122.79882
 postcode: ""
 city: Surrey
-street: "24 Avenue"
-housenumber: 15355
+street: 24 Avenue
+housenumber: "15355"
 phone: ""
 opening_hours: ""
 website: ""

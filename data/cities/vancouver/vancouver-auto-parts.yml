@@ -1,11 +1,11 @@
 id: 292125617
-type: way
+type: node
 latitude: 49.26595
 longitude: -123.06954
-postcode: "V5N 4B2"
+postcode: V5N 4B2
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 2098
-phone: "+1-604-251-9060"
+street: Commercial Drive
+housenumber: "2098"
+phone: +1-604-251-9060
 opening_hours: ""
-website: "https://vapautoparts.ca/vancouver-auto-parts-vancouver-location/"
+website: https://vapautoparts.ca/vancouver-auto-parts-vancouver-location/

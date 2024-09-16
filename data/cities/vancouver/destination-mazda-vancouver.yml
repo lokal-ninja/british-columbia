@@ -1,11 +1,11 @@
 id: 1192132443
-type: way
+type: node
 latitude: 49.27122
 longitude: -123.02543
 postcode: ""
 city: Vancouver
-street: "Boundary Road"
-housenumber: 1595
-phone: "+1-604-294-4299"
+street: Boundary Road
+housenumber: "1595"
+phone: +1-604-294-4299
 opening_hours: ""
-website: "https://www.destinationmazda.ca/en"
+website: https://www.destinationmazda.ca/en

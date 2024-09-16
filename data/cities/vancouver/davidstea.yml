@@ -2,10 +2,10 @@ id: 2321390625
 type: node
 latitude: 49.28416
 longitude: -123.1085
-postcode: "V6B 1B2"
+postcode: V6B 1B2
 city: Vancouver
-street: "Water Street"
-housenumber: 164
-phone: "+1-604-687-0060"
+street: Water Street
+housenumber: "164"
+phone: +1-604-687-0060
 opening_hours: ""
 website: ""

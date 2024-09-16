@@ -1,11 +1,11 @@
 id: 657733363
-type: way
+type: node
 latitude: 49.48846
 longitude: -119.57932
-postcode: "V2A 4V3"
+postcode: V2A 4V3
 city: Penticton
-street: "Government Street"
-housenumber: 1173
+street: Government Street
+housenumber: "1173"
 phone: ""
 opening_hours: ""
 website: ""

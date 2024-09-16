@@ -1,11 +1,11 @@
 id: 356695604
-type: way
+type: node
 latitude: 49.01642
 longitude: -122.28211
-postcode: "V2S 7N4"
+postcode: V2S 7N4
 city: Abbotsford
-street: "McKenzie Road"
-housenumber: 790
-phone: "+1-604-864-5723"
+street: McKenzie Road
+housenumber: "790"
+phone: +1-604-864-5723
 opening_hours: ""
-website: "https://www.maanfarms.com/"
+website: https://www.maanfarms.com/

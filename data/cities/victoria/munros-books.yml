@@ -1,11 +1,11 @@
 id: 95035846
-type: way
+type: node
 latitude: 48.42531
 longitude: -123.3685
 postcode: ""
 city: Victoria
-street: "Government Street"
-housenumber: 1108
+street: Government Street
+housenumber: "1108"
 phone: ""
-opening_hours: "Mo-Su 09:30-18:00; PH 10:00-17:00"
-website: "https://www.munrobooks.com/"
+opening_hours: Mo-Su 09:30-18:00; PH 10:00-17:00
+website: https://www.munrobooks.com/

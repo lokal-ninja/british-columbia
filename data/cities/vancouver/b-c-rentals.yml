@@ -1,11 +1,11 @@
 id: 302147960
-type: way
+type: node
 latitude: 49.27304
 longitude: -123.07675
 postcode: ""
 city: Vancouver
-street: "Clark Drive"
-housenumber: 1322
+street: Clark Drive
+housenumber: "1322"
 phone: ""
 opening_hours: ""
 website: ""

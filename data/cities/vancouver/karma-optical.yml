@@ -4,8 +4,8 @@ latitude: 49.27253
 longitude: -123.06978
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 1325
+street: Commercial Drive
+housenumber: "1325"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://www.karmaoptical.com/"
+opening_hours: We-Fr 11:00-18:00; Sa 11:00-17:00
+website: https://www.karmaoptical.com/

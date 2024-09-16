@@ -4,8 +4,8 @@ latitude: 49.28317
 longitude: -123.10413
 postcode: ""
 city: Vancouver
-street: "Powell Street"
-housenumber: 2
+street: Powell Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://angelvancouver.com"
+website: https://angelvancouver.com

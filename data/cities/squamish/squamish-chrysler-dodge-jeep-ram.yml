@@ -1,11 +1,11 @@
 id: 90163495
-type: way
+type: node
 latitude: 49.70306
 longitude: -123.14551
-postcode: "V8B 0B7"
+postcode: V8B 0B7
 city: Squamish
-street: "Hunter Place"
-housenumber: 1180
-phone: "+1-604-892-3394"
-opening_hours: "Mo-Sa 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.squamishdodgejeepram.com/"
+street: Hunter Place
+housenumber: "1180"
+phone: +1-604-892-3394
+opening_hours: Mo-Sa 09:00-18:00; Sa 09:00-17:00
+website: https://www.squamishdodgejeepram.com/

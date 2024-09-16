@@ -1,11 +1,11 @@
 id: 735038229
-type: way
+type: node
 latitude: 49.19263
 longitude: -123.99144
-postcode: "V9S 1H9"
+postcode: V9S 1H9
 city: Nanaimo
-street: "Bowen Road"
-housenumber: 2220
-phone: "+1-250-750-8111"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 11:30-16:00"
+street: Bowen Road
+housenumber: "2220"
+phone: +1-250-750-8111
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 11:30-16:00
 website: ""

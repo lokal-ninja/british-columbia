@@ -2,10 +2,10 @@ id: 5028020392
 type: node
 latitude: 49.24267
 longitude: -123.06025
-postcode: "V5N 2T7"
+postcode: V5N 2T7
 city: Vancouver
-street: "Kingsway"
-housenumber: 2232
-phone: "+1 604 438 8213"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-17:30; Su on call"
+street: Kingsway
+housenumber: "2232"
+phone: +1 604 438 8213
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-17:30; Su "on call"
 website: ""

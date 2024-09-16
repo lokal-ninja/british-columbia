@@ -1,11 +1,11 @@
 id: 225755975
-type: way
+type: node
 latitude: 49.0224
 longitude: -118.47094
-postcode: "V0H 1H0"
+postcode: V0H 1H0
 city: Grand Forks
-street: "27th Street"
-housenumber: 7000
-phone: "+1-250-442-3840"
-opening_hours: "Mo-Su 08:00-21:00"
+street: 27th Street
+housenumber: "7000"
+phone: +1-250-442-3840
+opening_hours: Mo-Su 08:00-21:00
 website: ""

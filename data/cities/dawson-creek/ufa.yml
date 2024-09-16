@@ -1,11 +1,11 @@
 id: 545718356
-type: way
+type: node
 latitude: 55.73731
 longitude: -120.21242
-postcode: "V1G 5A2"
+postcode: V1G 5A2
 city: Dawson Creek
-street: "BC-2"
-housenumber: 401
-phone: "+1-250-782-9288"
+street: BC-2
+housenumber: "401"
+phone: +1-250-782-9288
 opening_hours: ""
 website: ""

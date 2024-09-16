@@ -1,11 +1,11 @@
 id: 255866264
-type: way
+type: node
 latitude: 49.11078
 longitude: -122.66959
 postcode: ""
 city: Langley
-street: "200 Street"
-housenumber: 5965
+street: 200 Street
+housenumber: "5965"
 phone: ""
 opening_hours: ""
 website: ""

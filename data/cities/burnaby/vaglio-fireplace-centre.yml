@@ -1,11 +1,11 @@
 id: 551576632
-type: way
+type: node
 latitude: 49.26392
 longitude: -123.00535
 postcode: ""
 city: Burnaby
-street: "Juneau Street"
-housenumber: 4415
+street: Juneau Street
+housenumber: "4415"
 phone: ""
 opening_hours: ""
 website: ""

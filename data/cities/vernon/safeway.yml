@@ -1,11 +1,11 @@
 id: 229032123
-type: way
+type: node
 latitude: 50.27512
 longitude: -119.27603
-postcode: "V1T 9H2"
+postcode: V1T 9H2
 city: Vernon
-street: "32 Street"
-housenumber: 4300
-phone: "+1-250-542-2627"
+street: 32 Street
+housenumber: "4300"
+phone: +1-250-542-2627
 opening_hours: ""
 website: ""

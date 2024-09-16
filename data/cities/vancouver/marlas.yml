@@ -4,8 +4,8 @@ latitude: 49.27501
 longitude: -123.12342
 postcode: ""
 city: Vancouver
-street: "Homer Street"
-housenumber: 1212
-phone: "+1-604-685-5610"
+street: Homer Street
+housenumber: "1212"
+phone: +1-604-685-5610
 opening_hours: ""
 website: ""

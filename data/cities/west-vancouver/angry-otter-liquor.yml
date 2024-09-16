@@ -1,11 +1,11 @@
 id: 128094071
-type: way
+type: node
 latitude: 49.33507
 longitude: -123.18124
 postcode: ""
 city: West Vancouver
-street: "Marine Drive"
-housenumber: 2477
+street: Marine Drive
+housenumber: "2477"
 phone: ""
 opening_hours: ""
 website: ""

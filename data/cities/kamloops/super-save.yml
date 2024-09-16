@@ -1,11 +1,11 @@
 id: 126294122
-type: way
+type: node
 latitude: 50.65346
 longitude: -120.0492
-postcode: "V2C 6Y9"
+postcode: V2C 6Y9
 city: Kamloops
-street: "Dallas Drive"
-housenumber: 10030
-phone: "+1-250-573-2990"
+street: Dallas Drive
+housenumber: "10030"
+phone: +1-250-573-2990
 opening_hours: ""
 website: ""

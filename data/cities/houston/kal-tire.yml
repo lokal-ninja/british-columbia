@@ -1,11 +1,11 @@
 id: 417759295
-type: way
+type: node
 latitude: 54.39778
 longitude: -126.65847
 postcode: ""
 city: Houston
-street: "Tweedie Avenue"
-housenumber: 2289
-phone: "+1-250-845-7341"
+street: Tweedie Avenue
+housenumber: "2289"
+phone: +1-250-845-7341
 opening_hours: ""
 website: ""

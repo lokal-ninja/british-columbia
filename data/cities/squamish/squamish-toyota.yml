@@ -1,11 +1,11 @@
 id: 671904919
-type: way
+type: node
 latitude: 49.72228
 longitude: -123.15395
 postcode: ""
 city: Squamish
-street: "Queens Way"
-housenumber: 39150
+street: Queens Way
+housenumber: "39150"
 phone: ""
 opening_hours: ""
 website: ""

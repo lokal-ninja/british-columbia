@@ -4,8 +4,8 @@ latitude: 49.26451
 longitude: -123.10382
 postcode: ""
 city: Vancouver
-street: "East 7th Avenue"
-housenumber: 68
+street: East 7th Avenue
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "http://www.theensuitevancouver.com"
+website: http://www.theensuitevancouver.com

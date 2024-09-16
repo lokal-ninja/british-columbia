@@ -1,11 +1,11 @@
 id: 963624582
-type: way
+type: node
 latitude: 49.28418
 longitude: -123.07169
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 33
+street: Commercial Drive
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

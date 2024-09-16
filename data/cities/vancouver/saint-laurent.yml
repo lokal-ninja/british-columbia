@@ -4,8 +4,8 @@ latitude: 49.28496
 longitude: -123.124
 postcode: ""
 city: Vancouver
-street: "Thurlow Street"
-housenumber: 746
+street: Thurlow Street
+housenumber: "746"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00, Fr-Sa 10:00-19:00,Su 12:00-18:00"
+opening_hours: Mo-Th 11:00-19:00, Fr-Sa 10:00-19:00,Su 12:00-18:00
 website: ""

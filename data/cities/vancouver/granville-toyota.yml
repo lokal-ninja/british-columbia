@@ -1,11 +1,11 @@
 id: 513444475
-type: way
+type: node
 latitude: 49.21036
 longitude: -123.09317
 postcode: ""
 city: Vancouver
-street: "Fraser Street"
-housenumber: 8265
+street: Fraser Street
+housenumber: "8265"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 125445861
-type: way
+type: node
 latitude: 50.6877
 longitude: -120.34809
-postcode: "V2B"
+postcode: V2B
 city: Kamloops
-street: "Fortune Drive"
-housenumber: 285
+street: Fortune Drive
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

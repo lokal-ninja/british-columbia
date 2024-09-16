@@ -1,11 +1,11 @@
 id: 292247551
-type: way
+type: node
 latitude: 49.27717
 longitude: -123.07647
 postcode: ""
 city: Vancouver
-street: "Venables Street"
-housenumber: 1331
+street: Venables Street
+housenumber: "1331"
 phone: ""
 opening_hours: ""
 website: ""

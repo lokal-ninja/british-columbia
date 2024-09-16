@@ -1,11 +1,11 @@
 id: 814715532
-type: way
+type: node
 latitude: 50.11021
 longitude: -120.78984
 postcode: ""
 city: Merritt
-street: "Quilchena Avenue"
-housenumber: 1998
-phone: "+1-250-378-5584"
-opening_hours: "Mo-Fr 11:00-17:00, Sa 12:00-15:00"
+street: Quilchena Avenue
+housenumber: "1998"
+phone: +1-250-378-5584
+opening_hours: Mo-Fr 11:00-17:00, Sa 12:00-15:00
 website: ""

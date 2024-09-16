@@ -1,11 +1,11 @@
 id: 132240053
-type: way
+type: node
 latitude: 49.24137
 longitude: -122.88356
-postcode: "V3K 3S5"
+postcode: V3K 3S5
 city: Coquitlam
-street: "Lougheed Highway"
-housenumber: 641
+street: Lougheed Highway
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

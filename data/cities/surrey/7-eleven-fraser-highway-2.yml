@@ -1,11 +1,11 @@
 id: 385663998
-type: way
+type: node
 latitude: 49.17973
 longitude: -122.83483
-postcode: "V3T 4E6"
+postcode: V3T 4E6
 city: Surrey
-street: "Fraser Highway"
-housenumber: 13993
+street: Fraser Highway
+housenumber: "13993"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.7-eleven.ca/store/34907"
+opening_hours: 24/7
+website: https://stores.7-eleven.ca/store/34907

@@ -1,11 +1,11 @@
 id: 545565388
-type: way
+type: node
 latitude: 52.97438
 longitude: -122.50696
-postcode: "V2J 3K3"
+postcode: V2J 3K3
 city: Quesnel
-street: "Marsh Drive"
-housenumber: 119
-phone: "+1-250-992-7112"
+street: Marsh Drive
+housenumber: "119"
+phone: +1-250-992-7112
 opening_hours: ""
 website: ""

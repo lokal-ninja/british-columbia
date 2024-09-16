@@ -1,11 +1,11 @@
 id: 953677514
-type: way
+type: node
 latitude: 49.06092
 longitude: -122.81062
 postcode: ""
 city: Surrey
-street: "King George Boulevard"
-housenumber: 3174
+street: King George Boulevard
+housenumber: "3174"
 phone: ""
 opening_hours: ""
 website: ""

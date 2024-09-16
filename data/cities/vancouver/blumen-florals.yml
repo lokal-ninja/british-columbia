@@ -4,8 +4,8 @@ latitude: 49.26034
 longitude: -123.10133
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 2751
-phone: "+1-778-389-0882"
+street: Main Street
+housenumber: "2751"
+phone: +1-778-389-0882
 opening_hours: ""
-website: "https://www.blumenflorals.ca/"
+website: https://www.blumenflorals.ca/

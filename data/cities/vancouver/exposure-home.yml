@@ -4,8 +4,8 @@ latitude: 49.27019
 longitude: -123.06944
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 1616
-phone: "+1-604-879-9046"
-opening_hours: "Mo-Fr 10:00-17:30"
-website: "https://www.exposurehome.ca/"
+street: Commercial Drive
+housenumber: "1616"
+phone: +1-604-879-9046
+opening_hours: Mo-Fr 10:00-17:30
+website: https://www.exposurehome.ca/

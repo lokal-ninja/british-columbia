@@ -4,8 +4,8 @@ latitude: 49.28298
 longitude: -123.11517
 postcode: ""
 city: Vancouver
-street: "Seymour Street"
-housenumber: 596
+street: Seymour Street
+housenumber: "596"
 phone: ""
 opening_hours: ""
-website: "https://stores.7-eleven.ca/store/32999"
+website: https://stores.7-eleven.ca/store/32999

@@ -1,11 +1,11 @@
 id: 970717030
-type: way
+type: node
 latitude: 49.33061
 longitude: -124.34625
 postcode: ""
 city: Parksville
-street: "West Island Highway"
-housenumber: 822
+street: West Island Highway
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.26975
 longitude: -123.06945
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 1690
-phone: "+1-604-253-2274"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00"
-website: "https://locations.moneytreeinc.ca/moneytree-e0ff5af3dcbb"
+street: Commercial Drive
+housenumber: "1690"
+phone: +1-604-253-2274
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-17:00
+website: https://locations.moneytreeinc.ca/moneytree-e0ff5af3dcbb

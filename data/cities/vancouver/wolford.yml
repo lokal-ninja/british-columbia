@@ -4,8 +4,8 @@ latitude: 49.28388
 longitude: -123.12229
 postcode: ""
 city: Vancouver
-street: "Burrard Street"
-housenumber: 765
+street: Burrard Street
+housenumber: "765"
 phone: ""
-opening_hours: "Mo-Sa 11:00-14:00,14:30-18:00, Su 12:00-14:00, Sa 14:30-18:00"
+opening_hours: Mo-Sa 11:00-14:00,14:30-18:00, Su 12:00-14:00, Sa 14:30-18:00
 website: ""

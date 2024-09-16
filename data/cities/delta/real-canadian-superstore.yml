@@ -1,11 +1,11 @@
 id: 103244693
-type: way
+type: node
 latitude: 49.15214
 longitude: -122.89292
 postcode: ""
 city: Delta
-street: "Scott Road"
-housenumber: 8195
+street: Scott Road
+housenumber: "8195"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.realcanadiansuperstore.ca/store-locator/details/1554"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.realcanadiansuperstore.ca/store-locator/details/1554

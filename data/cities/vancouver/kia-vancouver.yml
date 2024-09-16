@@ -1,11 +1,11 @@
 id: 618725972
-type: way
+type: node
 latitude: 49.21085
 longitude: -123.11496
 postcode: ""
 city: Vancouver
-street: "Southwest Marine Drive"
-housenumber: 396
+street: Southwest Marine Drive
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

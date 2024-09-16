@@ -1,11 +1,11 @@
 id: 545020317
-type: way
+type: node
 latitude: 50.24967
 longitude: -117.81034
-postcode: "V0G 1R0"
+postcode: V0G 1R0
 city: Nakusp
-street: "BC-23"
-housenumber: 1101
-phone: "+1-250-265-3880"
+street: BC-23
+housenumber: "1101"
+phone: +1-250-265-3880
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-nakusp-bc-esso-200303901"
+website: https://www.esso.ca/en-ca/find-station/esso-nakusp-bc-esso-200303901

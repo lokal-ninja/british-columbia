@@ -4,8 +4,8 @@ latitude: 49.28025
 longitude: -123.09944
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 500
+street: Main Street
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Su 10:00-17:30"
+opening_hours: Mo-Su 10:00-17:30
 website: ""

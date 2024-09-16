@@ -2,10 +2,10 @@ id: 1395764462
 type: node
 latitude: 50.67388
 longitude: -120.33247
-postcode: "V2C"
+postcode: V2C
 city: Kamloops
-street: "St Paul Street"
-housenumber: 369
+street: St Paul Street
+housenumber: "369"
 phone: ""
 opening_hours: ""
 website: ""

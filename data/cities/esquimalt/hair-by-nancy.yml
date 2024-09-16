@@ -1,11 +1,11 @@
 id: 1202971561
-type: way
+type: node
 latitude: 48.44216
 longitude: -123.42107
-postcode: "V9A 4K8"
+postcode: V9A 4K8
 city: Esquimalt
-street: "Kingsmill Road"
-housenumber: 911
-phone: "+1 250-590-7353"
-opening_hours: "Mo 09:00-17:00; We-Sa 09:00-17:00"
-website: "https://hair-by-nancy.business.site"
+street: Kingsmill Road
+housenumber: "911"
+phone: +1 250-590-7353
+opening_hours: Mo 09:00-17:00; We-Sa 09:00-17:00
+website: https://hair-by-nancy.business.site

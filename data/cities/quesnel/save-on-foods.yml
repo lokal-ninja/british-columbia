@@ -1,11 +1,11 @@
 id: 310317417
-type: way
+type: node
 latitude: 52.97306
 longitude: -122.5065
-postcode: "V2J 3K2"
+postcode: V2J 3K2
 city: Quesnel
-street: "Malcolm Drive"
-housenumber: 155
-phone: "+1-250-992-8718"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Malcolm Drive
+housenumber: "155"
+phone: +1-250-992-8718
+opening_hours: Mo-Su 07:00-22:00
 website: ""

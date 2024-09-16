@@ -1,11 +1,11 @@
 id: 83338619
-type: way
+type: node
 latitude: 49.26802
 longitude: -123.15201
-postcode: "V6J 1M9"
+postcode: V6J 1M9
 city: Vancouver
-street: "West 4th Avenue"
-housenumber: 2070
-phone: "+1-604-259-1059"
+street: West 4th Avenue
+housenumber: "2070"
+phone: +1-604-259-1059
 opening_hours: ""
 website: ""

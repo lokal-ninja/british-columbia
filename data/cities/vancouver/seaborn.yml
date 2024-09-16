@@ -2,10 +2,10 @@ id: 11870101447
 type: node
 latitude: 49.20408
 longitude: -123.13526
-postcode: "V6P 3E7"
+postcode: V6P 3E7
 city: Vancouver
-street: "West 73rd Avenue"
-housenumber: 1310
-phone: "+1-604-261-2230"
+street: West 73rd Avenue
+housenumber: "1310"
+phone: +1-604-261-2230
 opening_hours: ""
-website: "https://seaborn.ca/"
+website: https://seaborn.ca/

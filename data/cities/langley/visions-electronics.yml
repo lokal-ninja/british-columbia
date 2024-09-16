@@ -1,11 +1,11 @@
 id: 353256721
-type: way
+type: node
 latitude: 49.11248
 longitude: -122.64958
-postcode: "V3A 6K8"
+postcode: V3A 6K8
 city: Langley
-street: "Langley Bypass"
-housenumber: 20670
+street: Langley Bypass
+housenumber: "20670"
 phone: ""
 opening_hours: ""
-website: "https://www.visions.ca/"
+website: https://www.visions.ca/

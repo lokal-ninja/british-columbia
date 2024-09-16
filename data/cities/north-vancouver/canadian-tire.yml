@@ -1,11 +1,11 @@
 id: 165351421
-type: way
+type: node
 latitude: 49.30757
 longitude: -123.0361
 postcode: ""
 city: North Vancouver
-street: "Main Street"
-housenumber: 1350
+street: Main Street
+housenumber: "1350"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-19:00; PH 08:00-19:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-19:00; PH 08:00-19:00
 website: ""

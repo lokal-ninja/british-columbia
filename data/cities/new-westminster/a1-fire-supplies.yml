@@ -1,11 +1,11 @@
 id: 161848531
-type: way
+type: node
 latitude: 49.22367
 longitude: -122.91203
 postcode: ""
 city: New Westminster
-street: "McBride Boulevard"
-housenumber: 825
+street: McBride Boulevard
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

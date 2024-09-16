@@ -4,8 +4,8 @@ latitude: 49.27404
 longitude: -123.12045
 postcode: ""
 city: Vancouver
-street: "Pacific Boulevard"
-housenumber: 1168
-phone: "+1-604-423-4000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.pacificdrycleaners.net/"
+street: Pacific Boulevard
+housenumber: "1168"
+phone: +1-604-423-4000
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.pacificdrycleaners.net/

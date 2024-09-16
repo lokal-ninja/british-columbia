@@ -1,11 +1,11 @@
 id: 530105386
-type: way
+type: node
 latitude: 49.26943
 longitude: -123.08097
 postcode: ""
 city: Vancouver
-street: "Glen Drive"
-housenumber: 1728
+street: Glen Drive
+housenumber: "1728"
 phone: ""
 opening_hours: ""
 website: ""

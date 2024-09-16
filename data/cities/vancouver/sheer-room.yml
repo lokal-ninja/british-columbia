@@ -4,8 +4,8 @@ latitude: 49.27766
 longitude: -123.11927
 postcode: ""
 city: Vancouver
-street: "Homer Street"
-housenumber: 948
+street: Homer Street
+housenumber: "948"
 phone: ""
 opening_hours: ""
-website: "https://sheerroom.com/"
+website: https://sheerroom.com/

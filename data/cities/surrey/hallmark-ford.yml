@@ -1,11 +1,11 @@
 id: 369029452
-type: way
+type: node
 latitude: 49.18487
 longitude: -122.8011
-postcode: "V3R 4G6"
+postcode: V3R 4G6
 city: Surrey
-street: "152 Street"
-housenumber: 10025
+street: 152 Street
+housenumber: "10025"
 phone: ""
 opening_hours: ""
 website: ""

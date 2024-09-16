@@ -1,11 +1,11 @@
 id: 707445351
-type: way
+type: node
 latitude: 49.17463
 longitude: -123.84763
-postcode: "V0R 1X0"
+postcode: V0R 1X0
 city: Gabriola
-street: "Ross Way"
-housenumber: 785
-phone: "+1-250-247-8157"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:30-17:00; Su 09:00-16:30"
-website: "https://www.homehardware.ca/en/store/51831"
+street: Ross Way
+housenumber: "785"
+phone: +1-250-247-8157
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:30-17:00; Su 09:00-16:30
+website: https://www.homehardware.ca/en/store/51831

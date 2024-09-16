@@ -1,11 +1,11 @@
 id: 169383415
-type: way
+type: node
 latitude: 50.66421
 longitude: -120.36617
-postcode: "V2C"
+postcode: V2C
 city: Kamloops
-street: "Notre Dame Drive"
-housenumber: 948
+street: Notre Dame Drive
+housenumber: "948"
 phone: ""
 opening_hours: ""
 website: ""

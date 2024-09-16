@@ -1,11 +1,11 @@
 id: 223355261
-type: way
+type: node
 latitude: 49.03255
 longitude: -119.47128
-postcode: "V0H 1V0"
+postcode: V0H 1V0
 city: Osoyoos
-street: "Main Street"
-housenumber: 9101
-phone: "+1-250-495-6689"
+street: Main Street
+housenumber: "9101"
+phone: +1-250-495-6689
 opening_hours: ""
 website: ""

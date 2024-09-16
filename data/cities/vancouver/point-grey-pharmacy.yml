@@ -1,11 +1,11 @@
 id: 356584776
-type: way
+type: node
 latitude: 49.26375
 longitude: -123.20994
-postcode: "V6R 2J1"
+postcode: V6R 2J1
 city: Vancouver
-street: "West 10th Avenue"
-housenumber: 4530
+street: West 10th Avenue
+housenumber: "4530"
 phone: ""
 opening_hours: ""
 website: ""

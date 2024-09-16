@@ -1,11 +1,11 @@
 id: 721781983
-type: way
+type: node
 latitude: 49.11121
 longitude: -122.67536
-postcode: "V3A 4C9"
+postcode: V3A 4C9
 city: Langley
-street: "Fraser Highway"
-housenumber: 19820
-phone: "+1 604 546 2155"
+street: Fraser Highway
+housenumber: "19820"
+phone: +1 604 546 2155
 opening_hours: ""
 website: ""

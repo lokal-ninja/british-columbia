@@ -1,11 +1,11 @@
 id: 545923805
-type: way
+type: node
 latitude: 50.78639
 longitude: -119.32966
-postcode: "V0E 2X0"
+postcode: V0E 2X0
 city: Tappen
-street: "Trans-Canada Highway"
-housenumber: 4828
-phone: "+1-250-835-4513"
+street: Trans-Canada Highway
+housenumber: "4828"
+phone: +1-250-835-4513
 opening_hours: ""
 website: ""

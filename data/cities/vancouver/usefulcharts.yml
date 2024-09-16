@@ -4,8 +4,8 @@ latitude: 49.25833
 longitude: -123.06961
 postcode: ""
 city: Vancouver
-street: "Commercial Drive"
-housenumber: 2916
+street: Commercial Drive
+housenumber: "2916"
 phone: ""
-opening_hours: "12:00=16:00"
+opening_hours: 12:00=16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.28305
 longitude: -123.11367
 postcode: ""
 city: Vancouver
-street: "Richards Street"
-housenumber: 523
+street: Richards Street
+housenumber: "523"
 phone: ""
 opening_hours: ""
-website: "https://www.albionbooks.ca/"
+website: https://www.albionbooks.ca/

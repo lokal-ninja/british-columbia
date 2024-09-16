@@ -4,8 +4,8 @@ latitude: 49.26897
 longitude: -123.14105
 postcode: ""
 city: Vancouver
-street: "Fir Street"
-housenumber: 1855
+street: Fir Street
+housenumber: "1855"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-16:00"
-website: "https://www.broughaminteriors.com/"
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-16:00
+website: https://www.broughaminteriors.com/

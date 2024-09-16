@@ -4,8 +4,8 @@ latitude: 49.27605
 longitude: -123.11406
 postcode: ""
 city: Vancouver
-street: "Smithe Street"
-housenumber: 65
-phone: "+1 236 520 2888"
-opening_hours: "09:00-17:00"
-website: "https://ledouxciel.ca/"
+street: Smithe Street
+housenumber: "65"
+phone: +1 236 520 2888
+opening_hours: 09:00-17:00
+website: https://ledouxciel.ca/

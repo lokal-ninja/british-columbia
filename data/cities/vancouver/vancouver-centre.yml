@@ -1,11 +1,11 @@
 id: 359024657
-type: way
+type: node
 latitude: 49.28203
 longitude: -123.11861
 postcode: ""
 city: Vancouver
-street: "Seymour Street"
-housenumber: 753
+street: Seymour Street
+housenumber: "753"
 phone: ""
 opening_hours: ""
 website: ""

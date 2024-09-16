@@ -4,8 +4,8 @@ latitude: 49.27735
 longitude: -123.12675
 postcode: ""
 city: Vancouver
-street: "Davie Street"
-housenumber: 730
-phone: "+1-604-697-9007"
-opening_hours: "Su-Fr 10:00-18:00; Sa 10:30-18:00"
-website: "https://downtownflorist.ca/"
+street: Davie Street
+housenumber: "730"
+phone: +1-604-697-9007
+opening_hours: Su-Fr 10:00-18:00; Sa 10:30-18:00
+website: https://downtownflorist.ca/

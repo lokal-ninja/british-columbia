@@ -1,11 +1,11 @@
 id: 262305530
-type: way
+type: node
 latitude: 48.4359
 longitude: -123.36532
-postcode: "V8T 1R2"
+postcode: V8T 1R2
 city: Victoria
-street: "Bay Street"
-housenumber: 708
-phone: "+1-250-389-1326"
+street: Bay Street
+housenumber: "708"
+phone: +1-250-389-1326
 opening_hours: ""
-website: "https://www.jiffylube.ca/"
+website: https://www.jiffylube.ca/

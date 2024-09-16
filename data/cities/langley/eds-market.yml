@@ -1,11 +1,11 @@
 id: 621793988
-type: way
+type: node
 latitude: 49.0782
 longitude: -122.64869
-postcode: "V3A 3B3"
+postcode: V3A 3B3
 city: Langley
-street: "42 Avenue"
-housenumber: 20758
+street: 42 Avenue
+housenumber: "20758"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://edsinbrookswood.ca/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://edsinbrookswood.ca/

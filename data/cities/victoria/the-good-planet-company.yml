@@ -1,11 +1,11 @@
 id: 95038486
-type: way
+type: node
 latitude: 48.42456
 longitude: -123.36371
-postcode: "V8W 1H2"
+postcode: V8W 1H2
 city: Victoria
-street: "Fort Street"
-housenumber: 764
+street: Fort Street
+housenumber: "764"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 545925319
-type: way
+type: node
 latitude: 50.70003
 longitude: -119.28887
-postcode: "V1E 1E4"
+postcode: V1E 1E4
 city: Salmon Arm
-street: "3 Street Northwest"
-housenumber: 50
-phone: "+1-250-832-5255"
+street: 3 Street Northwest
+housenumber: "50"
+phone: +1-250-832-5255
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 721781985
-type: way
+type: node
 latitude: 49.10965
 longitude: -122.66957
 postcode: ""
 city: Langley
-street: "Fraser Highway"
-housenumber: 19987
+street: Fraser Highway
+housenumber: "19987"
 phone: ""
 opening_hours: ""
 website: ""

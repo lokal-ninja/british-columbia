@@ -4,8 +4,8 @@ latitude: 49.2821
 longitude: -123.12285
 postcode: ""
 city: Vancouver
-street: "Hornby Street"
-housenumber: 851
+street: Hornby Street
+housenumber: "851"
 phone: ""
-opening_hours: "by appointment only"
+opening_hours: '"by appointment only"'
 website: ""

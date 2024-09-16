@@ -1,11 +1,11 @@
 id: 515326075
-type: way
+type: node
 latitude: 49.3238
 longitude: -123.11834
 postcode: ""
 city: District of North Vancouver
-street: "Marine Drive"
-housenumber: 1765
+street: Marine Drive
+housenumber: "1765"
 phone: ""
 opening_hours: ""
 website: ""

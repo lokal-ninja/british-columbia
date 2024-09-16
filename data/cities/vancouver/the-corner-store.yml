@@ -4,8 +4,8 @@ latitude: 49.26191
 longitude: -123.10126
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 2601
-phone: "+1-604-602-1668"
+street: Main Street
+housenumber: "2601"
+phone: +1-604-602-1668
 opening_hours: ""
-website: "https://cornerstorevancouver.com/"
+website: https://cornerstorevancouver.com/

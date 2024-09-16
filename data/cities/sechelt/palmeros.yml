@@ -1,11 +1,11 @@
 id: 1306733885
-type: way
+type: node
 latitude: 49.47235
 longitude: -123.75454
-postcode: "V0N 3A0"
+postcode: V0N 3A0
 city: Sechelt
-street: "Wharf Road"
-housenumber: 5514
+street: Wharf Road
+housenumber: "5514"
 phone: ""
 opening_hours: ""
 website: ""

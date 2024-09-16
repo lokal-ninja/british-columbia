@@ -1,11 +1,11 @@
 id: 1014457103
-type: way
+type: node
 latitude: 49.40757
 longitude: -123.51854
 postcode: ""
 city: Gibsons
-street: "Gibsons Way;Hwy 101;Sunshine Coast Highway"
-housenumber: 876
+street: Gibsons Way;Hwy 101;Sunshine Coast Highway
+housenumber: "876"
 phone: ""
 opening_hours: ""
 website: ""

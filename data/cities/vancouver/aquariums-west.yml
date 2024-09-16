@@ -4,8 +4,8 @@ latitude: 49.27763
 longitude: -123.11368
 postcode: ""
 city: Vancouver
-street: "Beatty Street"
-housenumber: 788
-phone: "+1-604-669-9249"
-opening_hours: "Mo-Fr 11:00-17:00; Sa-Su 11:00-18:00"
-website: "https://aquariumswest.com/"
+street: Beatty Street
+housenumber: "788"
+phone: +1-604-669-9249
+opening_hours: Mo-Fr 11:00-17:00; Sa-Su 11:00-18:00
+website: https://aquariumswest.com/

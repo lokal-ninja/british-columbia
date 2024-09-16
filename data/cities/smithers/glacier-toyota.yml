@@ -1,11 +1,11 @@
 id: 192808685
-type: way
+type: node
 latitude: 54.77112
 longitude: -127.14174
-postcode: "V0J 2N0"
+postcode: V0J 2N0
 city: Smithers
-street: "Tatlow Road"
-housenumber: 3187
-phone: "+1-250-847-9302"
-opening_hours: "Tu-Sa 08:00-18:00"
-website: "https://glaciertoyota.ca/"
+street: Tatlow Road
+housenumber: "3187"
+phone: +1-250-847-9302
+opening_hours: Tu-Sa 08:00-18:00
+website: https://glaciertoyota.ca/

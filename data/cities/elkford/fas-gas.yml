@@ -1,11 +1,11 @@
 id: 542995271
-type: way
+type: node
 latitude: 50.02208
 longitude: -114.91727
-postcode: "V0B 1H0"
+postcode: V0B 1H0
 city: Elkford
-street: "Alpine Way"
-housenumber: 60
-phone: "+1-250-865-2415"
+street: Alpine Way
+housenumber: "60"
+phone: +1-250-865-2415
 opening_hours: ""
 website: ""

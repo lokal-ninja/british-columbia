@@ -1,11 +1,11 @@
 id: 504768131
-type: way
+type: node
 latitude: 49.47401
 longitude: -123.75377
-postcode: "V0N 3A0"
+postcode: V0N 3A0
 city: Sechelt
-street: "Sunshine Coast Highway"
-housenumber: 5629
-phone: "+1 604 885 9417"
-opening_hours: "Tu-Sa 09:30-17:30"
+street: Sunshine Coast Highway
+housenumber: "5629"
+phone: +1 604 885 9417
+opening_hours: Tu-Sa 09:30-17:30
 website: ""

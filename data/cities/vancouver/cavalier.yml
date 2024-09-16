@@ -4,8 +4,8 @@ latitude: 49.28289
 longitude: -123.10987
 postcode: ""
 city: Vancouver
-street: "West Hastings Street"
-housenumber: 217
+street: West Hastings Street
+housenumber: "217"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

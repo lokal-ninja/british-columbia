@@ -4,8 +4,8 @@ latitude: 49.27451
 longitude: -123.12352
 postcode: ""
 city: Vancouver
-street: "Hamilton Street"
-housenumber: 1243
-phone: "+1-604-979-8809"
+street: Hamilton Street
+housenumber: "1243"
+phone: +1-604-979-8809
 opening_hours: ""
-website: "https://www.topknotbeautyroom.com/"
+website: https://www.topknotbeautyroom.com/

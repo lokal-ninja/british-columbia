@@ -1,11 +1,11 @@
 id: 1290543703
-type: way
+type: node
 latitude: 54.8335
 longitude: -127.20765
 postcode: ""
 city: Smithers
-street: "Lake Kathlyn Junction Road"
-housenumber: 4860
-phone: "+1-250-643-3044"
+street: Lake Kathlyn Junction Road
+housenumber: "4860"
+phone: +1-250-643-3044
 opening_hours: ""
-website: "https://simplygusrv.com"
+website: https://simplygusrv.com

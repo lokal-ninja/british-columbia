@@ -5,7 +5,7 @@ longitude: -123.00233
 postcode: ""
 city: Burnaby
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.llbean.ca/Burnaby.html"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.llbean.ca/Burnaby.html

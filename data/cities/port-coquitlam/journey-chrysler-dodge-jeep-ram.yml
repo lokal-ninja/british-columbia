@@ -1,11 +1,11 @@
 id: 1220640609
-type: way
+type: node
 latitude: 49.25715
 longitude: -122.74968
-postcode: "V3B8G7"
+postcode: V3B8G7
 city: Port Coquitlam
-street: "Dominion Avenue"
-housenumber: 1300
+street: Dominion Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

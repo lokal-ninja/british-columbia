@@ -1,11 +1,11 @@
 id: 536743358
-type: way
+type: node
 latitude: 49.20391
 longitude: -123.13134
-postcode: "V6P 5Z3"
+postcode: V6P 5Z3
 city: Vancouver
-street: "Southwest Marine Drive"
-housenumber: 1098
-phone: "+1 (604) 738-9717"
+street: Southwest Marine Drive
+housenumber: "1098"
+phone: +1 (604) 738-9717
 opening_hours: ""
-website: "https://www.windsorplywood.com/location/vancouver/"
+website: https://www.windsorplywood.com/location/vancouver/

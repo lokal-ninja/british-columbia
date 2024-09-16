@@ -1,11 +1,12 @@
 id: 577896312
-type: way
+type: node
 latitude: 49.27703
 longitude: -123.07121
-postcode: "V5L 2H1"
+postcode: V5L 2H1
 city: Vancouver
-street: "Venables Street"
-housenumber: 1675
-phone: "+1-604-558-3822"
-opening_hours: "PH 12:00-23:00; Su-Th 12:00-23:00; Fr-Sa 12:00-23:59; Dec 24 12:00-18:00; Dec 25 off; Dec 31 12:00-21:00"
-website: "https://www.eastvanbrewing.com/"
+street: Venables Street
+housenumber: "1675"
+phone: +1-604-558-3822
+opening_hours: PH 12:00-23:00; Su-Th 12:00-23:00; Fr-Sa 12:00-23:59; Dec 24 12:00-18:00;
+    Dec 25 off; Dec 31 12:00-21:00
+website: https://www.eastvanbrewing.com/

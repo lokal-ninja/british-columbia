@@ -2,10 +2,10 @@ id: 4499133618
 type: node
 latitude: 49.28101
 longitude: -123.05618
-postcode: "V5K 1Z1"
+postcode: V5K 1Z1
 city: Vancouver
-street: "East Hastings Street"
-housenumber: 2406
-phone: "+1-604-423-3557"
+street: East Hastings Street
+housenumber: "2406"
+phone: +1-604-423-3557
 opening_hours: ""
-website: "https://eggscanna.ca/"
+website: https://eggscanna.ca/

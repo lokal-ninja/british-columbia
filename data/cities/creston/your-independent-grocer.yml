@@ -1,11 +1,11 @@
 id: 219619149
-type: way
+type: node
 latitude: 49.09433
 longitude: -116.50999
 postcode: ""
 city: Creston
-street: "Cook Street"
-housenumber: 1501
+street: Cook Street
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

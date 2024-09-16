@@ -4,8 +4,8 @@ latitude: 49.27611
 longitude: -123.11529
 postcode: ""
 city: Vancouver
-street: "Smithe Street"
-housenumber: 86
+street: Smithe Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa,Su 11:00-18:00"
-website: "https://www.luxurialaserspa.com/"
+opening_hours: Mo-Fr 10:30-19:30; Sa,Su 11:00-18:00
+website: https://www.luxurialaserspa.com/

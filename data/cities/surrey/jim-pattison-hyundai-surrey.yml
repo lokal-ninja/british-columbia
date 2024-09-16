@@ -1,11 +1,11 @@
 id: 173387978
-type: way
+type: node
 latitude: 49.19712
 longitude: -122.79524
 postcode: ""
 city: Surrey
-street: "Guildford Drive"
-housenumber: 15365
-phone: "+1-866-768-6885"
+street: Guildford Drive
+housenumber: "15365"
+phone: +1-866-768-6885
 opening_hours: ""
-website: "https://www.jphyundaisurrey.com/"
+website: https://www.jphyundaisurrey.com/

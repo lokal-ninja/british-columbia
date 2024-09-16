@@ -2,10 +2,10 @@ id: 4625671015
 type: node
 latitude: 49.28127
 longitude: -123.08515
-postcode: "V6A 1R8"
+postcode: V6A 1R8
 city: Vancouver
-street: "East Hastings Street"
-housenumber: 895
-phone: "+1-778-379-9050"
-opening_hours: "Mo-Th 12:00-23:00; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-23:00"
-website: "https://strathconabeer.com/"
+street: East Hastings Street
+housenumber: "895"
+phone: +1-778-379-9050
+opening_hours: Mo-Th 12:00-23:00; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-23:00
+website: https://strathconabeer.com/

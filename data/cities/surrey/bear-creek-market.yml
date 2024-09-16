@@ -1,11 +1,11 @@
 id: 778949801
-type: way
+type: node
 latitude: 49.16257
 longitude: -122.83435
 postcode: ""
 city: Surrey
-street: "140 Street"
-housenumber: 8776
-phone: "+1-604-591-6182"
+street: 140 Street
+housenumber: "8776"
+phone: +1-604-591-6182
 opening_hours: ""
 website: ""

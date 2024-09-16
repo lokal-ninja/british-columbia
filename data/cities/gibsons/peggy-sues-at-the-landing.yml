@@ -1,11 +1,11 @@
 id: 619965970
-type: way
+type: node
 latitude: 49.40137
 longitude: -123.50727
 postcode: ""
 city: Gibsons
-street: "Gower Point Road"
-housenumber: 308
+street: Gower Point Road
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00; Su 12:00-16:00"
+opening_hours: Mo-Sa 11:00-17:00; Su 12:00-16:00
 website: ""

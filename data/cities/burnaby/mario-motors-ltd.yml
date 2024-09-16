@@ -1,11 +1,11 @@
 id: 159260930
-type: way
+type: node
 latitude: 49.22395
 longitude: -122.93371
 postcode: ""
 city: Burnaby
-street: "6th Street"
-housenumber: 7472
+street: 6th Street
+housenumber: "7472"
 phone: ""
 opening_hours: ""
 website: ""

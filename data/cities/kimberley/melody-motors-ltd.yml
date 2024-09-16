@@ -1,11 +1,11 @@
 id: 159756203
-type: way
+type: node
 latitude: 49.63487
 longitude: -115.94377
-postcode: "V1A 3G9"
+postcode: V1A 3G9
 city: Kimberley
-street: "316th Avenue"
-housenumber: 388
+street: 316th Avenue
+housenumber: "388"
 phone: ""
 opening_hours: ""
 website: ""

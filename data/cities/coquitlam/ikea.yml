@@ -1,11 +1,11 @@
 id: 71075674
-type: way
+type: node
 latitude: 49.23488
 longitude: -122.8651
-postcode: "V3K 3T5"
+postcode: V3K 3T5
 city: Coquitlam
-street: "Lougheed Highway"
-housenumber: 1000
-phone: "+1-866-313-4532"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.ikea.com/"
+street: Lougheed Highway
+housenumber: "1000"
+phone: +1-866-313-4532
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.ikea.com/

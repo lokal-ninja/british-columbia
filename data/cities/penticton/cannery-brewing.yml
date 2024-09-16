@@ -1,11 +1,11 @@
 id: 430097933
-type: way
+type: node
 latitude: 49.50099
 longitude: -119.59043
 postcode: ""
 city: Penticton
-street: "Ellis Street"
-housenumber: 198
+street: Ellis Street
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://www.cannerybrewing.com/"
+website: https://www.cannerybrewing.com/

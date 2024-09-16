@@ -1,11 +1,11 @@
 id: 652926153
-type: way
+type: node
 latitude: 50.13647
 longitude: -122.95631
-postcode: "V8E 1L6"
+postcode: V8E 1L6
 city: Whistler
-street: "Nesters Road"
-housenumber: 8080
-phone: "+1-604-966-8080"
+street: Nesters Road
+housenumber: "8080"
+phone: +1-604-966-8080
 opening_hours: ""
-website: "http://nestersstorage.ca/"
+website: http://nestersstorage.ca/

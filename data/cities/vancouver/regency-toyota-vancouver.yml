@@ -1,11 +1,11 @@
 id: 293134536
-type: way
+type: node
 latitude: 49.25943
 longitude: -123.09535
 postcode: ""
 city: Vancouver
-street: "Kingsway"
-housenumber: 401
+street: Kingsway
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

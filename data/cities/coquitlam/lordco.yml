@@ -1,11 +1,11 @@
 id: 160845062
-type: way
+type: node
 latitude: 49.26056
 longitude: -122.89153
 postcode: ""
 city: Coquitlam
-street: "Clarke Road"
-housenumber: 525
+street: Clarke Road
+housenumber: "525"
 phone: ""
 opening_hours: ""
-website: "https://www.lordco.com/"
+website: https://www.lordco.com/

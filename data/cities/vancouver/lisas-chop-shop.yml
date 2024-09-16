@@ -4,8 +4,8 @@ latitude: 49.28067
 longitude: -123.10784
 postcode: ""
 city: Vancouver
-street: "Abbott Street"
-housenumber: 519
+street: Abbott Street
+housenumber: "519"
 phone: ""
-opening_hours: "Tu,We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-18:00"
-website: "http://www.chopshophair.com"
+opening_hours: Tu,We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-18:00
+website: http://www.chopshophair.com

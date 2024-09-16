@@ -4,8 +4,8 @@ latitude: 49.28089
 longitude: -123.015
 postcode: ""
 city: Burnaby
-street: "Hastings Street"
-housenumber: 4058
-phone: "+1-604-291-0674"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://valleybakery.com/"
+street: Hastings Street
+housenumber: "4058"
+phone: +1-604-291-0674
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; PH "off"
+website: https://valleybakery.com/

@@ -1,11 +1,11 @@
 id: 255868040
-type: way
+type: node
 latitude: 49.10594
 longitude: -122.68721
 postcode: ""
 city: Surrey
-street: "Langley Bypass"
-housenumber: 19330
+street: Langley Bypass
+housenumber: "19330"
 phone: ""
 opening_hours: ""
 website: ""

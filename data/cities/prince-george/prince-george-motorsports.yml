@@ -1,11 +1,11 @@
 id: 670791615
-type: way
+type: node
 latitude: 53.90531
 longitude: -122.75669
-postcode: "V2L 2N5"
+postcode: V2L 2N5
 city: Prince George
-street: "Redwood Street"
-housenumber: 2005
-phone: "+1 250 562 4151"
-opening_hours: "Tu-Sa 09:00-17:30"
-website: "https://www.pgmotorsports.ca/"
+street: Redwood Street
+housenumber: "2005"
+phone: +1 250 562 4151
+opening_hours: Tu-Sa 09:00-17:30
+website: https://www.pgmotorsports.ca/

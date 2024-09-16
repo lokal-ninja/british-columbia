@@ -1,11 +1,11 @@
 id: 768307437
-type: way
+type: node
 latitude: 52.12715
 longitude: -122.13922
 postcode: ""
 city: Williams Lake
-street: "Oliver Street"
-housenumber: 451
+street: Oliver Street
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

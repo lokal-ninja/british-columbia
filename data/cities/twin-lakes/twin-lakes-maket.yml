@@ -1,11 +1,11 @@
 id: 545297973
-type: way
+type: node
 latitude: 49.34505
 longitude: -119.7191
-postcode: "L1M 1C1"
+postcode: L1M 1C1
 city: Twin Lakes
-street: "BC-3A"
-housenumber: 1066
-phone: "+1-250-497-5639"
+street: BC-3A
+housenumber: "1066"
+phone: +1-250-497-5639
 opening_hours: ""
 website: ""

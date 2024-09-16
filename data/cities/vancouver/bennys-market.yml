@@ -4,8 +4,8 @@ latitude: 49.27742
 longitude: -123.09184
 postcode: ""
 city: Vancouver
-street: "Union Street"
-housenumber: 598
+street: Union Street
+housenumber: "598"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00; Su, PH off"
-website: "http://www.bennyfoods.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00; Su, PH off
+website: http://www.bennyfoods.com/

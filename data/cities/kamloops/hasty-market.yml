@@ -1,11 +1,11 @@
 id: 125445856
-type: way
+type: node
 latitude: 50.70573
 longitude: -120.36442
-postcode: "V2B"
+postcode: V2B
 city: Kamloops
-street: "8th Street"
-housenumber: 1105
+street: 8th Street
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

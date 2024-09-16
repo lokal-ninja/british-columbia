@@ -1,11 +1,11 @@
 id: 722378730
-type: way
+type: node
 latitude: 48.42981
 longitude: -123.4163
-postcode: "V9A 2N5"
+postcode: V9A 2N5
 city: Esquimalt
-street: "Lyall Street"
-housenumber: 533
-phone: "+1-250-590-5883"
-opening_hours: "Mo-Su 09:00-23:00"
+street: Lyall Street
+housenumber: "533"
+phone: +1-250-590-5883
+opening_hours: Mo-Su 09:00-23:00
 website: ""

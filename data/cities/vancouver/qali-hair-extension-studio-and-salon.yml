@@ -4,8 +4,8 @@ latitude: 49.27843
 longitude: -123.09853
 postcode: ""
 city: Vancouver
-street: "East Georgia Street"
-housenumber: 236
-phone: "+1-604-423-4088"
+street: East Georgia Street
+housenumber: "236"
+phone: +1-604-423-4088
 opening_hours: ""
-website: "https://qali.com/"
+website: https://qali.com/

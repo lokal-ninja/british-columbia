@@ -1,11 +1,11 @@
 id: 360820726
-type: way
+type: node
 latitude: 49.09055
 longitude: -118.67785
-postcode: "V0H 1J0"
+postcode: V0H 1J0
 city: Greenwood
-street: "South Copper Avenue"
-housenumber: 197
+street: South Copper Avenue
+housenumber: "197"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-07:00"
-website: "http://www.shoestringimporters.com/index.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-07:00
+website: http://www.shoestringimporters.com/index.html

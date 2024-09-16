@@ -1,11 +1,11 @@
 id: 198857949
-type: way
+type: node
 latitude: 52.97935
 longitude: -122.49818
 postcode: ""
 city: Quesnel
-street: "Reid Street"
-housenumber: 445
+street: Reid Street
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

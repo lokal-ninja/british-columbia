@@ -4,8 +4,8 @@ latitude: 49.28651
 longitude: -123.14091
 postcode: ""
 city: Vancouver
-street: "Davie Street"
-housenumber: 1736
+street: Davie Street
+housenumber: "1736"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr, Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://quicknickel.ca/"
+opening_hours: Mo-Th 10:00-19:00; Fr, Sa 10:00-20:00; Su 11:00-19:00
+website: https://quicknickel.ca/

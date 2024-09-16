@@ -1,11 +1,11 @@
 id: 721781984
-type: way
+type: node
 latitude: 49.1112
 longitude: -122.67654
 postcode: ""
 city: Langley
-street: "Langley Bypass"
-housenumber: 19764
+street: Langley Bypass
+housenumber: "19764"
 phone: ""
 opening_hours: ""
 website: ""

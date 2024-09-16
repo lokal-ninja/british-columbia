@@ -4,8 +4,8 @@ latitude: 49.27407
 longitude: -123.12736
 postcode: ""
 city: Vancouver
-street: "Richards Street"
-housenumber: 1391
+street: Richards Street
+housenumber: "1391"
 phone: ""
 opening_hours: ""
-website: "https://choom.ca/"
+website: https://choom.ca/

@@ -1,11 +1,11 @@
 id: 377085482
-type: way
+type: node
 latitude: 49.50975
 longitude: -119.57398
-postcode: "V2A 8T6"
+postcode: V2A 8T6
 city: Penticton
-street: "Tupper Avenue"
-housenumber: 1010
-phone: "+1-250-493-9463"
+street: Tupper Avenue
+housenumber: "1010"
+phone: +1-250-493-9463
 opening_hours: ""
-website: "https://www.monstervineyards.ca/"
+website: https://www.monstervineyards.ca/

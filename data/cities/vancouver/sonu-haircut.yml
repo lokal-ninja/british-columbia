@@ -4,8 +4,8 @@ latitude: 49.23056
 longitude: -123.09046
 postcode: ""
 city: Vancouver
-street: "Fraser Street"
-housenumber: 5934
-phone: "+1-604-322-1555"
+street: Fraser Street
+housenumber: "5934"
+phone: +1-604-322-1555
 opening_hours: ""
-website: "https://sonuhaircut.com/"
+website: https://sonuhaircut.com/

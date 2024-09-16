@@ -1,11 +1,11 @@
 id: 953687122
-type: way
+type: node
 latitude: 49.17108
 longitude: -123.0798
 postcode: ""
 city: Richmond
-street: "Smallwood Place"
-housenumber: 13100
+street: Smallwood Place
+housenumber: "13100"
 phone: ""
 opening_hours: ""
 website: ""

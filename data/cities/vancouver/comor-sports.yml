@@ -4,8 +4,8 @@ latitude: 49.26821
 longitude: -123.14527
 postcode: ""
 city: Vancouver
-street: "West 4th Avenue"
-housenumber: 1787
-phone: "+1-604-736-7547"
-opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://comorsports.com"
+street: West 4th Avenue
+housenumber: "1787"
+phone: +1-604-736-7547
+opening_hours: Mo-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://comorsports.com

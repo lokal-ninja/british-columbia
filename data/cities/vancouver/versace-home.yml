@@ -4,8 +4,8 @@ latitude: 49.28215
 longitude: -123.11127
 postcode: ""
 city: Vancouver
-street: "West Pender Street"
-housenumber: 300
+street: West Pender Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://majorinteriors.ca/"
+website: https://majorinteriors.ca/

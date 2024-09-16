@@ -1,11 +1,11 @@
 id: 377103149
-type: way
+type: node
 latitude: 49.50379
 longitude: -119.59111
-postcode: "V2A 1H5"
+postcode: V2A 1H5
 city: Penticton
-street: "Marina Way"
-housenumber: 199
+street: Marina Way
+housenumber: "199"
 phone: ""
-opening_hours: "SH Tu-Fr 10:00-17:00; SH Sa 11:00-16:00"
-website: "https://www.pentictonartgallery.com/"
+opening_hours: SH Tu-Fr 10:00-17:00; SH Sa 11:00-16:00
+website: https://www.pentictonartgallery.com/

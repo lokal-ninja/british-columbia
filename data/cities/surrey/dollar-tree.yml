@@ -1,11 +1,11 @@
 id: 26755118
-type: way
+type: node
 latitude: 49.03423
 longitude: -122.80307
 postcode: ""
 city: Surrey
-street: "18 Avenue"
-housenumber: 15150
+street: 18 Avenue
+housenumber: "15150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 623042151
-type: way
+type: node
 latitude: 49.17742
 longitude: -122.89641
-postcode: "V4C 3W7"
+postcode: V4C 3W7
 city: Surrey
-street: "117B Street"
-housenumber: 9601
+street: 117B Street
+housenumber: "9601"
 phone: ""
 opening_hours: ""
 website: ""

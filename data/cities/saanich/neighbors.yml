@@ -1,11 +1,11 @@
 id: 137574825
-type: way
+type: node
 latitude: 48.46141
 longitude: -123.33251
 postcode: ""
 city: Saanich
-street: "Cedar Hill Cross Road"
-housenumber: 1580
+street: Cedar Hill Cross Road
+housenumber: "1580"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220736437
-type: way
+type: node
 latitude: 49.10459
 longitude: -122.66387
-postcode: "V3A 3Y6"
+postcode: V3A 3Y6
 city: Langley
-street: "56 Avenue"
-housenumber: 20171
+street: 56 Avenue
+housenumber: "20171"
 phone: ""
 opening_hours: ""
 website: ""

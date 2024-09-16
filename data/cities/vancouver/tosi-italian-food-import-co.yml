@@ -4,8 +4,8 @@ latitude: 49.27909
 longitude: -123.09949
 postcode: ""
 city: Vancouver
-street: "Main Street"
-housenumber: 624
-phone: "+1-604-681-5740"
+street: Main Street
+housenumber: "624"
+phone: +1-604-681-5740
 opening_hours: ""
-website: "http://tosifoods.com"
+website: http://tosifoods.com
