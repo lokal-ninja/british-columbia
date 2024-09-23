@@ -1,6 +1,6 @@
 ---
 title: Tlell
 url: /tlell/
-latitude: 53.562
-longitude: -131.93
+latitude: 53.564
+longitude: -131.943
 ---
