@@ -1,6 +1,6 @@
 ---
 title: Campbell River
 url: /campbell-river/
-latitude: 49.971
-longitude: -125.218
+latitude: 50.036
+longitude: -125.248
 ---
