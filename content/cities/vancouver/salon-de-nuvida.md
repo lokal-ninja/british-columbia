@@ -1,0 +1,5 @@
+---
+title: "Salon de Nuvida"
+url: /vancouver/salon-de-nuvida/
+shop: hairdresser
+---
