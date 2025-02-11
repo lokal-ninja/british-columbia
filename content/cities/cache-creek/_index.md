@@ -1,6 +1,6 @@
 ---
 title: Cache Creek
 url: /cache-creek/
-latitude: 50.829
-longitude: -121.35
+latitude: 50.809
+longitude: -121.324
 ---

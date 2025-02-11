@@ -7,5 +7,5 @@ city: Vancouver
 street: Anderson Street
 housenumber: "1833"
 phone: +1-604-731-3338
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
 website: https://glamstarbeauty.com/
