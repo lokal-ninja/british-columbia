@@ -1,6 +1,6 @@
 ---
 title: Sooke
 url: /sooke/
-latitude: 48.379
-longitude: -123.719
+latitude: 48.39
+longitude: -123.679
 ---
