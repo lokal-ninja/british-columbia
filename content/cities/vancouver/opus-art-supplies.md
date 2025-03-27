@@ -1,5 +1,5 @@
 ---
-title: "OPUS Art Supplies"
+title: "Opus Art Supplies"
 url: /vancouver/opus-art-supplies/
 shop: art
 ---
