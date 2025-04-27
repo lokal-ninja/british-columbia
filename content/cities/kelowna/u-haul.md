@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /abbotsford/u-haul-hazelwood-avenue/
+url: /kelowna/u-haul/
 shop: storage rental
 ---
