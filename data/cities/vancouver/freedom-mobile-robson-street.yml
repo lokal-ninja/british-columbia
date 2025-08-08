@@ -7,5 +7,5 @@ city: Vancouver
 street: Robson Street
 housenumber: "336"
 phone: +1-604-401-9555
-opening_hours: Mo-Sa 10:30-18:30
+opening_hours: Mo-Sa 10:30-18:30; Su 11:00-17:00
 website: ""
