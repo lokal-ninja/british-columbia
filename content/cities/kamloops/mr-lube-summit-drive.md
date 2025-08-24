@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lube"
-url: /kamloops/mr-lube-briar-avenue/
+url: /kamloops/mr-lube-summit-drive/
 shop: car repair
 ---
