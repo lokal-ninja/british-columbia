@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army Thrift Store"
 url: /vancouver/salvation-army-thrift-store/
-shop: charity
+shop: vacant
 ---
