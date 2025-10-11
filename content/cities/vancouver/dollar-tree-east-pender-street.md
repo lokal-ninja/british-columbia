@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /vancouver/dollar-tree-fraser-street/
+url: /vancouver/dollar-tree-east-pender-street/
 shop: variety store
 ---

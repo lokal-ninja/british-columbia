@@ -1,5 +1,5 @@
 ---
-title: "The Bargain Shop"
+title: "The Bargain! Shop"
 url: /enderby/the-bargain-shop/
-shop: shop
+shop: variety store
 ---
