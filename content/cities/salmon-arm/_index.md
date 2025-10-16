@@ -1,6 +1,6 @@
 ---
 title: Salmon Arm
 url: /salmon-arm/
-latitude: 50.693
-longitude: -119.314
+latitude: 50.694
+longitude: -119.316
 ---
