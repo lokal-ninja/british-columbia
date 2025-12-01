@@ -6,6 +6,6 @@ postcode: V1Y 6H7
 city: Kelowna
 street: Enterprise Way
 housenumber: "2250"
-phone: +1-250-868-2330 "Sales";+1-250-868-2391 "Service"
+phone: +1-250-868-2330; +1-250-868-2391
 opening_hours: Mo-Sa 08:00-18:00 "Sales"; Mo-Fr 07:30-17:00 "Service"
 website: https://www.kelownaford.com/

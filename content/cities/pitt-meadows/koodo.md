@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /pitt-meadows/koodo/
-shop: electronics
+shop: mobile phone
 ---
