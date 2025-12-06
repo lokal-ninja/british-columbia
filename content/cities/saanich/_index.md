@@ -1,6 +1,6 @@
 ---
 title: Saanich
 url: /saanich/
-latitude: 48.461
-longitude: -123.297
+latitude: 48.469
+longitude: -123.331
 ---
