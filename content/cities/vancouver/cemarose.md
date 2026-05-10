@@ -1,5 +1,5 @@
 ---
-title: "Cemarose"
+title: "Cémarose"
 url: /vancouver/cemarose/
 shop: clothes
 ---
