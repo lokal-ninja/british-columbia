@@ -1,5 +1,5 @@
 ---
-title: "U-HAUL"
+title: "U-Haul"
 url: /abbotsford/u-haul/
-shop: shop
+shop: storage rental
 ---
