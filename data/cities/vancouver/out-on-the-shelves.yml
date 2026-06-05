@@ -7,5 +7,5 @@ city: Vancouver
 street: Duranleau Street
 housenumber: "1555"
 phone: ""
-opening_hours: Mo-Sa 10:00-18:00; Su 13:00-18:00
+opening_hours: Mo-Sa 10:00-18:00; Su 13:00-18:00; PH "off"
 website: https://outontheshelveslibrary.com/
