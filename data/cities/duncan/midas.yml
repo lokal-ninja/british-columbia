@@ -7,5 +7,5 @@ city: Duncan
 street: Beverly Street
 housenumber: "2648"
 phone: "+12368003137"
-opening_hours: Mo-Sa 08:00-17:30
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:30
 website: https://www.midas.com/
