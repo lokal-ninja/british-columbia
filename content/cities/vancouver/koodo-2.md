@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
-url: /vancouver/koodo-fraser-street/
+url: /vancouver/koodo-2/
 shop: mobile phone
 ---

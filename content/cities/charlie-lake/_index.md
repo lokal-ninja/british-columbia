@@ -1,6 +1,6 @@
 ---
 title: Charlie Lake
 url: /charlie-lake/
-latitude: 56.524
-longitude: -121.233
+latitude: 56.253
+longitude: -120.895
 ---
