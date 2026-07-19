@@ -1,6 +1,6 @@
 ---
 title: Comox
 url: /comox/
-latitude: 49.689
-longitude: -124.937
+latitude: 49.674
+longitude: -124.928
 ---

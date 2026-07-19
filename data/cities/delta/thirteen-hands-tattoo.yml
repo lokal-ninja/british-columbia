@@ -7,5 +7,5 @@ city: Delta
 street: 56 Street
 housenumber: "1077"
 phone: ""
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: https://www.thirteenhandstattoo.com/

@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /kamloops/canadian-tire/
-shop: car repair
+shop: department store
 ---

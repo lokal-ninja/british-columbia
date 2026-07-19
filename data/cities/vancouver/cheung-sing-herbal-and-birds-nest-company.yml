@@ -7,5 +7,5 @@ city: Vancouver
 street: Main Street
 housenumber: "536"
 phone: +1-604-899-1123
-opening_hours: 'Sa-Su, Th 9:30-17:30; Mo-We, Fr 10:00-17:30; '
+opening_hours: Sa-Su,Th 09:30-17:30; Mo-We,Fr 10:00-17:30
 website: ""

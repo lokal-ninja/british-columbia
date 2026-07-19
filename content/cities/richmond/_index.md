@@ -1,6 +1,6 @@
 ---
 title: Richmond
 url: /richmond/
-latitude: 49.144
-longitude: -123.159
+latitude: 49.132
+longitude: -123.096
 ---
