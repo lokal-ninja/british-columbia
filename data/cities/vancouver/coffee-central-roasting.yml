@@ -7,5 +7,5 @@ city: Vancouver
 street: Clark Drive
 housenumber: "550"
 phone: +1-604-616-2020
-opening_hours: appointment
+opening_hours: '"by appointment"'
 website: https://coffeecentralroasting.com/
