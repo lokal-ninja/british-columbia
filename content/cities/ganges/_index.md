@@ -1,6 +1,6 @@
 ---
 title: Ganges
 url: /ganges/
-latitude: 48.853
-longitude: -123.516
+latitude: 48.854
+longitude: -123.5
 ---
