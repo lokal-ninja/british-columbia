@@ -6,6 +6,7 @@ postcode: ""
 city: Vancouver
 street: West Broadway
 housenumber: "1062"
-phone: ""
-opening_hours: ""
-website: ""
+phone: +1-604-662-7368
+opening_hours: Mo[1-2] 09:00-17:00; Tu,Th 12:00-19:00; We,Fr 09:00-17:00; Sa[1-2]
+    09:00-17:00; Su off
+website: https://www.curlaser.com/
