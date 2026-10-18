@@ -1,6 +1,6 @@
 ---
 title: Tumbler Ridge
 url: /tumbler-ridge/
-latitude: 55.123
-longitude: -120.992
+latitude: 55.127
+longitude: -120.999
 ---

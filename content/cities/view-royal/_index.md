@@ -1,6 +1,6 @@
 ---
 title: View Royal
 url: /view-royal/
-latitude: 48.448
-longitude: -123.428
+latitude: 48.45
+longitude: -123.426
 ---
